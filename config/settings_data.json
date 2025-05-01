@@ -10,6 +10,7 @@
 {
   "current": {
     "section_vertical_spacing": "md",
+    "default_color_scheme": "scheme-2",
     "product_rating_color": "#1c1c1c",
     "product_on_sale_accent": "#e32c2b",
     "product_sold_out_badge_background": "#efefef",
@@ -17,10 +18,10 @@
     "success_color": "#307a07",
     "warning_color": "#ed8a00",
     "error_color": "#cb2b2b",
-    "heading_font": "instrument_sans_n4",
+    "heading_font": "lato_n4",
     "heading_text_transform": "uppercase",
     "heading_letter_spacing": 5,
-    "text_font": "nunito_n4",
+    "text_font": "lato_n4",
     "text_font_size_desktop": 14,
     "text_font_letter_spacing": 8,
     "button_text_font": "heading",
