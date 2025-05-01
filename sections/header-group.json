@@ -26,7 +26,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "enable_sticky": false,
+        "enable_sticky": true,
         "autoplay": true,
         "cycle_speed": 5,
         "desktop_font_size": 11,
@@ -35,38 +35,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "mega_menu_XDpwxV": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "Wedding",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        },
-        "mega_menu_nNnyep": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "Shop",
-            "images_position": "right",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "mega_menu_XDpwxV",
-        "mega_menu_nNnyep"
-      ],
       "settings": {
         "color_scheme": "",
         "enable_sticky": true,
