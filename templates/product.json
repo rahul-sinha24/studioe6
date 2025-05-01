@@ -92,7 +92,7 @@
         "complementary_products"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "container_size": "lg",
         "product_info_size": 47,
         "show_sticky_add_to_cart": true,
