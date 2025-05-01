@@ -69,6 +69,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_kcF4jD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<section class=\"info-banner\">\n  <div class=\"info-container\">\n    <div class=\"info-item\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0330/1333/files/closed-cardboard-box-with-packing-tape.png?v=1745923342\" alt=\"Free Delivery Icon\">\n      <p>Free Delivery within US</p>\n    </div>\n    <div class=\"info-item\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0330/1333/files/chat.png?v=1745923342\" alt=\"Contact Us Icon\">\n      <p>Questions? <a href=\"#\">Contact us</a></p>\n    </div>\n    <div class=\"info-item\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0330/1333/files/plant-based.png?v=1745923343\" alt=\"Handcrafted Icon\">\n      <p>Handcrafted & Ethically Made</p>\n    </div>\n  </div>\n</section>\n\n<style>\n.info-banner {\n  border: 1px solid #012011;\n  padding: 20px;\n}\n\n.info-container {\n  display: flex;\n  justify-content: space-around;\n  align-items: center;\n  flex-wrap: wrap; /* ensures mobile responsiveness */\n  text-align: center;\n}\n\n.info-item {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  max-width: 200px;\n  margin: 1px;\n}\n\n.info-item img {\n  width: 40px;\n  height: 40px;\n  margin-bottom: 0px;\n}\n\n.info-item p {\n  font-size: 12px;\n  margin: 0;\n}\n\n.info-item a {\n  text-decoration: underline;\n  color: black;\n}\n</style>"
+          }
+        },
         "accordion_J64iDP": {
           "type": "accordion",
           "settings": {
@@ -116,7 +122,7 @@
         "accordion_HaanEH": {
           "type": "accordion",
           "settings": {
-            "show_below_gallery": true,
+            "show_below_gallery": false,
             "icon": "none",
             "title": "Designer's Customization",
             "content": "<p>Love the design but want a different<strong>color</strong>,<strong>neckline</strong>,<strong>or sleeve style</strong>? Our designers offer limited customization to make your outfit truly yours.<br/>Simply reach out to us after placing your order to discuss your preferences!<br/>WhatsApp or Email Us.</p>",
@@ -156,6 +162,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "liquid_kcF4jD",
         "accordion_J64iDP",
         "accordion_p9MWtG",
         "accordion_c7Lf7T",
