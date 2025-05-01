@@ -25,7 +25,7 @@
         "price": {
           "type": "price",
           "settings": {
-            "show_taxes_notice": false
+            "show_taxes_notice": true
           }
         },
         "payment_terms": {
