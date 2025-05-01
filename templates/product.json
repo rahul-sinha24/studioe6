@@ -32,16 +32,17 @@
           "type": "payment_terms",
           "settings": {}
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "collapse_content": false,
             "show_below_gallery": false
           }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -68,6 +69,72 @@
             "payment_button_text_color": ""
           }
         },
+        "accordion_J64iDP": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Description",
+            "content": "{{ product.description }}",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_p9MWtG": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Care Instructions",
+            "content": "<ul><li><strong>Dry clean only</strong>, especially for delicate fabrics like silk, brocade, velvet, chiffon, and net.</li><li><strong>Store in a breathable muslin or cotton garment bag</strong>, away from direct sunlight and humidity. Avoid plastic covers and fold with acid-free tissue to maintain shape and prevent color transfer.</li><li><strong>Handle with care</strong>—avoid direct contact with perfumes or sprays, use a steamer for creases, and never iron directly on embroidery or embellishments.</li></ul>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_c7Lf7T": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Custom & Duties",
+            "content": "<p>International orders may be subject to import duties, taxes, and customs fees, which are levied once the shipment reaches your country. These charges are <strong>not included</strong> in the product price or shipping cost and are the <strong>responsibility of the recipient</strong>.</p><p>Customs policies vary widely by country, so we recommend checking with your local customs office for more information.<br/><br/>Please note:</p><ul><li>Delays caused by customs are beyond our control.</li><li>Refusal to pay duties may result in the package being returned or destroyed, and <strong>no refunds</strong> will be issued in such cases.</li></ul>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_kUN6Ee": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Delivery Timeline",
+            "content": "<ul><li><strong>Ready to Ship:</strong> 8-10 Days</li><li><strong>Express Delivery:</strong> 4-7 Days</li><li><strong>Made to Order:</strong> 12-14 Weeks</li></ul>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_HaanEH": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "Designer's Customization",
+            "content": "<p>Love the design but want a different<strong>color</strong>,<strong>neckline</strong>,<strong>or sleeve style</strong>? Our designers offer limited customization to make your outfit truly yours.<br/>Simply reach out to us after placing your order to discuss your preferences!<br/>WhatsApp or Email Us.</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_keDeen": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Disclaimer",
+            "content": "<p>Please note that slight variations in color, texture, and embellishments may occur due to lighting, photography, and handcrafted techniques. These are not defects but part of the uniqueness of each outfit.<br/>Custom and made-to-order pieces are<strong>non-returnableand non-refundable</strong>.</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
         "complementary_products": {
           "type": "complementary_products",
           "settings": {
@@ -84,11 +151,17 @@
         "title",
         "price",
         "payment_terms",
-        "separator",
         "description",
+        "separator",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "accordion_J64iDP",
+        "accordion_p9MWtG",
+        "accordion_c7Lf7T",
+        "accordion_kUN6Ee",
+        "accordion_HaanEH",
+        "accordion_keDeen",
         "complementary_products"
       ],
       "settings": {
