@@ -198,13 +198,30 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_fPN9Ci": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "collection_aqweL6",
         "collection_CdWhUX",
         "collection_fibdGa",
-        "collection_WAJgYc"
+        "collection_WAJgYc",
+        "collection_fPN9Ci"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -213,7 +230,7 @@
         "image_size": "auto",
         "show_text_outside": false,
         "space_items": true,
-        "stack_collections": true,
+        "stack_collections": false,
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 4,
         "subheading": "",
