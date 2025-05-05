@@ -12,12 +12,11 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "video_Yf4EUJ": {
-          "type": "video",
+        "slide-1": {
+          "type": "image",
           "settings": {
-            "allow_sound": true,
             "subheading": "Tell your story",
-            "title": "Video slide",
+            "title": "Image slide",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -35,10 +34,10 @@
             "background_opacity": 50,
             "text_color": "#ffffff",
             "border_color": "",
-            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         },
-        "slide-1": {
+        "image_zEkTRn": {
           "type": "image",
           "settings": {
             "subheading": "Tell your story",
@@ -115,8 +114,8 @@
         }
       },
       "block_order": [
-        "video_Yf4EUJ",
         "slide-1",
+        "image_zEkTRn",
         "slide-2",
         "image_KJyP9N"
       ],
