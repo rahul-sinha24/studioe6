@@ -59,12 +59,46 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_m9Y3et": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_BLMHtM": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "collection_6VwYYK",
         "collection_6kegTy",
-        "collection_t4qfVk"
+        "collection_t4qfVk",
+        "collection_m9Y3et",
+        "collection_BLMHtM"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -80,7 +114,8 @@
         "title": "dsfvszdv",
         "content": "<p>sdvcasdvasdza</p>",
         "content_inline": true,
-        "left_image": "shopify://shop_images/DR_14735_81258e36-284c-4095-828b-ec1ad4bf1769.jpg"
+        "left_image": "shopify://shop_images/DR_14735_81258e36-284c-4095-828b-ec1ad4bf1769.jpg",
+        "content_color": "#ffffff"
       }
     },
     "timeline_8XcLnR": {
@@ -365,7 +400,8 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "content_inline": false
+        "content_inline": false,
+        "content_color": ""
       }
     },
     "featured-collections": {
@@ -624,7 +660,8 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "content_inline": false
+        "content_inline": false,
+        "content_color": ""
       }
     },
     "slideshow_3XUid7": {
@@ -924,7 +961,8 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "content_inline": false
+        "content_inline": false,
+        "content_color": ""
       }
     },
     "before-after": {
