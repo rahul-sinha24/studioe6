@@ -349,6 +349,115 @@
         "content_color": "#ffffff"
       }
     },
+    "collection_list_34TAbC": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_N8geNh": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_zizQMT": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_gbYwnY": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_LNUiWV": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_n9P9zg": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_N8geNh",
+        "collection_zizQMT",
+        "collection_gbYwnY",
+        "collection_LNUiWV",
+        "collection_n9P9zg"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "subheading": "dsfasgs",
+        "title": "dsfvszdv",
+        "content": "<p>sdvcasdvasdza</p>",
+        "content_inline": true,
+        "left_image": "shopify://shop_images/DR_14735_81258e36-284c-4095-828b-ec1ad4bf1769.jpg",
+        "content_color": "#ffffff"
+      }
+    },
     "timeline_8XcLnR": {
       "type": "timeline",
       "blocks": {
@@ -1172,6 +1281,7 @@
     "collection_list_hFiyRh",
     "collection_list_ByHyfH",
     "timeline_8XcLnR",
+    "collection_list_34TAbC",
     "featured-collections",
     "slideshow_hLVeyH",
     "collection_list_AdktG7",
