@@ -69,6 +69,11 @@
             {{- section.settings.image | image_url: width: section.settings.image.width | image_tag: sizes: auto, widths: image_widths, class: 'constrained-image', style: image_style_attribute -}}
           </div>
         {%- endif -%}
+        {%- if section.settings.video != blank -%}
+          <div class="collection_video_left">
+            {%- render 'media', media: section.settings.video, controls: true -%}
+          </div>
+        {%- endif -%}
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
 
         {% capture collection_list %}
