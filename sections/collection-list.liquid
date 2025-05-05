@@ -192,7 +192,9 @@
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
-    color: #fff;
+    {% if section.settings.content_inline != blank %}
+    color: {{ section.settings.content_color }};
+    {% endif %}
   }
 {% endstyle %}
 
@@ -324,6 +326,12 @@
       "type": "image_picker",
       "id": "left_image",
       "label": "Left Image"
+    },
+    {
+      "type": "color",
+      "label": "Color of content",
+      "id": "content_color",
+      "info": "It will work with inline content"
     }
   ],
   "blocks": [
