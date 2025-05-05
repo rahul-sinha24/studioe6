@@ -44,11 +44,11 @@
             "overlay_opacity": 30
           }
         },
-        "collection_t4qfVk": {
+        "collection_W74W7h": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "anita-dongre",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -60,11 +60,11 @@
             "overlay_opacity": 30
           }
         },
-        "collection_m9Y3et": {
+        "collection_wWeddx": {
           "type": "collection",
           "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "",
+            "color_scheme": "",
+            "collection": "anita-dongre",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -76,11 +76,11 @@
             "overlay_opacity": 30
           }
         },
-        "collection_BLMHtM": {
+        "collection_CzQnCY": {
           "type": "collection",
           "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "",
+            "color_scheme": "",
+            "collection": "anita-dongre",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -96,9 +96,9 @@
       "block_order": [
         "collection_6VwYYK",
         "collection_6kegTy",
-        "collection_t4qfVk",
-        "collection_m9Y3et",
-        "collection_BLMHtM"
+        "collection_W74W7h",
+        "collection_wWeddx",
+        "collection_CzQnCY"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
