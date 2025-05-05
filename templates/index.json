@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1800_x_800_px_for_desktop_1800x_078bcd1e-f15e-4e0d-bc59-d4d4955cae43.webp",
+            "mobile_image": "shopify://shop_images/1100_x_750_px_for_mobile_1_x800_24bb6fc9-12d0-493c-9bea-7c49eefbfa99.webp",
             "subheading": "Tell your story",
             "title": "Image slide",
             "mobile_text_position": "place-self-center text-center",
@@ -120,7 +122,7 @@
         "image_KJyP9N"
       ],
       "settings": {
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "show_next_section_button": true,
         "media_size": "auto",
         "show_initial_transition": false,
