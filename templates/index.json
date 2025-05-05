@@ -349,6 +349,62 @@
         "content_color": "#ffffff"
       }
     },
+    "timeline_8XcLnR": {
+      "type": "timeline",
+      "blocks": {
+        "item_3xrzNP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DIYARAJVVIR-20-02-2419237.jpg",
+            "label": "",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_tHYQ88": {
+          "type": "item",
+          "settings": {
+            "label": "2010",
+            "subheading": "Subheading",
+            "title": "2010",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_xHmXAC": {
+          "type": "item",
+          "settings": {
+            "label": "2020",
+            "subheading": "Subheading",
+            "title": "2020",
+            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_3xrzNP",
+        "item_tHYQ88",
+        "item_xHmXAC"
+      ],
+      "name": "t:sections.timeline.presets.timeline.name",
+      "settings": {
+        "color_scheme": "",
+        "item_color_scheme": "",
+        "separate_section_with_border": true
+      }
+    },
     "collection_list_34TAbC": {
       "type": "collection-list",
       "blocks": {
@@ -458,60 +514,165 @@
         "content_color": "#ffffff"
       }
     },
-    "timeline_8XcLnR": {
-      "type": "timeline",
+    "images_with_text_scroll_cUg4NH": {
+      "type": "images-with-text-scroll",
       "blocks": {
-        "item_3xrzNP": {
-          "type": "item",
+        "image_with_text_mAVay6": {
+          "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/DIYARAJVVIR-20-02-2419237.jpg",
-            "label": "",
             "subheading": "",
-            "title": "",
-            "content": "",
+            "title": "#1",
+            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
             "link_text": "",
             "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
+            "link_style": "solid"
           }
         },
-        "item_tHYQ88": {
-          "type": "item",
+        "image_with_text_NEnbLw": {
+          "type": "image_with_text",
           "settings": {
-            "label": "2010",
-            "subheading": "Subheading",
-            "title": "2010",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "subheading": "",
+            "title": "#2",
+            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
             "link_text": "",
             "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
+            "link_style": "solid"
           }
         },
-        "item_xHmXAC": {
-          "type": "item",
+        "image_with_text_BnQEfp": {
+          "type": "image_with_text",
           "settings": {
-            "label": "2020",
-            "subheading": "Subheading",
-            "title": "2020",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "subheading": "",
+            "title": "#3",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
             "link_text": "",
             "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
+            "link_style": "solid"
           }
         }
       },
       "block_order": [
-        "item_3xrzNP",
-        "item_tHYQ88",
-        "item_xHmXAC"
+        "image_with_text_mAVay6",
+        "image_with_text_NEnbLw",
+        "image_with_text_BnQEfp"
       ],
-      "name": "t:sections.timeline.presets.timeline.name",
+      "name": "t:sections.images_with_text_scroll.presets.images_with_text_scroll.name",
       "settings": {
         "color_scheme": "",
-        "item_color_scheme": "",
-        "separate_section_with_border": true
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h3",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "collection_list_mBWD3c": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_rCTNHb": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_weqbKn": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_q9r6xp": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_MCYtmz": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_JjrgTr": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anita-dongre",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_rCTNHb",
+        "collection_weqbKn",
+        "collection_q9r6xp",
+        "collection_MCYtmz",
+        "collection_JjrgTr"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "subheading": "dsfasgs",
+        "title": "dsfvszdv",
+        "content": "<p>sdvcasdvasdza</p>",
+        "content_inline": true,
+        "left_image": "shopify://shop_images/DR_14735_81258e36-284c-4095-828b-ec1ad4bf1769.jpg",
+        "content_color": "#ffffff"
       }
     },
     "featured-collections": {
@@ -1282,6 +1443,8 @@
     "collection_list_ByHyfH",
     "timeline_8XcLnR",
     "collection_list_34TAbC",
+    "images_with_text_scroll_cUg4NH",
+    "collection_list_mBWD3c",
     "featured-collections",
     "slideshow_hLVeyH",
     "collection_list_AdktG7",
