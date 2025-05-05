@@ -173,28 +173,30 @@
 
 
 {% style %}
-  #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video {
-    display: flex;
-    align-items: center;
-  }
-  #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video .content_inline_collection {
-    max-width: 28%;
-    width: 100%;
-  }
-  #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video .collection-list.wrap, 
-  #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video .floating-controls-container {
-    max-width: 70%;
-    width: 100%;
-  }
-  #shopify-section-{{ section.id }}.shopify-section--collection-list .content_inline_collection .section-header {
-    top: 50%;
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-    {% if section.settings.content_inline != blank %}
-    color: {{ section.settings.content_color }};
-    {% endif %}
+  @media(min-width: 700px){
+    #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video {
+      display: flex;
+      align-items: center;
+    }
+    #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video .content_inline_collection {
+      max-width: 28%;
+      width: 100%;
+    }
+    #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video .collection-list.wrap, 
+    #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video .floating-controls-container {
+      max-width: 70%;
+      width: 100%;
+    }
+    #shopify-section-{{ section.id }}.shopify-section--collection-list .content_inline_collection .section-header {
+      top: 50%;
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 2;
+      {% if section.settings.content_inline != blank %}
+      color: {{ section.settings.content_color }};
+      {% endif %}
+    }
   }
 {% endstyle %}
 
