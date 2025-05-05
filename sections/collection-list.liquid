@@ -63,6 +63,9 @@
       <div class="section-stack{% if section.settings.content_inline != blank %} content_inline{% endif %}
       {% if section.settings.left_video != blank or section.settings.left_image != blank %} inline_img_video{% endif %}">
 
+      {% if section.settings.left_video != blank or section.settings.left_image != blank %}
+        <div class="content_inline_collection">
+      {% endif %}
         {%- if section.settings.image != blank -%}
           <div class="collection_image_left">
             {%- assign image_widths = '200,300,400,500,600,800,1000,1200,1400,1600' -%}
@@ -75,6 +78,9 @@
           </div>
         {%- endif -%}
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
+      {% if section.settings.left_video != blank or section.settings.left_image != blank %}
+        </div>
+      {% endif %}
 
         {% capture collection_list %}
           {%- for block in section.blocks -%}
