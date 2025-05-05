@@ -772,6 +772,114 @@
         "separate_section_with_border": true
       }
     },
+    "collection_list_KhUcHm": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_4bBdVf": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_7NHPi7": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_DJLf9B": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_UzNqkL": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_4VzjAq": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_4bBdVf",
+        "collection_7NHPi7",
+        "collection_DJLf9B",
+        "collection_UzNqkL",
+        "collection_4VzjAq"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 5,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "content_inline": false,
+        "content_color": ""
+      }
+    },
     "collection_list_KELLmU": {
       "type": "collection-list",
       "blocks": {
@@ -806,62 +914,11 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "collection_97R34g": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_XMDzJf": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_RxQ8Lk": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
         "collection_9qrdjz",
-        "collection_GGrLzT",
-        "collection_97R34g",
-        "collection_XMDzJf",
-        "collection_RxQ8Lk"
+        "collection_GGrLzT"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -869,10 +926,10 @@
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
+        "space_items": false,
+        "stack_collections": true,
         "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 5,
+        "collections_per_row_desktop": 2,
         "subheading": "",
         "title": "",
         "content": "",
@@ -924,6 +981,7 @@
     "collection_list_mBWD3c",
     "logo_list_wBRt6j",
     "timeline_ehrckp",
+    "collection_list_KhUcHm",
     "collection_list_KELLmU",
     "newsletter",
     "blog-posts"
