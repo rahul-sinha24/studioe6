@@ -61,6 +61,7 @@
   <div class="{% unless remove_vertical_spacing %}section-spacing {% if reduce_vertical_spacing %}section-spacing--tight{% endif %}{% endunless %} color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
     <div class="{% if section.settings.space_items %}container{% endif %}">
       <div class="section-stack">
+  
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
 
         {% capture collection_list %}
@@ -85,6 +86,7 @@
             {%- endcapture -%}
 
             {%- capture collection_card_content -%}
+              <!-- Collection Images -->
               <div class="content-over-media content-over-media--{{ section.settings.image_size }}" style="--content-over-media-overlay: {{ block.settings.overlay_color.rgb }} / {{ block.settings.overlay_opacity | divided_by: 100.0 }};">
                 {%- assign image = block.settings.image | default: collection.featured_image -%}
                 {%- capture sizes -%}(max-width: 699px) 100vw, {% if block.settings.expand_collection %}100vw{% else %}(max-width: 1149px) {{ 100 | divided_by: section.settings.collections_per_row_desktop | at_least: 50 }}vw, {{ 100 | divided_by: section.settings.collections_per_row_desktop }}vw{% endif %}{%- endcapture -%}
@@ -123,6 +125,7 @@
             {{ collection_list }}
           </div>
         {% else %}
+          <!-- Slider -->
           <div class="floating-controls-container floating-controls-container--inside floating-controls-container--on-hover">
             {%- assign carousel_id = 'carousel-' | append: section.id -%}
 
