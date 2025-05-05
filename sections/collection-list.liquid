@@ -66,15 +66,15 @@
       {% if section.settings.left_video != blank or section.settings.left_image != blank %}
         <div class="content_inline_collection">
       {% endif %}
-        {%- if section.settings.image != blank -%}
+        {%- if section.settings.left_image != blank -%}
           <div class="collection_image_left">
             {%- assign image_widths = '200,300,400,500,600,800,1000,1200,1400,1600' -%}
-            {{- section.settings.image | image_url: width: section.settings.image.width | image_tag: sizes: auto, widths: image_widths, class: 'constrained-image', style: image_style_attribute -}}
+            {{- section.settings.left_image | image_url: width: section.settings.left_image.width | image_tag: sizes: auto, widths: image_widths, class: 'constrained-image', style: image_style_attribute -}}
           </div>
         {%- endif -%}
-        {%- if section.settings.video != blank -%}
+        {%- if section.settings.left_video != blank -%}
           <div class="collection_video_left">
-            {%- render 'media', media: section.settings.video, controls: true -%}
+            {%- render 'media', media: section.settings.left_video, controls: true -%}
           </div>
         {%- endif -%}
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
