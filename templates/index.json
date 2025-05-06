@@ -323,7 +323,7 @@
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
@@ -377,8 +377,8 @@
       ],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
-        "color_scheme": "",
-        "item_color_scheme": "",
+        "color_scheme": "scheme-4",
+        "item_color_scheme": "scheme-2",
         "separate_section_with_border": true
       }
     },
@@ -389,14 +389,14 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "anita-dongre",
+            "collection": "",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
+            "button_text": "Lehengas",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -405,14 +405,14 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "anita-dongre",
+            "collection": "",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
+            "button_text": "Anarkalis",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -421,14 +421,14 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "anita-dongre",
+            "collection": "",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
+            "button_text": "Gowns",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -437,14 +437,14 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "anita-dongre",
+            "collection": "",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
+            "button_text": "Sherwani",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -453,14 +453,46 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "anita-dongre",
+            "collection": "",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
+            "button_text": "Bandhgala",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_TtNhdg": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Sherwani Sets",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_wGcPBf": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Sarees",
+            "button_link": "",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -471,11 +503,13 @@
         "collection_zizQMT",
         "collection_gbYwnY",
         "collection_LNUiWV",
-        "collection_n9P9zg"
+        "collection_n9P9zg",
+        "collection_TtNhdg",
+        "collection_wGcPBf"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
