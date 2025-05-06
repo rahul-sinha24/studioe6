@@ -203,7 +203,8 @@
         "title": "",
         "content": "",
         "content_inline": false,
-        "content_color": ""
+        "content_color": "",
+        "background_color": "#ffffff"
       }
     },
     "collection_list_ByHyfH": {
@@ -308,16 +309,18 @@
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
-        "space_items": true,
+        "space_items": false,
         "stack_collections": false,
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "Save the date",
+        "title": "",
         "content": "",
         "content_inline": true,
         "left_image": "shopify://shop_images/SAVE_THE_DATE.png",
-        "content_color": "#ffffff"
+        "content_color": "#ffffff",
+        "background_image": "shopify://shop_images/background_image_product.png",
+        "background_color": "#ffffff"
       }
     },
     "timeline_8XcLnR": {
@@ -508,7 +511,8 @@
         "content": "",
         "content_inline": true,
         "left_image": "shopify://shop_images/Rang_Mahal_Latest_Collection.jpg",
-        "content_color": "#ffffff"
+        "content_color": "#ffffff",
+        "background_color": "#ffffff"
       }
     },
     "featured_collections_hEbtWM": {
@@ -724,7 +728,8 @@
         "title": "",
         "content": "",
         "content_inline": false,
-        "content_color": ""
+        "content_color": "",
+        "background_color": "#ffffff"
       }
     },
     "collection_list_KELLmU": {
@@ -781,7 +786,8 @@
         "title": "",
         "content": "",
         "content_inline": false,
-        "content_color": ""
+        "content_color": "",
+        "background_color": "#ffffff"
       }
     },
     "text_with_icons_kYJA4r": {
