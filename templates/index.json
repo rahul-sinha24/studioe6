@@ -323,6 +323,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/bridesmaid.png",
+            "mobile_image": "shopify://shop_images/2_1.png",
             "label": "Bridal Edit",
             "subheading": "",
             "title": "",
@@ -525,7 +526,7 @@
       ],
       "name": "t:sections.featured_collections.presets.featured_collections.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "hide_product_information": false,
         "stack_products": false,
@@ -536,181 +537,15 @@
         "subheading": ""
       }
     },
-    "collection_list_mBWD3c": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_rCTNHb": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "anita-dongre",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_weqbKn": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "anita-dongre",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_q9r6xp": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "anita-dongre",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_MCYtmz": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "anita-dongre",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_JjrgTr": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "anita-dongre",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_rCTNHb",
-        "collection_weqbKn",
-        "collection_q9r6xp",
-        "collection_MCYtmz",
-        "collection_JjrgTr"
-      ],
-      "disabled": true,
-      "name": "t:sections.collection_list.presets.collection_list.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Ready To Ship",
-        "content": "",
-        "content_inline": true,
-        "content_color": "#ffffff"
-      }
-    },
-    "logo_list_wBRt6j": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_6eDMpq": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_aPpJMF": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_cXw46P": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_zV3Qjq": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_cmHfXH": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_6eDMpq",
-        "logo_aPpJMF",
-        "logo_cXw46P",
-        "logo_zV3Qjq",
-        "logo_cmHfXH"
-      ],
-      "name": "t:sections.logo_list.presets.logo_list.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Logo list",
-        "stack_on_mobile": true,
-        "items_per_row": 5,
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "timeline_ehrckp": {
       "type": "timeline",
       "blocks": {
         "item_qEAyYy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1800_x_800_px_for_desktop_1800x_078bcd1e-f15e-4e0d-bc59-d4d4955cae43.webp",
-            "label": "Ivory",
+            "image": "shopify://shop_images/Artboard_3.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy.png",
+            "label": "Symphony of Soft Whites",
             "subheading": "",
             "title": "",
             "content": "",
@@ -723,8 +558,24 @@
         "item_tAJnwr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1800_x_800_px_for_desktop_1800x_078bcd1e-f15e-4e0d-bc59-d4d4955cae43.webp",
-            "label": "Royal",
+            "image": "shopify://shop_images/Artboard_5.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy_3.png",
+            "label": "The Bohemian Wedding",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_Jx4Ky8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_4_2dc2924c-9521-4f87-938d-f7ea340c2e45.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy_2.png",
+            "label": "The Bohemian Wedding",
             "subheading": "",
             "title": "",
             "content": "",
@@ -737,11 +588,12 @@
       },
       "block_order": [
         "item_qEAyYy",
-        "item_tAJnwr"
+        "item_tAJnwr",
+        "item_Jx4Ky8"
       ],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "item_color_scheme": "",
         "separate_section_with_border": true
       }
@@ -1133,8 +985,6 @@
     "timeline_8XcLnR",
     "collection_list_34TAbC",
     "featured_collections_hEbtWM",
-    "collection_list_mBWD3c",
-    "logo_list_wBRt6j",
     "timeline_ehrckp",
     "collection_list_KhUcHm",
     "collection_list_KELLmU",
