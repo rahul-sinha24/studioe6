@@ -176,6 +176,27 @@
   #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video .content_inline_collection {
     position: relative;
   }
+
+  {% if section.settings.background_image != blank %} 
+    #shopify-section-{{ section.id }}.shopify-section--collection-list {
+      background-image: url({{ section.settings.background_image | img_url: 'master' }});
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      /* padding: 3rem 0 1.5rem; */
+      padding: 4rem 0 ;
+    }  
+  {% endif %}
+
+  {% if section.settings.background_color != blank %}
+    #shopify-section-{{ section.id }}.shopify-section--collection-list {
+      background-color: {{ section.settings.background_color }};
+      /* padding: 3rem 0 1.5rem; */
+      padding: 4rem 0;
+    }
+  {% endif %}
+
+  
   @media(min-width: 700px){
     #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video {
       display: flex;
@@ -337,7 +358,22 @@
       "label": "Color of content",
       "id": "content_color",
       "info": "It will work with inline content"
-    }
+    },
+
+   {
+      "type": "image_picker",
+      "id": "background_image",
+      "label": "Background Image"
+    },
+
+    {
+      "type": "color",
+      "label": "Background Color",
+      "id": "background_color",
+      "default": "#ffffff"
+    },
+    
+    
   ],
   "blocks": [
     {
