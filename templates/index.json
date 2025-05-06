@@ -213,7 +213,6 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
-            "image": "shopify://shop_images/Presenting_Fiori_-_The_Sharara_Edit_by_Seema_Gujral_A_play_of_textures_and_silhouettes_this_embroidered_high-low_sharara_set_features_tonal_mirrorwork_a_plunging_jacket_and_a_dreamy_f.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -222,7 +221,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_6kegTy": {
@@ -238,7 +237,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_W74W7h": {
@@ -246,6 +245,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/Presenting_Fiori_-_The_Sharara_Edit_by_Seema_Gujral_A_play_of_textures_and_silhouettes_this_embroidered_high-low_sharara_set_features_tonal_mirrorwork_a_plunging_jacket_and_a_dreamy_f.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -254,7 +254,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_wWeddx": {
@@ -270,7 +270,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_CzQnCY": {
@@ -286,7 +286,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
