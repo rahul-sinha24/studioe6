@@ -365,7 +365,6 @@
         "color_scheme": "scheme-2",
         "item_color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "background_image": "shopify://shop_images/Untitled_design_3.png",
         "background_color": "#ffffff"
       }
     },
@@ -956,6 +955,7 @@
         "logo_JXCRb8",
         "logo_PyEjWC"
       ],
+      "disabled": true,
       "name": "Auto Scrolling Logos",
       "settings": {}
     }
