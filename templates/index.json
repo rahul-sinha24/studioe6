@@ -213,6 +213,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/Presenting_Fiori_-_The_Sharara_Edit_by_Seema_Gujral_A_play_of_textures_and_silhouettes_this_embroidered_high-low_sharara_set_features_tonal_mirrorwork_a_plunging_jacket_and_a_dreamy_f.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -310,7 +311,7 @@
         "title": "Save the date",
         "content": "",
         "content_inline": true,
-        "left_image": "shopify://shop_images/DR_14684.jpg",
+        "left_image": "shopify://shop_images/SAVE_THE_DATE.png",
         "content_color": "#ffffff"
       }
     },
