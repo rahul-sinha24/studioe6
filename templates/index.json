@@ -163,7 +163,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify://shop_images/1_360x_60ad9452-91f9-4a41-8633-7a02ec70f281.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -219,7 +219,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "image_size": "auto",
+        "image_size": "xs",
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": false,
