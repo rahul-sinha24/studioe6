@@ -98,19 +98,20 @@
                       {%- if block.settings.subheading != blank -%}
                         <p class="h6">{{ block.settings.subheading }}</p>
                       {%- endif -%}
-            
+                
                       {%- if block.settings.title != blank -%}
                         <p class="h2">{{ block.settings.title }}</p>
                       {%- endif -%}
-            
+                
                       {{- block.settings.content -}}
-            
+                
                       {%- if block.settings.link_text != blank -%}
                         {%- render 'button', href: block.settings.link_url, content: block.settings.link_text, style: block.settings.link_style -%}
                       {%- endif -%}
                     </div>
                   </div>
                 {%- endif -%}
+
               </div>
             </div>
 
@@ -131,7 +132,43 @@
 {%- endif -%}
 
 {% style %}
+.timeline__item-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.timeline__item-image-wrapper {
+  flex: 1 1 50%;
+  max-width: 50%;
+}
+
+.timeline__item-content {
+  flex: 1 1 50%;
+  max-width: 50%;
+  padding: 2rem;
+  word-break: break-word;
+}
+
+.timeline__item-content .prose {
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+@media screen and (max-width: 768px) {
   .timeline__item-wrapper {
+    flex-direction: column;
+  }
+
+  .timeline__item-image-wrapper,
+  .timeline__item-content {
+    max-width: 100%;
+  }
+}
+
+  
+{% comment %}  .timeline__item-wrapper {
   display: flex;
   flex-direction: row;
   gap: 2rem;
@@ -150,7 +187,7 @@
     width: 100%;
   }
 }
-
+{% endcomment %}
 {% endstyle %}
 
 {% schema %}
