@@ -614,22 +614,6 @@
     "collection_list_KhUcHm": {
       "type": "collection-list",
       "blocks": {
-        "collection_hN3afY": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "under-200",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection_4bBdVf": {
           "type": "collection",
           "settings": {
@@ -693,31 +677,13 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "collection_4VzjAq": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "above-600",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
-        "collection_hN3afY",
         "collection_4bBdVf",
         "collection_7NHPi7",
         "collection_DJLf9B",
-        "collection_UzNqkL",
-        "collection_4VzjAq"
+        "collection_UzNqkL"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -728,7 +694,7 @@
         "space_items": true,
         "stack_collections": false,
         "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 5,
+        "collections_per_row_desktop": 4,
         "subheading": "",
         "title": "",
         "content": "",
@@ -777,6 +743,7 @@
         "collection_9qrdjz",
         "collection_GGrLzT"
       ],
+      "disabled": true,
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "color_scheme": "scheme-2",
