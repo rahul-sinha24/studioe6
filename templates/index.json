@@ -393,6 +393,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/s11.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -401,7 +402,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_zizQMT": {
@@ -409,6 +410,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/s13.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -417,7 +419,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_gbYwnY": {
@@ -425,6 +427,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/s12.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -433,7 +436,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_LNUiWV": {
@@ -441,6 +444,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/s14.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -449,7 +453,7 @@
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_n9P9zg": {
