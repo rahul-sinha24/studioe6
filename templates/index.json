@@ -355,7 +355,7 @@
             "content": "",
             "link_text": "",
             "link_url": "",
-            "link_style": "link",
+            "link_style": "solid",
             "mobile_text_color": "#ffffff"
           }
         },
@@ -380,7 +380,7 @@
       ],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-2",
         "item_color_scheme": "scheme-2",
         "separate_section_with_border": true
       }
@@ -824,6 +824,49 @@
         "separate_section_with_border": true
       }
     },
+    "timeline_wYPEND": {
+      "type": "timeline",
+      "blocks": {
+        "item_8fgdcJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1800_x_800_px_for_desktop_1800x_078bcd1e-f15e-4e0d-bc59-d4d4955cae43.webp",
+            "label": "Ivory",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_XemALX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1800_x_800_px_for_desktop_1800x_078bcd1e-f15e-4e0d-bc59-d4d4955cae43.webp",
+            "label": "Royal",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_8fgdcJ",
+        "item_XemALX"
+      ],
+      "name": "t:sections.timeline.presets.timeline.name",
+      "settings": {
+        "color_scheme": "",
+        "item_color_scheme": "",
+        "separate_section_with_border": true
+      }
+    },
     "collection_list_KhUcHm": {
       "type": "collection-list",
       "blocks": {
@@ -1185,6 +1228,7 @@
     "collection_list_mBWD3c",
     "logo_list_wBRt6j",
     "timeline_ehrckp",
+    "timeline_wYPEND",
     "collection_list_KhUcHm",
     "collection_list_KELLmU",
     "text_with_icons_kYJA4r",
