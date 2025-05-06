@@ -364,7 +364,9 @@
       "settings": {
         "color_scheme": "scheme-2",
         "item_color_scheme": "scheme-2",
-        "separate_section_with_border": true
+        "separate_section_with_border": true,
+        "background_image": "shopify://shop_images/background_image_product.png",
+        "background_color": "#ffffff"
       }
     },
     "collection_list_34TAbC": {
@@ -603,7 +605,8 @@
       "settings": {
         "color_scheme": "scheme-2",
         "item_color_scheme": "",
-        "separate_section_with_border": true
+        "separate_section_with_border": true,
+        "background_color": "#ffffff"
       }
     },
     "collection_list_KhUcHm": {
