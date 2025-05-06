@@ -537,6 +537,36 @@
         "overlay_opacity": 0
       }
     },
+    "featured_collections_hEbtWM": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_PdCkHV": {
+          "type": "collection",
+          "settings": {
+            "collection": "lehenga-2",
+            "products_count": 8,
+            "title": "Ready To Ship",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_PdCkHV"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "collection_list_mBWD3c": {
       "type": "collection-list",
       "blocks": {
@@ -628,6 +658,7 @@
         "collection_MCYtmz",
         "collection_JjrgTr"
       ],
+      "disabled": true,
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "color_scheme": "",
@@ -1116,6 +1147,7 @@
     "timeline_8XcLnR",
     "collection_list_34TAbC",
     "images_with_text_scroll_cUg4NH",
+    "featured_collections_hEbtWM",
     "collection_list_mBWD3c",
     "logo_list_wBRt6j",
     "timeline_ehrckp",
