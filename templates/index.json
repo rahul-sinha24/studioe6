@@ -350,6 +350,20 @@
             "mobile_text_color": "#ffffff"
           }
         },
+        "item_mhxhUD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1800_x_800_px_for_desktop_1800x_078bcd1e-f15e-4e0d-bc59-d4d4955cae43.webp",
+            "label": "",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
         "item_tHYQ88": {
           "type": "item",
           "settings": {
@@ -379,6 +393,7 @@
       },
       "block_order": [
         "item_3xrzNP",
+        "item_mhxhUD",
         "item_tHYQ88",
         "item_xHmXAC"
       ],
