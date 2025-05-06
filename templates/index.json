@@ -209,11 +209,29 @@
     "collection_list_ByHyfH": {
       "type": "collection-list",
       "blocks": {
+        "collection_CzQnCY": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/TT3FEB-9469_900x_jpg.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Engagement",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "collection_6VwYYK": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/TTSEPT-150_900x_jpg.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -225,11 +243,29 @@
             "overlay_opacity": 0
           }
         },
+        "collection_wWeddx": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/RM-Red_Printed_Chiffon_Overlap_Jacket_Paired_With_Printed_Chiffon_Draped_Saree_and_Jewelled_Belt_1600x_64a70539-3c91-437f-938d-98aca283b36b.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Sangeet",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "collection_6kegTy": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/RM--Yellow_Organza_Multicoloured_Embroidered_Lehenga_1600x_jpg.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -246,39 +282,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
-            "image": "shopify://shop_images/Presenting_Fiori_-_The_Sharara_Edit_by_Seema_Gujral_A_play_of_textures_and_silhouettes_this_embroidered_high-low_sharara_set_features_tonal_mirrorwork_a_plunging_jacket_and_a_dreamy_f.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Reception",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_wWeddx": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Sangeet",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_CzQnCY": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
+            "image": "shopify://shop_images/Untitled_design.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -292,11 +296,11 @@
         }
       },
       "block_order": [
+        "collection_CzQnCY",
         "collection_6VwYYK",
-        "collection_6kegTy",
-        "collection_W74W7h",
         "collection_wWeddx",
-        "collection_CzQnCY"
+        "collection_6kegTy",
+        "collection_W74W7h"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
