@@ -740,8 +740,8 @@
         "item_qEAyYy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/DIYARAJVVIR-20-02-2419237.jpg",
-            "label": "",
+            "image": "shopify://shop_images/1800_x_800_px_for_desktop_1800x_078bcd1e-f15e-4e0d-bc59-d4d4955cae43.webp",
+            "label": "Ivory",
             "subheading": "",
             "title": "",
             "content": "",
@@ -754,10 +754,11 @@
         "item_tAJnwr": {
           "type": "item",
           "settings": {
-            "label": "2010",
-            "subheading": "Subheading",
-            "title": "2010",
-            "content": "<p>Use this text to share information about what happened to your brand at a specific time.</p>",
+            "image": "shopify://shop_images/1800_x_800_px_for_desktop_1800x_078bcd1e-f15e-4e0d-bc59-d4d4955cae43.webp",
+            "label": "Royal",
+            "subheading": "",
+            "title": "",
+            "content": "",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
