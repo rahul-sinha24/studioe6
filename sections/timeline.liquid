@@ -15,7 +15,7 @@
 
         <timeline-carousel id="{{ carousel_id }}" class="timeline__carousel full-bleed sm:unbleed">
           {%- for block in section.blocks -%}
-            <div class="timeline__item color-scheme color-scheme--{{ section.settings.item_color_scheme.id }} {% if forloop.first %}is-selected{% endif %}" style="--timeline-item-mobile-text-color: {{ block.settings.mobile_text_color.rgb }}" {{ block.shopify_attributes }}>
+       {% comment %}     <div class="timeline__item color-scheme color-scheme--{{ section.settings.item_color_scheme.id }} {% if forloop.first %}is-selected{% endif %}" style="--timeline-item-mobile-text-color: {{ block.settings.mobile_text_color.rgb }}" {{ block.shopify_attributes }}>
               <div class="timeline__item-image-wrapper">
                 {%- liquid
                   assign loading_strategy = nil
@@ -60,9 +60,61 @@
                     {%- render 'button', href: block.settings.link_url, content: block.settings.link_text, style: block.settings.link_style -%}
                   {%- endif -%}
                 </div>
-              </div>
+              </div>           
                    
             </div>
+ {% endcomment %}
+
+          {%- assign has_content = false -%}
+            {%- if block.settings.title != blank or block.settings.subheading != blank or block.settings.content != blank or block.settings.link_text != blank -%}
+              {%- assign has_content = true -%}
+            {%- endif -%}
+            
+            <div class="timeline__item color-scheme color-scheme--{{ section.settings.item_color_scheme.id }} {% if forloop.first %}is-selected{% endif %} {{ has_content | default: false | unless: true }}full-width-image-only{{ endunless }}" style="--timeline-item-mobile-text-color: {{ block.settings.mobile_text_color.rgb }}" {{ block.shopify_attributes }}>
+              <div class="timeline__item-wrapper {% if has_content %}timeline__item--with-content{% else %}timeline__item--no-content{% endif %}">
+                <div class="timeline__item-image-wrapper">
+                  <!-- your image <picture> logic remains unchanged -->
+                  {%- if block.settings.image -%}
+                    <picture>
+                      {%- if block.settings.mobile_image -%}
+                        <source
+                          media="(max-width: 699px)"
+                          srcset="{{ block.settings.mobile_image | image_url: width: 400 }} 400w, {{ block.settings.mobile_image | image_url: width: 600 }} 600w, {{ block.settings.mobile_image | image_url: width: 800 }} 800w, {{ block.settings.mobile_image | image_url: width: 1000 }} 1000w"
+                          width="{{ block.settings.mobile_image.width }}"
+                          height="{{ block.settings.mobile_image.height }}"
+                        >
+                      {%- endif -%}
+                      {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: loading_strategy, sizes: 'min(50vw, 575px)', widths: '600,700,800,1000,1200,1400,1600,1800', class: 'image-cover' -}}
+                    </picture>
+                  {%- else -%}
+                    {%- capture placeholder_image -%}lifestyle-{% cycle '1', '2' %}{%- endcapture -%}
+                    {{- placeholder_image | placeholder_svg_tag: 'placeholder placeholder--invert image-cover' -}}
+                  {%- endif -%}
+                </div>
+            
+                {%- if has_content -%}
+                  <div class="timeline__item-content" {% if forloop.first %}reveal-on-scroll="true"{% endif %}>
+                    <div class="prose">
+                      {%- if block.settings.subheading != blank -%}
+                        <p class="h6">{{ block.settings.subheading }}</p>
+                      {%- endif -%}
+            
+                      {%- if block.settings.title != blank -%}
+                        <p class="h2">{{ block.settings.title }}</p>
+                      {%- endif -%}
+            
+                      {{- block.settings.content -}}
+            
+                      {%- if block.settings.link_text != blank -%}
+                        {%- render 'button', href: block.settings.link_url, content: block.settings.link_text, style: block.settings.link_style -%}
+                      {%- endif -%}
+                    </div>
+                  </div>
+                {%- endif -%}
+              </div>
+            </div>
+
+            
           {%- endfor -%}
         </timeline-carousel>
 
@@ -77,6 +129,29 @@
     </div>
   </div>
 {%- endif -%}
+
+{% style %}
+  .timeline__item-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.timeline__item--no-content .timeline__item-image-wrapper {
+  width: 100%;
+}
+.timeline__item--with-content .timeline__item-image-wrapper,
+.timeline__item--with-content .timeline__item-content {
+  width: 50%;
+}
+@media screen and (max-width: 768px) {
+  .timeline__item--with-content .timeline__item-image-wrapper,
+  .timeline__item--with-content .timeline__item-content {
+    width: 100%;
+  }
+}
+
+{% endstyle %}
 
 {% schema %}
 {
