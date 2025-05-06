@@ -72,7 +72,7 @@
             
             <div class="timeline__item color-scheme color-scheme--{{ section.settings.item_color_scheme.id }} {% if forloop.first %}is-selected{% endif %} {{ has_content | default: false | unless: true }} full-width-image-only{{ endunless }}" style="--timeline-item-mobile-text-color: {{ block.settings.mobile_text_color.rgb }}" {{ block.shopify_attributes }}>
               <div class="timeline__item-wrapper {% if has_content %}timeline__item--with-content{% else %}timeline__item--no-content{% endif %}">
-
+{% comment %}
                  {%- liquid
                   assign loading_strategy = nil
 
@@ -80,7 +80,7 @@
                     assign loading_strategy = 'eager'
                   endif
                 -%}
-                
+{% endcomment %}               
                 <div class="timeline__item-image-wrapper">
                   
                   {%- if block.settings.image -%}
