@@ -639,10 +639,9 @@
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "CollecTion List",
+        "title": "Ready To Ship",
         "content": "",
         "content_inline": true,
-        "left_image": "shopify://shop_images/DR_14735_81258e36-284c-4095-828b-ec1ad4bf1769.jpg",
         "content_color": "#ffffff"
       }
     },
