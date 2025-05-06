@@ -309,7 +309,7 @@
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
-        "space_items": false,
+        "space_items": true,
         "stack_collections": false,
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
@@ -319,7 +319,6 @@
         "content_inline": true,
         "left_image": "shopify://shop_images/SAVE_THE_DATE.png",
         "content_color": "#ffffff",
-        "background_image": "shopify://shop_images/background_image_product.png",
         "background_color": "#ffffff"
       }
     },
