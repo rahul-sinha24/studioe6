@@ -1144,6 +1144,36 @@
         "button_link": "",
         "button_text": "View all"
       }
+    },
+    "logo_marquee_rFUUyH": {
+      "type": "logo-marquee",
+      "blocks": {
+        "logo_tdaQ3b": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/plant-based.png"
+          }
+        },
+        "logo_JXCRb8": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/chat.png"
+          }
+        },
+        "logo_PyEjWC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/closed-cardboard-box-with-packing-tape.png"
+          }
+        }
+      },
+      "block_order": [
+        "logo_tdaQ3b",
+        "logo_JXCRb8",
+        "logo_PyEjWC"
+      ],
+      "name": "Auto Scrolling Logos",
+      "settings": {}
     }
   },
   "order": [
@@ -1163,6 +1193,7 @@
     "image_with_text_overlay_KqUx49",
     "testimonials_TLQTW8",
     "newsletter",
-    "blog-posts"
+    "blog-posts",
+    "logo_marquee_rFUUyH"
   ]
 }
