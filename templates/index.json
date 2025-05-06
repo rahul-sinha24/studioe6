@@ -389,6 +389,23 @@
             "overlay_opacity": 0
           }
         },
+        "collection_LNUiWV": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/s14.webp",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Sherwani",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "collection_zizQMT": {
           "type": "collection",
           "settings": {
@@ -417,23 +434,6 @@
             "subheading": "",
             "title": "",
             "button_text": "Gowns",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_LNUiWV": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/s14.webp",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Sherwani",
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
@@ -491,9 +491,9 @@
       },
       "block_order": [
         "collection_N8geNh",
+        "collection_LNUiWV",
         "collection_zizQMT",
         "collection_gbYwnY",
-        "collection_LNUiWV",
         "collection_n9P9zg",
         "collection_TtNhdg",
         "collection_wGcPBf"
