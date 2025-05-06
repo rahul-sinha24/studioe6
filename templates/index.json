@@ -776,11 +776,27 @@
     "collection_list_KhUcHm": {
       "type": "collection-list",
       "blocks": {
+        "collection_hN3afY": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "under-200",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_4bBdVf": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "under-300",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -796,7 +812,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "under-400",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -812,7 +828,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "under-500",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -828,7 +844,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "under-600",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -844,7 +860,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "above-600",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -858,6 +874,7 @@
         }
       },
       "block_order": [
+        "collection_hN3afY",
         "collection_4bBdVf",
         "collection_7NHPi7",
         "collection_DJLf9B",
