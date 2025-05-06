@@ -181,6 +181,31 @@
 
 {% endcomment %}
 
+{% style %}
+  .timeline__item-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+  
+  @media screen and (min-width: 768px) {
+    .timeline__item {
+        /* grid-template-columns: repeat(2, minmax(0, 1fr)); */
+        grid-template-columns:0; !important;
+    }
+
+    .timeline__item-wrapper {
+    flex-direction: column;
+  }
+
+  .timeline__item-image-wrapper,
+  .timeline__item-content {
+    max-width: 100%;
+  }
+}
+{% endstyle %}
+
 {% schema %}
 {
   "name": "t:sections.timeline.name",
