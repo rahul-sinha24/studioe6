@@ -570,27 +570,12 @@
             "mobile_text_color": "#ffffff"
           }
         },
-        "item_Jx4Ky8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_4_2dc2924c-9521-4f87-938d-f7ea340c2e45.png",
-            "mobile_image": "shopify://shop_images/Artboard_2_copy_2.png",
-            "label": "The Bohemian Wedding",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
         "item_wekKkU": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Artboard_4_2dc2924c-9521-4f87-938d-f7ea340c2e45.png",
             "mobile_image": "shopify://shop_images/Artboard_2_copy_2.png",
-            "label": "The Bohemian Wedding",
+            "label": "The Royal Wedding",
             "subheading": "",
             "title": "",
             "content": "",
@@ -604,7 +589,6 @@
       "block_order": [
         "item_qEAyYy",
         "item_tAJnwr",
-        "item_Jx4Ky8",
         "item_wekKkU"
       ],
       "name": "t:sections.timeline.presets.timeline.name",
