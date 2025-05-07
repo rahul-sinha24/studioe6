@@ -119,6 +119,7 @@
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image": "shopify://shop_images/Untitled-1.png",
+        "mobile_image": "shopify://shop_images/Untitled-1.png",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
