@@ -207,167 +207,6 @@
         "background_color": "#ffffff"
       }
     },
-    "collection_list_chQb3x": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_Ryq9gT": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/TT3FEB-9469_900x_jpg.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Engagement",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_PpN6KC": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/TTSEPT-150_900x_jpg.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Wedding",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_p4qq3X": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/RM-Red_Printed_Chiffon_Overlap_Jacket_Paired_With_Printed_Chiffon_Draped_Saree_and_Jewelled_Belt_1600x_64a70539-3c91-437f-938d-98aca283b36b.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Sangeet",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_GtCUzC": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/RM--Yellow_Organza_Multicoloured_Embroidered_Lehenga_1600x_jpg.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Haldi/Mehendi",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_N8rPKc": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/Untitled_design.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Reception",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "collection_Ryq9gT",
-        "collection_PpN6KC",
-        "collection_p4qq3X",
-        "collection_GtCUzC",
-        "collection_N8rPKc"
-      ],
-      "name": "t:sections.collection_list.presets.collection_list.name",
-      "settings": {
-        "color_scheme": "scheme-f2dbc9f3-3412-4ab1-86ae-4ed0ce302632",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "content_inline": true,
-        "left_image": "shopify://shop_images/SAVE_THE_DATE.png",
-        "content_color": "#ffffff",
-        "background_image": "shopify://shop_images/background_image_product.png",
-        "background_color": "#ffffff"
-      }
-    },
-    "timeline_8XcLnR": {
-      "type": "timeline",
-      "blocks": {
-        "item_3xrzNP": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/bridesmaid.png",
-            "mobile_image": "shopify://shop_images/2_1.png",
-            "label": "Bridesmaid Edit",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_mhxhUD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_1.png",
-            "label": "Trouseau Edit",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "item_3xrzNP",
-        "item_mhxhUD"
-      ],
-      "name": "t:sections.timeline.presets.timeline.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "item_color_scheme": "scheme-2",
-        "separate_section_with_border": true,
-        "background_color": "#ffffff"
-      }
-    },
     "collection_list_ByHyfH": {
       "type": "collection-list",
       "blocks": {
@@ -481,6 +320,51 @@
         "left_image": "shopify://shop_images/SAVE_THE_DATE.png",
         "content_color": "#ffffff",
         "background_image": "shopify://shop_images/background_image_product.png",
+        "background_color": "#ffffff"
+      }
+    },
+    "timeline_8XcLnR": {
+      "type": "timeline",
+      "blocks": {
+        "item_3xrzNP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bridesmaid.png",
+            "mobile_image": "shopify://shop_images/2_1.png",
+            "label": "Bridesmaid Edit",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_mhxhUD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_1.png",
+            "label": "Trouseau Edit",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_3xrzNP",
+        "item_mhxhUD"
+      ],
+      "name": "t:sections.timeline.presets.timeline.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "item_color_scheme": "scheme-2",
+        "separate_section_with_border": true,
         "background_color": "#ffffff"
       }
     },
@@ -660,6 +544,122 @@
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "subheading": ""
+      }
+    },
+    "collection_list_chQb3x": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_Ryq9gT": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/TT3FEB-9469_900x_jpg.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Engagement",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_PpN6KC": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/TTSEPT-150_900x_jpg.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Wedding",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_p4qq3X": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/RM-Red_Printed_Chiffon_Overlap_Jacket_Paired_With_Printed_Chiffon_Draped_Saree_and_Jewelled_Belt_1600x_64a70539-3c91-437f-938d-98aca283b36b.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Sangeet",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_GtCUzC": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/RM--Yellow_Organza_Multicoloured_Embroidered_Lehenga_1600x_jpg.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Haldi/Mehendi",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_N8rPKc": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/Untitled_design.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Reception",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection_Ryq9gT",
+        "collection_PpN6KC",
+        "collection_p4qq3X",
+        "collection_GtCUzC",
+        "collection_N8rPKc"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "scheme-f2dbc9f3-3412-4ab1-86ae-4ed0ce302632",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "content_inline": true,
+        "left_image": "shopify://shop_images/SAVE_THE_DATE.png",
+        "content_color": "#ffffff",
+        "background_image": "shopify://shop_images/background_image_product.png",
+        "background_color": "#ffffff"
       }
     },
     "timeline_ehrckp": {
@@ -1078,8 +1078,8 @@
   "order": [
     "slideshow",
     "collection_list_hFiyRh",
-    "timeline_8XcLnR",
     "collection_list_ByHyfH",
+    "timeline_8XcLnR",
     "collection_list_34TAbC",
     "featured_collections_hEbtWM",
     "collection_list_chQb3x",
