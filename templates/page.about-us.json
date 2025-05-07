@@ -130,6 +130,38 @@
         "button_2_style": "solid"
       }
     },
+    "image_with_text_block_AwNaGH": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_ceaP96": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Image with text block"
+          }
+        },
+        "richtext_9daMzM": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ceaP96",
+        "richtext_9daMzM"
+      ],
+      "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/IMG_9903_1400x_webp.png",
+        "content_width": "sm",
+        "enable_parallax": false,
+        "remove_vertical_spacing": false
+      }
+    },
     "image_with_text_9RArmA": {
       "type": "image-with-text",
       "blocks": {
@@ -169,38 +201,6 @@
         "image_position": "end",
         "content_width": "lg",
         "remove_vertical_spacing": true
-      }
-    },
-    "image_with_text_block_AwNaGH": {
-      "type": "image-with-text-block",
-      "blocks": {
-        "subheading_ceaP96": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Image with text block"
-          }
-        },
-        "richtext_9daMzM": {
-          "type": "richtext",
-          "disabled": true,
-          "settings": {
-            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_ceaP96",
-        "richtext_9daMzM"
-      ],
-      "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
-      "settings": {
-        "color_scheme": "",
-        "image_size": "auto",
-        "image": "shopify://shop_images/IMG_9903_1400x_webp.png",
-        "content_width": "sm",
-        "enable_parallax": false,
-        "remove_vertical_spacing": false
       }
     },
     "media_grid_nCQmWd": {
@@ -413,9 +413,9 @@
     "main",
     "slideshow_6XTqcW",
     "rich_text_dJk7JE",
+    "image_with_text_block_AwNaGH",
     "multiple_media_with_text_yV6gDT",
     "image_with_text_9RArmA",
-    "image_with_text_block_AwNaGH",
     "media_grid_nCQmWd"
   ]
 }
