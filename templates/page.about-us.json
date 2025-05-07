@@ -109,7 +109,7 @@
       ],
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-63fd9dbe-258f-4564-a6e8-d8025d5ba4bc",
         "reveal_on_scroll": true,
         "separate_section_with_border": false,
         "media_position_desktop": "after_text",
