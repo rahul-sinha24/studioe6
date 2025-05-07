@@ -21,12 +21,6 @@
     "image_with_text_FwiCrW": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_JxrmL7": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_Y3KgGY": {
           "type": "heading",
           "settings": {
@@ -42,7 +36,6 @@
         }
       },
       "block_order": [
-        "subheading_JxrmL7",
         "heading_Y3KgGY",
         "richtext_xDB8Le"
       ],
@@ -55,55 +48,6 @@
         "image_position": "end",
         "content_width": "sm",
         "remove_vertical_spacing": true
-      }
-    },
-    "rich_text_HqUGCk": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_gj7XEb": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_D6jMaK": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_etXVYQ": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_gj7XEb",
-        "heading_D6jMaK",
-        "richtext_etXVYQ"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "custom_liquid_Wi3Pbk": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<p>Write or copy/paste Liquid code</p>",
-        "text_alignment": "center"
       }
     },
     "rich_text_yMnqMy": {
@@ -147,8 +91,6 @@
   "order": [
     "main",
     "image_with_text_FwiCrW",
-    "rich_text_HqUGCk",
-    "custom_liquid_Wi3Pbk",
     "rich_text_yMnqMy"
   ]
 }
