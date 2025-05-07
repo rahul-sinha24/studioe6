@@ -515,6 +515,79 @@
         "background_color": "#ffffff"
       }
     },
+    "media_grid_PQJi3H": {
+      "type": "media-grid",
+      "blocks": {
+        "image_fgbQY4": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "8",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_T6emia": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_irJPRi": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_fgbQY4",
+        "image_T6emia",
+        "image_irJPRi"
+      ],
+      "name": "t:sections.media_grid.presets.media_grid.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "Media grid",
+        "content": ""
+      }
+    },
     "featured_collections_hEbtWM": {
       "type": "featured-collections",
       "blocks": {
@@ -964,6 +1037,7 @@
     "collection_list_ByHyfH",
     "timeline_8XcLnR",
     "collection_list_34TAbC",
+    "media_grid_PQJi3H",
     "featured_collections_hEbtWM",
     "timeline_ehrckp",
     "collection_list_KhUcHm",
