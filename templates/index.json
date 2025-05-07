@@ -305,7 +305,7 @@
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-63fd9dbe-258f-4564-a6e8-d8025d5ba4bc",
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
