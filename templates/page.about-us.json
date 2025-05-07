@@ -204,6 +204,45 @@
         "text_color": "#ffffff"
       }
     },
+    "rich_text_aB3PpF": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_a9gF4Q": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_8EJadX": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_UgrhYC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>At <strong>Studio East6</strong>, we bring together the elegance of Eastern couture and the bold charm of Western fashion. As a curated Multi-Brand Outlet (MBO), we are home to a dynamic mix of designers and labels that celebrate culture, craftsmanship, and contemporary style.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_a9gF4Q",
+        "heading_8EJadX",
+        "richtext_UgrhYC"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-63fd9dbe-258f-4564-a6e8-d8025d5ba4bc",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "media_grid_nCQmWd": {
       "type": "media-grid",
       "blocks": {
@@ -425,6 +464,7 @@
     "multiple_media_with_text_yV6gDT",
     "image_with_text_9RArmA",
     "video_tqegmj",
+    "rich_text_aB3PpF",
     "media_grid_nCQmWd"
   ]
 }
