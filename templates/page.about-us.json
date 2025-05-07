@@ -64,47 +64,79 @@
         "controls_color": "#ffffff"
       }
     },
-    "multiple_media_with_text_yV6gDT": {
-      "type": "multiple-media-with-text",
+    "rich_text_dJk7JE": {
+      "type": "rich-text",
       "blocks": {
-        "image_Jxzf9E": {
-          "type": "image",
+        "subheading_yFE3PE": {
+          "type": "subheading",
           "settings": {
-            "rotation": 0
+            "text": "Subheading"
           }
         },
-        "image_MQnbgy": {
-          "type": "image",
+        "heading_MAp8q9": {
+          "type": "heading",
           "settings": {
-            "rotation": 0
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_XyPBD3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "image_Jxzf9E",
-        "image_MQnbgy"
+        "subheading_yFE3PE",
+        "heading_MAp8q9",
+        "richtext_XyPBD3"
       ],
-      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_9RArmA": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_A6AxNN": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_V7TpQW": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_CUeJ9c": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_A6AxNN",
+        "heading_V7TpQW",
+        "richtext_CUeJ9c"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
         "reveal_on_scroll": true,
-        "separate_section_with_border": false,
-        "media_position_desktop": "after_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "About",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     },
     "image_with_text_block_AwNaGH": {
@@ -136,16 +168,16 @@
         "remove_vertical_spacing": false
       }
     },
-    "multiple_media_with_text_fcpCDG": {
+    "multiple_media_with_text_yV6gDT": {
       "type": "multiple-media-with-text",
       "blocks": {
-        "image_6hMMXU": {
+        "image_Jxzf9E": {
           "type": "image",
           "settings": {
             "rotation": 0
           }
         },
-        "image_pRh4U3": {
+        "image_MQnbgy": {
           "type": "image",
           "settings": {
             "rotation": 0
@@ -153,17 +185,17 @@
         }
       },
       "block_order": [
-        "image_6hMMXU",
-        "image_pRh4U3"
+        "image_Jxzf9E",
+        "image_MQnbgy"
       ],
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
       "settings": {
         "color_scheme": "scheme-2",
         "reveal_on_scroll": true,
         "separate_section_with_border": false,
-        "media_position_desktop": "before_text",
+        "media_position_desktop": "after_text",
         "media_position_mobile": "before_text",
-        "media_layout": "separated",
+        "media_layout": "overlap",
         "media_alignment": "center",
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
@@ -388,9 +420,10 @@
   "order": [
     "main",
     "slideshow_6XTqcW",
-    "multiple_media_with_text_yV6gDT",
+    "rich_text_dJk7JE",
+    "image_with_text_9RArmA",
     "image_with_text_block_AwNaGH",
-    "multiple_media_with_text_fcpCDG",
+    "multiple_media_with_text_yV6gDT",
     "media_grid_nCQmWd"
   ]
 }
