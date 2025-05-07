@@ -114,6 +114,7 @@
         "heading_V7TpQW",
         "richtext_CUeJ9c"
       ],
+      "disabled": true,
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "scheme-2",
