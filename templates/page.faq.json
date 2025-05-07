@@ -12,6 +12,12 @@
     "rich_text_86xXKc": {
       "type": "rich-text",
       "blocks": {
+        "subheading_GKaDmG": {
+          "type": "subheading",
+          "settings": {
+            "text": "Need Help?"
+          }
+        },
         "heading_enjmE9": {
           "type": "heading",
           "settings": {
@@ -27,6 +33,7 @@
         }
       },
       "block_order": [
+        "subheading_GKaDmG",
         "heading_enjmE9",
         "richtext_m7wfAi"
       ],
