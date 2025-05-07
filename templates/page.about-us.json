@@ -69,12 +69,14 @@
       "blocks": {
         "subheading_yFE3PE": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
         },
         "heading_MAp8q9": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Heading",
             "heading_tag": "h1"
@@ -83,7 +85,7 @@
         "richtext_XyPBD3": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>As featured in <em>People Magazine</em> and <em>Elle</em>, and highlighted by <em>Vogue India</em> as a top destination in “An NRI Bride’s Guide to Buying Traditional Wedding Wear Around the World,” <strong>Studio East6</strong> has become a global name in South Asian fashion.</p><p>Founded in 2014 in Chicago, <strong>Studio East6 (SE6)</strong> is a trailblazing Indian multi-designer studio that was among the first to bring curated South Asian couture to the U.S. market. Over the years, SE6 has dressed a host of prominent South Asian actors, producers, and influencers—including <strong>Mindy Kaling</strong>—and has been featured on popular TV shows such as Netflix’s <em>Love Is Blind</em> (Season 2, worn by Deepti Vempati) and Bravo TV.</p>"
           }
         }
       },
