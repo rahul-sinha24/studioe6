@@ -62,6 +62,7 @@
         },
         "heading_dj8UhN": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Come experience the world of Studio East6 in person. Explore our curated collections, try on your favorite looks, and receive personalized styling advice from our team.",
             "heading_tag": "h3"
