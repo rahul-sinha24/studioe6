@@ -167,6 +167,7 @@
         "image_MQnbgy": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Untitled-1.png",
             "rotation": 0
           }
         }
