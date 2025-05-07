@@ -215,6 +215,43 @@
             "question": "Does your studio offer alteration or tailoring?",
             "answer": "<p>We operate like our website whether shopping online or in-store. We do not offer any alteration services after purchase. Any tailoring or alterations are to be taken care of per customer. Most of our pieces come with about 3 - 4 inches of inseam to adjust accordingly. This equates to almost 2 dress sizes. We may have a list of recommended tailors in your city since we have been shipping throughout the country for quite some time!</p>"
           }
+        },
+        "question_HyLgNh": {
+          "type": "question",
+          "settings": {
+            "question": "Can you take measurements in-studio?",
+            "answer": "<p>If you are looking to place an order, but unsure about measurements, there will be online measurement forms for you fill out once you checkout. Alternatively, we can email you a custom measurement form to fill online or setup a 15-20 min follow-up in-person or virtual appointment for measurements.</p><p>Measurements can be taken in-studio free of charge with a <strong>confirmed order only.</strong> If measurements are taken without a confirmed order, there is a $50 charge which can be refunded if a confirmed order is placed within 7 days of time measurements are taken. There will be no exceptions.</p><p>*If you are looking to come in only for measurements, this will depend on if we are open, appointment schedule, and sheer availability of our staff.  Our purchasing clients are first priority and if there are clients present in the studio, we cannot take your measurements. We may or may not be to accommodate measurement only requests during walk-in hours. We will not schedule appointments for measurements only. Please call ahead of time.<br/><strong>*We do not do any alterations or have an in-house tailor</strong></p>"
+          }
+        },
+        "question_L38fy3": {
+          "type": "question",
+          "settings": {
+            "question": "Does you carry or customize Men’s clothing? Can I purchase matching Mens through your studio?",
+            "answer": "<p>You have probably seen many examples of custom men’s clothing we have created on our social media posts. We do not have these styles available to shop on our website or in-studio quite yet, but we’re working on it.</p><p>In the meantime, you can definitely order any of the men’s’ styles that our partnered designers have, directly through us for the same price. For example, we do take orders on Falguni Shane Peacock, Anita Dongre, & Payal Singhal Menswear. We will work to coordinate outfit colors and details with the designer. </p><p>We carry a very limited (if any) men’s’ attire in-stock in our studio. We usually do have kurtas in-stock ready-to-purchase.</p>"
+          }
+        },
+        "question_w8M7cJ": {
+          "type": "question",
+          "settings": {
+            "question": "Does your studio offer kids’ clothing?",
+            "answer": "<p>We do have a limited amount of styles on our website. In-studio, we do have many more options to purchase off-the-rack.</p>"
+          }
+        },
+        "question_EJNxBz": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "question": "CUSTOMIZATIONS",
+            "answer": "<p>We work with all our curated designers directly & communicate with them daily. Therefore, we can get a range of customizations done within their styles from colors to necklines. Not sure? Just ask! We try our best to make it happen within means. while ensuring order still turns out nicely.</p>"
+          }
+        },
+        "question_Y7kghX": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "question": "Can colors be changed?",
+            "answer": "<p>Yes, we can change colors to most styles though it is still dependent. Note that the embroidery tones may not be able to be changed though.</p>"
+          }
         }
       },
       "block_order": [
@@ -240,7 +277,12 @@
         "question_qeQYQV",
         "question_dU63Pq",
         "category_h7xLmr",
-        "question_KUfWJL"
+        "question_KUfWJL",
+        "question_HyLgNh",
+        "question_L38fy3",
+        "question_w8M7cJ",
+        "question_EJNxBz",
+        "question_Y7kghX"
       ],
       "settings": {
         "color_scheme": "scheme-2",
@@ -250,10 +292,91 @@
         "title": "",
         "content": ""
       }
+    },
+    "rich_text_aw8zUR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bbYqEw": {
+          "type": "heading",
+          "settings": {
+            "text": "CUSTOMIZATIONS",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_AMY4Fz": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We work with all our curated designers directly & communicate with them daily. Therefore, we can get a range of customizations done within their styles from colors to necklines. Not sure? Just ask! We try our best to make it happen within means. while ensuring order still turns out nicely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bbYqEw",
+        "richtext_AMY4Fz"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "faq_KL9GVn": {
+      "type": "faq",
+      "blocks": {
+        "category_Nhg9BN": {
+          "type": "category",
+          "settings": {
+            "title": "Additional Customization",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_hhexxj": {
+          "type": "question",
+          "settings": {
+            "question": "Can colors be changed?",
+            "answer": "<p>Yes, we can change colors to most styles though it is still dependent. Note that the embroidery tones may not be able to be changed though.</p>"
+          }
+        },
+        "question_BjiLaJ": {
+          "type": "question",
+          "settings": {
+            "question": "Can sleeves be added or removed on a style?",
+            "answer": "<p>Yes, most styles can have sleeves added. There could be additional charges for sleeves, depending on the length of the sleeve, embroidery, etc. Sleeves can be made without, as well.</p>"
+          }
+        },
+        "question_ngqAN4": {
+          "type": "question",
+          "settings": {
+            "question": "Can my top be made longer or neckline be modified?",
+            "answer": "<p>Yes, most styles can be modified! Your top length will be based upon your measurements, if custom ordering.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_Nhg9BN",
+        "question_hhexxj",
+        "question_BjiLaJ",
+        "question_ngqAN4"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
     }
   },
   "order": [
     "rich_text_86xXKc",
-    "faq"
+    "faq",
+    "rich_text_aw8zUR",
+    "faq_KL9GVn"
   ]
 }
