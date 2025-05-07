@@ -480,7 +480,7 @@
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "color_scheme": "",
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify://shop_images/Untitled-1_b78f12bb-e37a-4d55-bc81-93f4510a29a9.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
