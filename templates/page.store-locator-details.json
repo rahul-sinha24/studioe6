@@ -55,6 +55,7 @@
       "blocks": {
         "subheading_DDRmcR": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
@@ -62,12 +63,13 @@
         "heading_dj8UhN": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1"
+            "text": "Come experience the world of Studio East6 in person. Explore our curated collections, try on your favorite looks, and receive personalized styling advice from our team.",
+            "heading_tag": "h3"
           }
         },
         "richtext_aAKNT3": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
