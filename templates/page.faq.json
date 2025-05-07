@@ -52,30 +52,146 @@
         "category": {
           "type": "category",
           "settings": {
-            "title": "Order",
-            "icon": "none",
+            "title": "Store",
+            "icon": "picto-building",
             "icon_width": 16
           }
         },
         "question-1": {
           "type": "question",
           "settings": {
-            "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "question": "What is Studio East6?",
+            "answer": "<p>As featured in Vogue India, Studio East6 is a shopping destination for \"A bride’s guide to buying traditional wedding wear around the world\", Studio East6 has attired many prominent South Asian influencers, such as Mindy Kaling!<br/><br/>Studio East6 is an authorized retailer to many of India's top fashion designers (ie Tarun Tahilani, Falguni Shane Peacock, Anita Dongre, Seema Gujral, Papa Don’t Preach, Payal Singhal, etc) and has established direct partnerships with each of them. SE6 was founded on the idea of making some of India's sought out designers & designs more accessible to the North American market.</p>"
           }
         },
         "question-2": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "question": "10 Reasons You Should Shop with Studio East6?",
+            "answer": "<p><strong>1. </strong>You can bid farewell to the stress of ordering directly from India, including concerns like ensuring the order is accurate, meeting delivery deadlines, fit, and ensuring quality.<br/><br/><strong>2. </strong>You can shop across multiple top Indian designers all in one location stress-free!  Let us handle all the work for you!<br/><br/>3.SE6 works with all our curated designers directly and we have formed very strong partnerships with each of them. You can order any of their styles, whether is featured on our website, their website, social media, etc<br/><br/><strong>4.</strong>Due to our direct partnerships and strong relationships, we can help customize many pieces to your liking upon request (ie colors, necklines, sleeve lengths, etc)<br/><br/><strong>5. </strong>SE6 has a physical studio space - conveniently located downtown Chicago (and Chicago is so easy to get to from anywhere in the U.S., right?). You can actually come see, try on, or purchase many pieces directly off the rack.<br/><br/><strong>6. </strong>SE6 does have appointments or walk-in hours. Please read more about this <a href=\"https://www.studioeast6.com/pages/location-and-store-hours\" target=\"_blank\" title=\"here\"><strong>here</strong></a></p><p><strong>7. </strong>SE6 has been in the industry for a considerable amount of time, surpassing the typical lifespan of Indian designer studios), which means we are reliable and got this down to a science<br/><br/><strong>8. </strong>SE6 ships orders for free within the US for orders over $100<br/><br/><strong>9. </strong>All the product SE6 offers is handcrafted, not factory made, which makes each piece unique and guarantees quality<br/><br/><strong>10. </strong>SE6 can collaborate with you remotely from any location, regardless of whether you are in the US or not. You have the flexibility to place orders from anywhere globally, and we will handle your order entirely from start to finish.</p>"
           }
         },
         "question-3": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "question": "Do you have a retail location?",
+            "answer": "<p>We do have a physical studio location at 1142 W. Madison St. #407 Chicago, IL 60607 in the heart of the trendy West Loop neighborhood.</p>"
+          }
+        },
+        "category_YJ8zEe": {
+          "type": "category",
+          "settings": {
+            "title": "Products",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_6NhP6w": {
+          "type": "question",
+          "settings": {
+            "question": "Where do you get your products from?",
+            "answer": "<p>India -- wherever our designers are headquartered. We are partnered & work directly with our curated designers as a multi-designer studio, so all product is coming directly from design houses.</p>"
+          }
+        },
+        "question_NWHpxW": {
+          "type": "question",
+          "settings": {
+            "question": "Do you have pieces in-stock at your studio to purchase or try on?",
+            "answer": "<p>Yes, we have about ~150 - 200 styles in our studio, at a time, to purchase off-the-rack. Most of the styles are sent into our studio on rotation by our curated designers, so we may or may not have very specific styles from website in-stock at a given moment.<br/><br/>Each designer sends in stock on rotation and typically have about 7-10 pieces from that designer in at a time (unless pieces have been bought off the rack from clients). This sampling usually provides clients a good idea of each of the designer's quality and workmanship up close, as well as silhouettes in order to custom order.<br/><br/>We are unique in the sense that we are not located where all other traditional Indian stores are located in Chicago-- off of Devon Avenue! We are located in the heart of downtown Chicago. Convenient and intentional location for our customer demographic.</p>"
+          }
+        },
+        "question_rWrccr": {
+          "type": "question",
+          "settings": {
+            "question": "What are the size options for the pieces in-studio try that are available to purchase or try on?",
+            "answer": "<p>We are a curated multi-designer studio, so all our items are hand-made (not factory made in bulk). Therefore, we are beholden to the sample pieces our designers send us in varying sizes. We do request sizes from 0-18 from our designers, but at any given time it can vary. It really depends on the replenishment cycle vs what is being purchased off the rack.</p><p>Due to our setup, we may not have a specific designer, style, color, or size in stock at all times. </p><p>Since we opened, we continually make it our goal to request that our designer partners send us a range of sizes. This is something we communicate to our designers, each time they are sending us stock. </p>"
+          }
+        },
+        "category_JHhnGG": {
+          "type": "category",
+          "settings": {
+            "title": "Appointment",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_HQF8mY": {
+          "type": "question",
+          "settings": {
+            "question": "What are your in-studio hours?",
+            "answer": "<p>We operation by a combination of open walk-in hours and by appointment only. We are closed on Monday & Tuesday of each week. To learn more about our exact hours, please visit <a href=\"https://www.studioeast6.com/pages/location-and-store-hours\" target=\"_blank\"><strong>here</strong></a></p><p>We post weekly walk-in hours on our social media also <a href=\"https://instagram.com/studioeast6\" target=\"_blank\" title=\"here\">here</a>.</p>"
+          }
+        },
+        "question_xwt98M": {
+          "type": "question",
+          "settings": {
+            "question": "Do I need an appointment for walk-in hours? How many times can I visit during walk-in hours?",
+            "answer": "<p>You do not need an appointment for walk-in hours. We advise if you are preliminary bridal shopping or looking to shop off-the-rack, to please visit our walk-in hours. You can come in as many times as you want during our walk-in hours, without an appointment.</p>"
+          }
+        },
+        "category_F9mmJ8": {
+          "type": "category",
+          "settings": {
+            "title": "Order & Shipping",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_Bnizhw": {
+          "type": "question",
+          "settings": {
+            "question": "How long will it take to receive my Ready-To-Ship order?",
+            "answer": "<p>We are impatient people here! When you order, we tend to ship within 48 business hours but do state we ship within 2-6 business days. Depending on where you live, the shipping times may vary. We offer various shipping methods to support faster delivery.</p>"
+          }
+        },
+        "question_JAiQLP": {
+          "type": "question",
+          "settings": {
+            "question": "How long will it take to receive my Custom Order?",
+            "answer": "<p>If item is not under 'Ready To Ship' section, it is considered a custom order whether you select default sizing or custom sizing. It will be made to order.</p><p>If order is a custom order, then it is taking anywhere from 6 - 15 weeks due to COVID and b/c the order will be custom made to your specifications. If it is a bridal order, it may take anywhere from 8 – 20 weeks. If you do need it sooner, then just ask us and we will try our best to accommodate.</p>"
+          }
+        },
+        "question_rCLBEi": {
+          "type": "question",
+          "settings": {
+            "question": "Does your studio offer expedited shipping?",
+            "answer": "<p>Yes, we do. We can overnight or expedite shipping according to your needs. Please feel free to email us at: customerservice@studioeast6.com</p>"
+          }
+        },
+        "category_wEMaMq": {
+          "type": "category",
+          "settings": {
+            "title": "Payment",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_9jfbj6": {
+          "type": "question",
+          "settings": {
+            "question": "What are your payment options?",
+            "answer": "<p>Credit Card, PayPal, Zelle, Venmo, PopMoney, Check, and probably Bitcoin someday. We also accept cash for those who visit our physical studio.</p>"
+          }
+        },
+        "question_tWxUYR": {
+          "type": "question",
+          "settings": {
+            "question": "I am Indian, can I get a discount?",
+            "answer": "<p>Our designers all have standard global pricing. Also, imagine that instead of buying from us, that you fly to India, spend 2 weeks seeking out the designer of your choice, choosing the design, and then only to have it shipped here incorrectly with customs & duties. Also, let’s not forget an 18% GST tax you will get charged there as well. There, we just saved you $3000 - Consider it a discount :)<br/>On a serious note, please note that we do donate a portion of each sale to the Alzheimer's Association. Please be mindful of this when asking for discounts.<br/><br/>Finally, we do offer specials from time to time, especially to our loyal customers. Register for an account, and you will be automatically added to our mailing list.</p>"
+          }
+        },
+        "question_9ii8W9": {
+          "type": "question",
+          "settings": {
+            "question": "I am not Indian, can I get a discount?",
+            "answer": "<p>Oh, wait we see what you did there, reverse psychology? You would have paid $4500. (see above).</p>"
+          }
+        },
+        "question_qeQYQV": {
+          "type": "question",
+          "settings": {
+            "question": "I already spent $2000 on an outfit I purchased from elsewhere that turned out a mess. I need something made in place... can I get a discount?",
+            "answer": "<p>Unfortunately, not, but consider that a learning lesson where you could have had a stress-free process with us! We would have saved you time & money and you would have ended up with a fabulous outfit :)</p>"
           }
         }
       },
@@ -83,14 +199,30 @@
         "category",
         "question-1",
         "question-2",
-        "question-3"
+        "question-3",
+        "category_YJ8zEe",
+        "question_6NhP6w",
+        "question_NWHpxW",
+        "question_rWrccr",
+        "category_JHhnGG",
+        "question_HQF8mY",
+        "question_xwt98M",
+        "category_F9mmJ8",
+        "question_Bnizhw",
+        "question_JAiQLP",
+        "question_rCLBEi",
+        "category_wEMaMq",
+        "question_9jfbj6",
+        "question_tWxUYR",
+        "question_9ii8W9",
+        "question_qeQYQV"
       ],
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
         "show_categories": false,
-        "subheading": "Need help?",
-        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "title": "",
         "content": ""
       }
     }
