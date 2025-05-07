@@ -105,11 +105,249 @@
         "button_2_link": "",
         "button_2_style": "solid"
       }
+    },
+    "image_with_text_block_AwNaGH": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_ceaP96": {
+          "type": "subheading",
+          "settings": {
+            "text": "Image with text block"
+          }
+        },
+        "richtext_9daMzM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ceaP96",
+        "richtext_9daMzM"
+      ],
+      "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "content_width": "sm",
+        "enable_parallax": false,
+        "remove_vertical_spacing": false
+      }
+    },
+    "multiple_media_with_text_fcpCDG": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_6hMMXU": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image_pRh4U3": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_6hMMXU",
+        "image_pRh4U3"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "separated",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Showcase your product",
+        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "media_grid_nCQmWd": {
+      "type": "media-grid",
+      "blocks": {
+        "image_mCpy9y": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_kb4krW": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_FYQyT3": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_gYpTbh": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_wrtX97": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_PFncnc": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_kHRbwL": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_L4Xi9j": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_mCpy9y",
+        "image_kb4krW",
+        "image_FYQyT3",
+        "image_gYpTbh",
+        "image_wrtX97",
+        "image_PFncnc",
+        "image_kHRbwL",
+        "image_L4Xi9j"
+      ],
+      "name": "t:sections.media_grid.presets.media_grid.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "Media grid",
+        "content": ""
+      }
     }
   },
   "order": [
     "main",
     "slideshow_6XTqcW",
-    "multiple_media_with_text_yV6gDT"
+    "multiple_media_with_text_yV6gDT",
+    "image_with_text_block_AwNaGH",
+    "multiple_media_with_text_fcpCDG",
+    "media_grid_nCQmWd"
   ]
 }
