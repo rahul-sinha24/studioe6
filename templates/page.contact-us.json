@@ -67,12 +67,6 @@
     "rich_text_bAre8e": {
       "type": "rich-text",
       "blocks": {
-        "subheading_kGYMre": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_i9YCYn": {
           "type": "heading",
           "settings": {
@@ -83,12 +77,11 @@
         "richtext_fTNpmE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Our specialist team of stylists and support agents are ready to assist you in any way. Fill in the below form and we will get back to you the soonest.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_kGYMre",
         "heading_i9YCYn",
         "richtext_fTNpmE"
       ],
@@ -96,7 +89,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
-        "content_width": "sm",
+        "content_width": "xs",
         "text_position": "center",
         "remove_vertical_spacing": false
       }
