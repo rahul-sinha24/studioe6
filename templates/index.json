@@ -516,36 +516,6 @@
         "background_color": "#ffffff"
       }
     },
-    "featured_collections_hEbtWM": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_PdCkHV": {
-          "type": "collection",
-          "settings": {
-            "collection": "lehenga-2",
-            "products_count": 8,
-            "title": "Ready To Ship",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_PdCkHV"
-      ],
-      "name": "t:sections.featured_collections.presets.featured_collections.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
-    },
     "collection_list_chQb3x": {
       "type": "collection-list",
       "blocks": {
@@ -660,6 +630,36 @@
         "content_color": "#ffffff",
         "background_image": "shopify://shop_images/background_image_product.png",
         "background_color": "#ffffff"
+      }
+    },
+    "featured_collections_hEbtWM": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_PdCkHV": {
+          "type": "collection",
+          "settings": {
+            "collection": "lehenga-2",
+            "products_count": 8,
+            "title": "Ready To Ship",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_PdCkHV"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
       }
     },
     "timeline_ehrckp": {
@@ -1070,7 +1070,6 @@
         "logo_JXCRb8",
         "logo_PyEjWC"
       ],
-      "disabled": true,
       "name": "Auto Scrolling Logos",
       "settings": {}
     }
@@ -1083,6 +1082,7 @@
     "collection_list_34TAbC",
     "collection_list_chQb3x",
     "featured_collections_hEbtWM",
+    "logo_marquee_rFUUyH",
     "timeline_ehrckp",
     "collection_list_KhUcHm",
     "collection_list_KELLmU",
@@ -1090,7 +1090,6 @@
     "image_with_text_overlay_KqUx49",
     "testimonials_TLQTW8",
     "newsletter",
-    "blog-posts",
-    "logo_marquee_rFUUyH"
+    "blog-posts"
   ]
 }
