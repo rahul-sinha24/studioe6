@@ -109,7 +109,7 @@
       ],
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "reveal_on_scroll": true,
         "separate_section_with_border": false,
         "media_position_desktop": "after_text",
@@ -128,38 +128,6 @@
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
-      }
-    },
-    "image_with_text_block_AwNaGH": {
-      "type": "image-with-text-block",
-      "blocks": {
-        "subheading_ceaP96": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Image with text block"
-          }
-        },
-        "richtext_9daMzM": {
-          "type": "richtext",
-          "disabled": true,
-          "settings": {
-            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_ceaP96",
-        "richtext_9daMzM"
-      ],
-      "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
-      "settings": {
-        "color_scheme": "",
-        "image_size": "auto",
-        "image": "shopify://shop_images/IMG_9903_1400x_webp.png",
-        "content_width": "sm",
-        "enable_parallax": false,
-        "remove_vertical_spacing": false
       }
     },
     "image_with_text_9RArmA": {
@@ -413,7 +381,6 @@
     "main",
     "slideshow_6XTqcW",
     "rich_text_dJk7JE",
-    "image_with_text_block_AwNaGH",
     "multiple_media_with_text_yV6gDT",
     "image_with_text_9RArmA",
     "media_grid_nCQmWd"
