@@ -603,7 +603,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "item_color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "background_color": "#ffffff"
       }
     },
