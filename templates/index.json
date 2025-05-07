@@ -976,6 +976,7 @@
         "heading_qnbEhy",
         "richtext_TMhK6P"
       ],
+      "disabled": true,
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "color_scheme": "",
@@ -1026,6 +1027,7 @@
         "testimonial_nMhGFf",
         "testimonial_Xdxjrt"
       ],
+      "disabled": true,
       "name": "t:sections.testimonials.presets.testimonials.name",
       "settings": {
         "color_scheme": "",
