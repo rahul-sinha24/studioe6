@@ -317,7 +317,7 @@
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false
@@ -365,10 +365,10 @@
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "show_categories": false,
-        "subheading": "Need help?",
-        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "title": "",
         "content": ""
       }
     }
