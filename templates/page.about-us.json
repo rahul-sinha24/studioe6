@@ -117,7 +117,7 @@
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "image": "shopify://shop_images/Untitled-1.png",
         "mobile_image": "shopify://shop_images/Untitled-1.png",
         "reveal_on_scroll": true,
