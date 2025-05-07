@@ -227,7 +227,7 @@
       "name": "t:sections.video.presets.video.name",
       "settings": {
         "autoplay": true,
-        "show_controls": true,
+        "show_controls": false,
         "video_size": "md",
         "video": "shopify://files/videos/fsp_in_1st_banner_videos_5dec_2024 (2160p).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
