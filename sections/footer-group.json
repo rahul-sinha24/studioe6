@@ -77,7 +77,7 @@
         "links_mfrUFz": {
           "type": "links",
           "settings": {
-            "menu": "help",
+            "menu": "need-help",
             "show_menu_title": true,
             "menu_title": ""
           }
