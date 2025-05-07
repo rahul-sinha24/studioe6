@@ -74,6 +74,23 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-menu-001",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "About",
+            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -82,28 +99,12 @@
             "button_background": "",
             "button_text_color": ""
           }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
-        "newsletter",
         "links",
-        "text"
+        "text",
+        "newsletter"
       ],
       "settings": {
         "color_scheme": "",
