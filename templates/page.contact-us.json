@@ -126,50 +126,12 @@
         "title": "",
         "content": ""
       }
-    },
-    "rich_text_PknK7U": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_Acq9YD": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_dAeWJc": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_M67cwd": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_Acq9YD",
-        "heading_dAeWJc",
-        "richtext_M67cwd"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
     }
   },
   "order": [
     "main",
     "slideshow_nfhgkC",
     "rich_text_bAre8e",
-    "contact_W4tbE8",
-    "rich_text_PknK7U"
+    "contact_W4tbE8"
   ]
 }
