@@ -108,9 +108,9 @@
       },
       "scheme-f2dbc9f3-3412-4ab1-86ae-4ed0ce302632": {
         "settings": {
-          "background": "#efefef",
+          "background": "#5c0000",
           "background_gradient": "",
-          "text_color": "#1c1c1c",
+          "text_color": "#ffffff",
           "primary_button_background": "#5c0000",
           "primary_button_text_color": "#ffffff",
           "circle_button_background": "#ffffff",
