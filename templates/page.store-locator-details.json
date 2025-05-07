@@ -69,9 +69,8 @@
         },
         "richtext_aAKNT3": {
           "type": "richtext",
-          "disabled": true,
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Fill out the form below and our team will be in touch shortly. Whether you’re booking a styling appointment, have a question, or just want to say hello—we’re here to help.</p><p>We look forward to connecting with you!</p>"
           }
         }
       },
@@ -80,6 +79,7 @@
         "heading_dj8UhN",
         "richtext_aAKNT3"
       ],
+      "disabled": true,
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
