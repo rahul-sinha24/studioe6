@@ -456,17 +456,17 @@
         "content": ""
       }
     },
-    "image_with_text_overlay_diWK7R": {
+    "image_with_text_overlay_CVXrJP": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "heading_M4YzhF": {
+        "heading_6GYUeA": {
           "type": "heading",
           "settings": {
             "text": "Image with text overlay",
             "heading_tag": "h4"
           }
         },
-        "richtext_aUgHwD": {
+        "richtext_gTzMYp": {
           "type": "richtext",
           "settings": {
             "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
@@ -474,8 +474,8 @@
         }
       },
       "block_order": [
-        "heading_M4YzhF",
-        "richtext_aUgHwD"
+        "heading_6GYUeA",
+        "richtext_gTzMYp"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
@@ -501,6 +501,6 @@
     "video_tqegmj",
     "rich_text_aB3PpF",
     "media_grid_nCQmWd",
-    "image_with_text_overlay_diWK7R"
+    "image_with_text_overlay_CVXrJP"
   ]
 }
