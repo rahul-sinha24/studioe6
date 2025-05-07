@@ -37,7 +37,7 @@
         "richtext_xDB8Le": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><br/>Find our store location and plan your visit below—</p><p><strong>Studio East6<br/>1142 W. Madison St. #407 (4th floor)<br/>Chicago, IL 60607</strong></p>"
           }
         }
       },
