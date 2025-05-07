@@ -122,7 +122,7 @@
         "mobile_image": "shopify://shop_images/Untitled-1.png",
         "reveal_on_scroll": true,
         "image_position": "end",
-        "content_width": "sm",
+        "content_width": "lg",
         "remove_vertical_spacing": true
       }
     },
