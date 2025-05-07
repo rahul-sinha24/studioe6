@@ -568,12 +568,30 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "image_FfjBGd": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "column_count": "6",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_fgbQY4",
         "image_T6emia",
-        "image_irJPRi"
+        "image_irJPRi",
+        "image_FfjBGd"
       ],
       "name": "t:sections.media_grid.presets.media_grid.name",
       "settings": {
