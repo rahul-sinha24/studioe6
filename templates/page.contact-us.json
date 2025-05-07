@@ -96,6 +96,28 @@
     },
     "contact_W4tbE8": {
       "type": "contact",
+      "blocks": {
+        "text_LjK4MY": {
+          "type": "text",
+          "settings": {
+            "title": "Phone Number",
+            "use_long_text": false,
+            "required": true
+          }
+        },
+        "text_gWyzkw": {
+          "type": "text",
+          "settings": {
+            "title": "Subject",
+            "use_long_text": false,
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "text_LjK4MY",
+        "text_gWyzkw"
+      ],
       "name": "t:sections.contact.presets.contact_form.name",
       "settings": {
         "color_scheme": "scheme-2",
