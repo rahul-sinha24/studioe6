@@ -114,6 +114,23 @@
     "collection_list_hFiyRh": {
       "type": "collection-list",
       "blocks": {
+        "collection_CdWhUX": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/2_eb08a864-c9c1-424b-bb7d-71342fc34c62.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Women",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "collection_aqweL6": {
           "type": "collection",
           "settings": {
@@ -148,23 +165,6 @@
             "overlay_opacity": 0
           }
         },
-        "collection_CdWhUX": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/2_eb08a864-c9c1-424b-bb7d-71342fc34c62.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Women",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "collection_WAJgYc": {
           "type": "collection",
           "settings": {
@@ -184,9 +184,9 @@
         }
       },
       "block_order": [
+        "collection_CdWhUX",
         "collection_aqweL6",
         "collection_fibdGa",
-        "collection_CdWhUX",
         "collection_WAJgYc"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
