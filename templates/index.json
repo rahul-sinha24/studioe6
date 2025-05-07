@@ -512,7 +512,8 @@
         "content_inline": true,
         "left_image": "shopify://shop_images/Rang_Mahal_Latest_Collection.jpg",
         "content_color": "#ffffff",
-        "background_color": "#5c0000"
+        "background_image": "shopify://shop_images/background_image_product.png",
+        "background_color": "#ffffff"
       }
     },
     "featured_collections_hEbtWM": {
