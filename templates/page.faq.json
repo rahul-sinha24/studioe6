@@ -161,7 +161,7 @@
         "category_wEMaMq": {
           "type": "category",
           "settings": {
-            "title": "Payment",
+            "title": "Payments & Discounts",
             "icon": "none",
             "icon_width": 16
           }
@@ -193,6 +193,28 @@
             "question": "I already spent $2000 on an outfit I purchased from elsewhere that turned out a mess. I need something made in place... can I get a discount?",
             "answer": "<p>Unfortunately, not, but consider that a learning lesson where you could have had a stress-free process with us! We would have saved you time & money and you would have ended up with a fabulous outfit :)</p>"
           }
+        },
+        "question_dU63Pq": {
+          "type": "question",
+          "settings": {
+            "question": "I'm only going to wear this outfit once, can I get a discount?",
+            "answer": "<p>Unfortunately, not. However, based on customer feedback, we do promise you that if you purchase from us, you will wear your outfit more than once - That is the goal!</p>"
+          }
+        },
+        "category_h7xLmr": {
+          "type": "category",
+          "settings": {
+            "title": "Customization",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_KUfWJL": {
+          "type": "question",
+          "settings": {
+            "question": "Does your studio offer alteration or tailoring?",
+            "answer": "<p>We operate like our website whether shopping online or in-store. We do not offer any alteration services after purchase. Any tailoring or alterations are to be taken care of per customer. Most of our pieces come with about 3 - 4 inches of inseam to adjust accordingly. This equates to almost 2 dress sizes. We may have a list of recommended tailors in your city since we have been shipping throughout the country for quite some time!</p>"
+          }
         }
       },
       "block_order": [
@@ -215,7 +237,10 @@
         "question_9jfbj6",
         "question_tWxUYR",
         "question_9ii8W9",
-        "question_qeQYQV"
+        "question_qeQYQV",
+        "question_dU63Pq",
+        "category_h7xLmr",
+        "question_KUfWJL"
       ],
       "settings": {
         "color_scheme": "scheme-2",
