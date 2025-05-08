@@ -605,6 +605,74 @@
             "overlay_color": "#000000",
             "overlay_opacity": 5
           }
+        },
+        "collection_E3pJBW": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/anita_dongre.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Anita Dongre",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 5
+          }
+        },
+        "collection_q9c8e8": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/anushree_reddy.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Anushree Reddy",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 5
+          }
+        },
+        "collection_fanTKg": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/house_of_masaba.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "House of Masaba",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 5
+          }
+        },
+        "collection_6DMxHa": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/house_of_masaba.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "House of Masaba",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 5
+          }
         }
       },
       "block_order": [
@@ -612,7 +680,11 @@
         "collection_Ryq9gT",
         "collection_PpN6KC",
         "collection_GtCUzC",
-        "collection_N8rPKc"
+        "collection_N8rPKc",
+        "collection_E3pJBW",
+        "collection_q9c8e8",
+        "collection_fanTKg",
+        "collection_6DMxHa"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -629,7 +701,7 @@
         "title": "",
         "content": "",
         "content_inline": true,
-        "left_image": "shopify://shop_images/SAVE_THE_DATE_-_2.png",
+        "left_image": "shopify://shop_images/must_have_designers.png",
         "content_color": "#ffffff",
         "background_color": "#ffffff"
       }
