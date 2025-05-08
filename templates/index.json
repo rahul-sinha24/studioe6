@@ -191,6 +191,7 @@
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
+        "additional_class": "",
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
@@ -305,6 +306,7 @@
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
+        "additional_class": "save-the-date",
         "color_scheme": "scheme-f2dbc9f3-3412-4ab1-86ae-4ed0ce302632",
         "separate_section_with_border": true,
         "image_size": "auto",
@@ -499,6 +501,7 @@
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
+        "additional_class": "",
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "image_size": "auto",
@@ -614,6 +617,7 @@
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
+        "additional_class": "",
         "color_scheme": "scheme-f2dbc9f3-3412-4ab1-86ae-4ed0ce302632",
         "separate_section_with_border": true,
         "image_size": "auto",
@@ -797,6 +801,7 @@
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
+        "additional_class": "",
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
@@ -889,6 +894,7 @@
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
+        "additional_class": "",
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "image_size": "auto",
