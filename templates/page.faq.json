@@ -380,7 +380,7 @@
           "type": "category",
           "settings": {
             "title": "Sizing",
-            "icon": "none",
+            "icon": "picto-document",
             "icon_width": 16
           }
         },
@@ -402,7 +402,7 @@
           "type": "category",
           "settings": {
             "title": "Additional Brand Queries",
-            "icon": "none",
+            "icon": "picto-info",
             "icon_width": 16
           }
         },
