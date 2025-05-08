@@ -7956,5 +7956,9 @@ ul {
     margin-left: 10%;
 }
 
+.timeline__carousel:after {
+    background: none !important;
+}
+
 
 
