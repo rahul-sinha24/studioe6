@@ -576,12 +576,13 @@
         "image_tCFCb3",
         "image_FmyDUz"
       ],
+      "disabled": true,
       "name": "t:sections.media_grid.presets.media_grid.name",
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "desktop_row_height": 290,
-        "mobile_row_height": 380,
+        "mobile_row_height": 390,
         "section_width": "lg",
         "spacing": "xs",
         "subheading": "",
