@@ -330,7 +330,7 @@
           "type": "category",
           "settings": {
             "title": "Additional Customization",
-            "icon": "none",
+            "icon": "picto-award-gift",
             "icon_width": 16
           }
         },
