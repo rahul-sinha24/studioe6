@@ -455,6 +455,219 @@
         "title": "OUR FAVOURITE DESIGNERS",
         "content": ""
       }
+    },
+    "media_grid_88993X": {
+      "type": "media-grid",
+      "blocks": {
+        "image_4J8nRt": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/Presenting_Kashish-_the_Saree_Edit_by_Seema_Gujral_A_poetic_symphony_of_craft_and_tradition_this_ivory_organza_saree_features_intricate_linear_gota_patti_embroidery_with_a_delicate_sc.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_zMHwqH": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/The_Masaba_Bride_The_Rainbow_Barfi_Lehenga_A_breath_of_fresh_air_borrowing_from_the_excitement_and_the_visual_treat_that_is_the_sweet_the_lehenga_uses_the_age_old_craft_of_patchwork_t.png",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_wLywpV": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/The_Masaba_Bride_The_Mysore_Pak_Lehenga_-_The_Agra_Petha_Lehenga_TheMasabaBride_HouseOfMasaba_0cda0432-d0a7-4cf4-9151-f0ce328bd571.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_q7K7ph": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/I_think_the_basis_of_selecting_films_evolves_over_time_right_When_you_start_you_choose_from_what_s_available._But_as_you_find_your_feet_you_understand_what_you_should_gravitate_toward.jpg",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "video_nTryew": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "scheme-4",
+            "autoplay": true,
+            "show_controls": false,
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "video_UmrAzd": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "scheme-4",
+            "autoplay": true,
+            "show_controls": false,
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_Bggm7e": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "scheme-4",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_dYRymK": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "scheme-4",
+            "column_count": "3",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_tCFCb3": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/Summer_s_calling_and_she_s_dressed_in_..Petals_in_motion_colors_in_conversation._is_a_summer_story_of_grace_ease_and_everything_in_between.....jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_FmyDUz": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "image": "shopify://shop_images/From_the_cool_blues_of_the_ocean_to_the_warmth_of_sunlit_celebrations_this_collection_s_jewellery_and_accessor.jpg",
+            "column_count": "3",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_4J8nRt",
+        "image_zMHwqH",
+        "image_wLywpV",
+        "image_q7K7ph",
+        "video_nTryew",
+        "video_UmrAzd",
+        "image_Bggm7e",
+        "image_dYRymK",
+        "image_tCFCb3",
+        "image_FmyDUz"
+      ],
+      "name": "t:sections.media_grid.presets.media_grid.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "OUR FAVOURITE DESIGNERS",
+        "content": ""
+      }
     }
   },
   "order": [
@@ -465,6 +678,7 @@
     "image_with_text_9RArmA",
     "video_tqegmj",
     "rich_text_aB3PpF",
-    "media_grid_nCQmWd"
+    "media_grid_nCQmWd",
+    "media_grid_88993X"
   ]
 }
