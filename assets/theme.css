@@ -7950,9 +7950,10 @@ ul {
     max-width: 78% !important;
 }
 
-.faq{
-  display: block !important;
-  width:70% !important;
+.faq {
+    display: block;
+    width: 80%;
+    margin-left: 10%;
 }
 
 
