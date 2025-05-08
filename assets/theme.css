@@ -7969,3 +7969,7 @@ ul {
     width: 100% !important;
 }
  */
+
+.save-the-date .section-stack {
+    gap: 0 !important;
+}
