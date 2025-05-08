@@ -521,21 +521,38 @@
     "collection_list_chQb3x": {
       "type": "collection-list",
       "blocks": {
+        "collection_p4qq3X": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/falguni.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Falguni Shane Peacock",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 5
+          }
+        },
         "collection_Ryq9gT": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
             "collection": "",
-            "image": "shopify://shop_images/TT3FEB-9469_900x_jpg.png",
+            "image": "shopify://shop_images/TT.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "Engagement",
+            "button_text": "Tarun Tahiliani",
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 5
           }
         },
         "collection_PpN6KC": {
@@ -543,33 +560,16 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
-            "image": "shopify://shop_images/TTSEPT-150_900x_jpg.png",
+            "image": "shopify://shop_images/seema_gujral.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "Wedding",
+            "button_text": "Seema Gujral",
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_p4qq3X": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/RM-Red_Printed_Chiffon_Overlap_Jacket_Paired_With_Printed_Chiffon_Draped_Saree_and_Jewelled_Belt_1600x_64a70539-3c91-437f-938d-98aca283b36b.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Sangeet",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 5
           }
         },
         "collection_GtCUzC": {
@@ -577,16 +577,16 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
-            "image": "shopify://shop_images/RM--Yellow_Organza_Multicoloured_Embroidered_Lehenga_1600x_jpg.png",
+            "image": "shopify://shop_images/diya_rajvir.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "Haldi/Mehendi",
+            "button_text": "DiyaRajvvir",
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 5
           }
         },
         "collection_N8rPKc": {
@@ -594,23 +594,23 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
-            "image": "shopify://shop_images/Untitled_design.png",
+            "image": "shopify://shop_images/house_of_masaba.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "Reception",
+            "button_text": "House of Masaba",
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 5
           }
         }
       },
       "block_order": [
+        "collection_p4qq3X",
         "collection_Ryq9gT",
         "collection_PpN6KC",
-        "collection_p4qq3X",
         "collection_GtCUzC",
         "collection_N8rPKc"
       ],
@@ -629,9 +629,7 @@
         "title": "",
         "content": "",
         "content_inline": true,
-        "left_image": "shopify://shop_images/SAVE_THE_DATE.png",
         "content_color": "#ffffff",
-        "background_image": "shopify://shop_images/background_image_product.png",
         "background_color": "#ffffff"
       }
     },
