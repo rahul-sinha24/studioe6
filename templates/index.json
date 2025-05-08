@@ -835,17 +835,18 @@
         "collection_9qrdjz": {
           "type": "collection",
           "settings": {
-            "color_scheme": "",
+            "color_scheme": "scheme-4",
             "collection": "",
+            "image": "shopify://shop_images/490025070_18499011991005570_7527992384920661659_n_jpeg.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
             "button_text": "Fusion",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_GGrLzT": {
@@ -853,15 +854,16 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/474934173_18486610204051794_2136855394719041227_n_jpeg.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
             "button_text": "Accessories",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
@@ -884,7 +886,7 @@
         "title": "",
         "content": "",
         "content_inline": false,
-        "content_color": "",
+        "content_color": "#ffffff",
         "background_color": "#ffffff"
       }
     },
@@ -896,15 +898,16 @@
           "settings": {
             "color_scheme": "",
             "collection": "under-300",
+            "image": "shopify://shop_images/under_300.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "button_text": "",
+            "button_link": "shopify://collections/under-300",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_7NHPi7": {
@@ -912,15 +915,16 @@
           "settings": {
             "color_scheme": "",
             "collection": "under-400",
+            "image": "shopify://shop_images/under_400.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "button_text": "",
+            "button_link": "shopify://collections/under-400",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_DJLf9B": {
@@ -928,15 +932,16 @@
           "settings": {
             "color_scheme": "",
             "collection": "under-500",
+            "image": "shopify://shop_images/under_500.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "button_text": "",
+            "button_link": "shopify://collections/under-500",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_UzNqkL": {
@@ -944,15 +949,16 @@
           "settings": {
             "color_scheme": "scheme-4",
             "collection": "under-600",
+            "image": "shopify://shop_images/under_600.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "button_text": "",
+            "button_link": "shopify://collections/under-600",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
