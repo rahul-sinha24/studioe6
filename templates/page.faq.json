@@ -41,7 +41,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "content_width": "sm",
+        "content_width": "xs",
         "text_position": "center",
         "remove_vertical_spacing": false
       }
@@ -82,7 +82,7 @@
           "type": "category",
           "settings": {
             "title": "Products",
-            "icon": "none",
+            "icon": "picto-bag-handle",
             "icon_width": 16
           }
         },
@@ -111,7 +111,7 @@
           "type": "category",
           "settings": {
             "title": "Appointment",
-            "icon": "none",
+            "icon": "picto-timer",
             "icon_width": 16
           }
         },
@@ -133,7 +133,7 @@
           "type": "category",
           "settings": {
             "title": "Order & Shipping",
-            "icon": "none",
+            "icon": "picto-delivery-truck",
             "icon_width": 16
           }
         },
@@ -162,7 +162,7 @@
           "type": "category",
           "settings": {
             "title": "Payments & Discounts",
-            "icon": "none",
+            "icon": "picto-credit-card",
             "icon_width": 16
           }
         },
@@ -205,7 +205,7 @@
           "type": "category",
           "settings": {
             "title": "Customization",
-            "icon": "none",
+            "icon": "picto-love",
             "icon_width": 16
           }
         },
