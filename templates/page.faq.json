@@ -354,13 +354,143 @@
             "question": "Can my top be made longer or neckline be modified?",
             "answer": "<p>Yes, most styles can be modified! Your top length will be based upon your measurements, if custom ordering.</p>"
           }
+        },
+        "question_A7V4fY": {
+          "type": "question",
+          "settings": {
+            "question": "Why does the fabric of my piece look like it has pulls? Has it been damaged?",
+            "answer": "<p>Silk is a natural fabric which when woven & develops natural pulls. This is quite common on raw & dupion silk, as well as other natural weaves. It is not a defect in the garment, but the nature of the fabric</p>"
+          }
+        },
+        "question_FgyDii": {
+          "type": "question",
+          "settings": {
+            "question": "Why can't my order get made with same exact pattern as pictured?",
+            "answer": "<p>Unlike our solid fabrics such as georgettes and silks, patterned fabric does not get dyed. These fabrics get sourced from market in India and these markets are ever-changing with their supply. Therefore, options will vary based upon time of order.</p>"
+          }
+        },
+        "question_dzr3Y8": {
+          "type": "question",
+          "settings": {
+            "question": "Why doesn't my custom order look exactly the same as the original?",
+            "answer": "<p>Each custom order is hand-made from scratch. Can you imagine hand-making, dying, and embroidering a garment from scratch and having all the same details come out exactly the same each time? That is what makes our custom orders unique! Therefore, there might be some variation if patterned fabrics, borders, etc need to be sourced. Additionally, embroiderers may be unique to each order, which can cause slight variation in embroidery. Lastly, it is difficult to get each specific dye job exactly the same for each batch. However, we always try our best to get as close to original details as possible. Ordering pieces with this type of special hand touch causes factors noted above to be out of our control, but makes each piece unique. None of our styles are factory made.</p>"
+          }
+        },
+        "category_kxDaVF": {
+          "type": "category",
+          "settings": {
+            "title": "Sizing",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_rwkXef": {
+          "type": "question",
+          "settings": {
+            "question": "Sizing Options",
+            "answer": "<p>You have the option to select default sizing for your orders or 'Custom' sizing. (*Note the item may show 'Sold Out' if you do not select sizing options that are close to one another, as a safeguard to ensure you did not input incorrect sizes).</p><p>For the default size options, refer to our sizing chart <a href=\"https://www.studioeast6.com/pages/sizing-chart\" target=\"_blank\" title=\"here\">here</a>.</p><p>If you select the 'Custom' size options, your order will be made to exact measurements you provide. You will need to fill out the corresponding measurement guide after checkout. </p>"
+          }
+        },
+        "question_hbF7rG": {
+          "type": "question",
+          "settings": {
+            "question": "Custom Size Information",
+            "answer": "<p>If purchasing a custom size option, the final fit of your garments depends upon the accuracy of the measurements that you provide. Therefore, it is extremely important to send the accurate measurements. Measurements should be provided in Inches.</p><p><span style=\"text-decoration:underline\">Below are some general guidelines for taking the measurements with higher accuracy:</span></p><p>* Wear regular bra (not a sports bra) while taking measurements </p><p>* Have a trusted tailor take your measurements</p><p>* If taking measurements at home, stand in front of the mirror (so you too can monitor the process) or ask someone for help.</p><p>* While taking measurements, stand straight, have arms hang loose on the side, and do not suck in your stomach</p><p>* Measurements should be taken snuggly over the body, not too tight or too loose</p><p>* Please ensure length measurements take into account any shoes or heels</p><p>* Tip: to use your existing clothing as guides for measurements. For example, if you’re providing measurements for a saree blouse, then we suggest wearing saree blouse that fits well to cross-check. For skirt lengths, check measurements against an existing skirt and so forth</p><p>If your measurement details are accurate, this will reflect on the final fit of your outfit.</p>"
+          }
+        },
+        "category_e9JnRc": {
+          "type": "category",
+          "settings": {
+            "title": "Additional Brand Queries",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_zTBzWL": {
+          "type": "question",
+          "settings": {
+            "question": "Studio East6 in Partnership with the Alzheimer’s Association",
+            "answer": "<p>Since conception, SE6 donates a portion of every sale to the Alzheimer’s Association. The concept to create the studio was inspired by Rupa’s amazing mother, who was diagnosed with early on-set Alzheimer’s in 2010. Rupa’s fondest memories with her mother is sharing the love for all things fashion with her. SE6 is in legacy of Rupa’s mother & her forever impeccable style.</p>"
+          }
+        },
+        "question_YV4hGh": {
+          "type": "question",
+          "settings": {
+            "question": "Sustainability & International Fair Labor Practices",
+            "answer": "<p>Studio East6 pieces are not manufactured in bulk, compared to many other Indian fashion boutiques. Each piece from SE6 is hand-crafted from artisans in India, while adhering to fair labor practices, working conditions, and wages.</p><p>We fully support all our artisans by nurturing their beautiful craft while ensuring to safe working conditions. Choosing to purchase handmade products via our studio allows us to support the livelihood of skilled artisans and keep traditional crafts alive. </p><p><br/>SE6 believes in sustainability by carrying a limited selection of inventory in-stock (about ~150 styles in-studio at any given time). SE6 works mainly by a made-to-order basis, working to reduce the retail carbon footprint.<br/><br/>SE6 also aims to reduce our carbon footprint. We ship out all our orders in the same fashion in which our partnered designers ship to us and would ship direct to consumer/client. We will include any garment bags, duster bags, and packaging the designer uses to normally ship. Our packaging may not look the prettiest, b/c we purposefully reuse all packaging material, as best as possible - from all shipping boxes to plastic sleeves, as long as the garment is secure in delivery.  We make it a direct point to reduce waste by not filling our orders with any other extra packaging material, other than what is needed to deliver orders safely & properly. </p>"
+          }
+        },
+        "question_yceiDw": {
+          "type": "question",
+          "settings": {
+            "question": "RETURNS INFORMATION",
+            "answer": "<p>We really want you to be happy with your purchase. We are extremely passionate about our customers and ensuring that they are happy. However, we also want to secure ourselves against people who buy our product, wear them once, and then return it.</p>"
+          }
+        },
+        "question_RmeRmb": {
+          "type": "question",
+          "settings": {
+            "question": "LIST OF RETURNABLE ITEMS",
+            "answer": "<p>Only our <a href=\"https://www.studioeast6.com/collections/ready-to-ship\" title=\"https://www.studioeast6.com/collections/ready-to-ship\"><strong>Ready-to-Ship items</strong></a><strong> </strong>(excluding items listed in List of Final Sale/Non-Refundable Items) are applicable for a return & refund. Tags must be on. If tags have been removed, item automatically will be categorized as non-refundable. Items must be unworn and undamaged. If item is not under 'Ready To Ship' section, it is considered a custom order whether you select default sizing or custom sizing. It will be made to order & is non-refundable.</p>"
+          }
+        },
+        "question_myLB9y": {
+          "type": "question",
+          "settings": {
+            "question": "LIST OF FINAL SALE / NON-RETURNABLE ITEMS",
+            "answer": "<p>1. Any item that is <strong>not </strong>in our <a href=\"https://www.studioeast6.com/collections/ready-to-ship\"><strong>Ready-to-Ship</strong></a> section. These items are considered custom orders and non-refundable<br/>2. International orders (NOT IN THE USA)<br/>3. Items purchased with Gift Cards or Store Credit<br/>4. Products listed or noted as Final Sale or Sample Sale<br/>5. Non-clothing items or Accessories (this includes all jewelry, shoes, handbags, purses, belts, headpieces, arm cuffs, or any item that is non-clothing related)<br/>6. Worn Product/ Damaged Product<br/>7. Consignment Stock<br/>8. Masks</p>"
+          }
+        },
+        "question_jjYFzW": {
+          "type": "question",
+          "settings": {
+            "question": "Ready-To-Ship Items Full Refund Policy",
+            "answer": "<p>We accept returns only for items under our <a href=\"https://www.studioeast6.com/collections/ready-to-ship\"><strong>Ready To Ship</strong></a> category. Items must be returned within 7 days upon date of delivery or in-studio purchase for a full refund.<br/><br/>This is 7 days door-to-door refund policy upon delivery/in-studio purchase. For example, if your order was delivered or purchased in-studio on 1/1/2020, then the last date where a return for a full refund will be accepted is by 1/8/20. Refunds are not accepted after 7 days.<br/><br/>Tags must be on. If tags have been removed, item automatically will be categorized as non-refundable. Items must be unworn and undamaged. If item appears to be worn, then order is non-refundable.<br/><br/>We will ship garment back to recipient if item does not qualify for a refund based upon our policy stated above.<br/><br/>If an item is not under 'Ready-To-Ship' section, it is considered a custom order whether you select default sizing or custom sizing. It will be made to order & is non-refundable.</p><p><span style=\"text-decoration:underline\"><strong>Return Shipping</strong></span><span style=\"text-decoration:underline\"> </span>- It is the customer's responsibility for the return shipping to address listed below:<br/>Studio East6<br/>1142 W. Madison St. #407<br/>Chicago, IL 60607<br/>Ph: 312-834-3469<br/><br/>* When returning garments, please ensure each garment is secure in plastic covering to protect from any damage. If the garment is not package correctly and incurs damages in transit, the item will be non-refundable.<br/><br/>* Shipping costs are non-refundable. If you are returning an item over $100, you should consider using a trackable shipping service or purchasing shipping insurance. We are not responsible for any lost or damaged packages.</p>"
+          }
+        },
+        "question_iLdGWX": {
+          "type": "question",
+          "settings": {
+            "question": "Ready-To-Ship Items Store Credit Policy",
+            "answer": "<p>Returns for our <a href=\"https://www.studioeast6.com/collections/ready-to-ship\"><strong>Ready-To-Ship</strong></a> items received from 8 - 10 days upon date of delivery or studio purchase will be issued store credit. Tags must be on. Items must be unworn and undamaged. For example, if your order was delivered or purchased in-studio on 1/1/2020, then the window for would be issued is 1/9/20 -1/11/20. When purchasing items with store credit, items will be non-refundable.</p><p><span style=\"text-decoration:underline\"><strong>*Product will not be accepted after 10 days upon delivery date. If you return items past this date, we will send your order back to you.</strong></span></p>"
+          }
+        },
+        "question_xfJB4b": {
+          "type": "question",
+          "settings": {
+            "question": "Non Ready-To-Ship / Custom Order Return Policy - Non-Refundable",
+            "answer": "<p>* All non-ready-to-ship /custom orders are final sale. If an item is <strong>not</strong> under <a href=\"https://www.studioeast6.com/collections/ready-to-ship\"><strong>Ready To Ship</strong></a> category, it is considered a custom order whether you select default sizing or custom sizing. It will be made to order & is non-refundable.</p><p>* Please note that custom sizes will be checked against measurements taken or provided by customer before shipping or delivery. We do hold all final measurement check images up to 14 days after shipping or pick-up, feel free to ask. </p><p>* Since we do not charge additional fees for most custom size orders, any additional alterations are to be taken care of per customer. Alterations can be due to numerous factors: such as weight fluctuations, accuracy of measurements (if provided by customer), dress style, etc. Bust and waist sizing fluctuate frequently and commonly. Therefore, each piece is built with additional margin to let out, if needed per customer.</p><p>* Additionally, there may be slight color variations due what is photographed and actual pieces due to lighting of photo(s), orders being is custom dyed, laptop/computer settings, etc.</p><p>* If there is production defect or serious issue with an order, please email contact@studioeast6.com within 36 hours of delivery with comprehensive details along with images of the product to be considered for review. Please note we are not able to assist after 24 hours. </p>"
+          }
+        },
+        "question_qfYGyM": {
+          "type": "question",
+          "settings": {
+            "question": "PRICING AND PRICE REDUCTIONS/CORRECTIONS:",
+            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to imp Studio East6 reserves the right to change prices for products displayed at/on the website at any time due to price changes from our partnered designers and/or correct pricing errors that may inadvertently occur. Prices shown are in U.S. dollars. If you are paying for your order with an international Visa, MasterCard, or American Express credit card, please note that the purchase price may fluctuate with exchange rates. In addition, your bank or credit card issuer may also charge you foreign conversion charges and fees, which may also increase the overall cost of your purchase. Please contact your bank or credit card issuer regarding these fees.</p>"
+          }
         }
       },
       "block_order": [
         "category_Nhg9BN",
         "question_hhexxj",
         "question_BjiLaJ",
-        "question_ngqAN4"
+        "question_ngqAN4",
+        "question_A7V4fY",
+        "question_FgyDii",
+        "question_dzr3Y8",
+        "category_kxDaVF",
+        "question_rwkXef",
+        "question_hbF7rG",
+        "category_e9JnRc",
+        "question_zTBzWL",
+        "question_YV4hGh",
+        "question_yceiDw",
+        "question_RmeRmb",
+        "question_myLB9y",
+        "question_jjYFzW",
+        "question_iLdGWX",
+        "question_xfJB4b",
+        "question_qfYGyM"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
