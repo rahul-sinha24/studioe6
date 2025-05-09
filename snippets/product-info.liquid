@@ -515,12 +515,13 @@ Supported variables
               {%- render 'button', href: block.settings.link, content: block.settings.text, stretch: block.settings.stretch, background: block.settings.background, text_color: block.settings.text_color -%}
             {%- endif -%}
 
-          {% render 'social-share', url: product.url, title: product.title, description: product.description, layout: 'list %}
-
-{% comment %}
     
           {%- when 'share_buttons' -%}
-            <share-button>
+ 
+              {% render 'social-share', url: product.url, title: product.title, description: product.description, layout: 'list %}
+  
+    {% comment %}      
+    <share-button>
               <button class="share-buttons share-buttons--native link-faded" hidden>
                 <span class="smallcaps text-xxs">{{- 'general.social.share' | t -}}</span>
                 {%- render 'icon' with 'share' -%}
@@ -531,8 +532,8 @@ Supported variables
                 {%- render 'share-buttons', url: product.url, title: product.title, description: product.description, layout: 'list' -%}
               </div>
             </share-button>
-
 {% endcomment %}
+
         
           {%- when 'more_information' -%}
             {%- comment -%}We need at least one block compatible with below gallery information{%- endcomment -%}
