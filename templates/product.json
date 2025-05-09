@@ -150,6 +150,11 @@
             "stack_products": false,
             "show_quick_buy": true
           }
+        },
+        "share_buttons_8gTtzw": {
+          "type": "share_buttons",
+          "disabled": true,
+          "settings": {}
         }
       },
       "block_order": [
@@ -169,7 +174,8 @@
         "accordion_kUN6Ee",
         "accordion_HaanEH",
         "accordion_keDeen",
-        "complementary_products"
+        "complementary_products",
+        "share_buttons_8gTtzw"
       ],
       "settings": {
         "color_scheme": "scheme-2",
