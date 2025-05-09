@@ -515,7 +515,7 @@ Supported variables
               {%- render 'button', href: block.settings.link, content: block.settings.text, stretch: block.settings.stretch, background: block.settings.background, text_color: block.settings.text_color -%}
             {%- endif -%}
 
-          {% render 'social-share' url: product.url, title: product.title, description: product.description, layout: 'list %}
+          {% render 'social-share', url: product.url, title: product.title, description: product.description, layout: 'list %}
 
 {% comment %}
     
