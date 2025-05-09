@@ -28,6 +28,19 @@
     "button_letter_spacing": 10,
     "favicon": "shopify://shop_images/logo_1_79e0dde9-a26f-4ff0-a01f-5047f79aa3f5.png",
     "content_for_index": [],
+    "blocks": {
+      "7870687481494312845": {
+        "type": "shopify://apps/wishlist-hero/blocks/app-embed/a9a5079b-59e8-47cb-b659-ecf1c60b9b72",
+        "disabled": false,
+        "settings": {
+          "customThemeName": "~",
+          "additionalWLButtonCssClasses": "",
+          "additionalWLCartBubbleCssClasses": "",
+          "extraHTMLToAppend": "",
+          "disableAutomaticButtonAddition": false
+        }
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
