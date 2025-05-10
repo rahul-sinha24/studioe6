@@ -203,6 +203,7 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "content_above_carousel": false,
         "content_inline": false,
         "content_color": ""
       }
@@ -317,6 +318,7 @@
         "subheading": "trhsgsegdxf",
         "title": "wreewqtyewy",
         "content": "<p>sgfdxxfd</p>",
+        "content_above_carousel": false,
         "content_inline": true,
         "content_color": "#1c1c1c"
       }
@@ -508,8 +510,9 @@
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "",
+        "title": "Collection List",
         "content": "",
+        "content_above_carousel": true,
         "content_inline": true,
         "left_image": "shopify://shop_images/Rang_Mahal_Latest_Collection.jpg",
         "content_color": "#ffffff"
@@ -697,6 +700,7 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "content_above_carousel": false,
         "content_inline": true,
         "left_image": "shopify://shop_images/must_have_designers.png",
         "content_color": "#ffffff"
@@ -882,6 +886,7 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "content_above_carousel": false,
         "content_inline": false,
         "content_color": "#ffffff"
       }
@@ -978,6 +983,7 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "content_above_carousel": false,
         "content_inline": false,
         "content_color": ""
       }
