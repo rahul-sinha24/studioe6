@@ -201,6 +201,18 @@
       }
     {% endif %}
   }
+  @media(max-width: 699px){
+    {% if section.settings.content_above_carousel != blank %}
+      #shopify-section-{{ section.id }}.shopify-section--collection-list .content_above_list {
+        margin-bottom: 1.5rem;
+        text-align: center;
+      }
+      #shopify-section-{{ section.id }}.shopify-section--collection-list .content_above_list .section-header {
+        margin-inline: 0;
+        margin-bottom: 15px;
+      }
+    {% endif %}
+  }
 
   {% if section.settings.background_image != blank %} 
     #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline{
