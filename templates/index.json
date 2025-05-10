@@ -307,7 +307,7 @@
       "settings": {
         "additional_class": "save-the-date",
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "image_size": "auto",
         "show_text_outside": false,
         "space_items": true,
@@ -362,7 +362,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "item_color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "background_color": "#ffffff"
       }
     },
