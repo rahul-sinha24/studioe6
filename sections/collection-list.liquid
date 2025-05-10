@@ -147,7 +147,9 @@
           <div class="floating-controls-container floating-controls-container--inside floating-controls-container--on-hover">
 
           {% if section.settings.content_above_carousel %}
-            {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
+            <div class="content_above_list">
+              {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
+            </div>
           {% endif %}
 
             
