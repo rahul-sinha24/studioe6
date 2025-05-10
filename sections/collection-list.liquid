@@ -188,6 +188,7 @@
     }  
   {% endif %}
 
+  {% comment %}
   {% if section.settings.background_color != blank %}
     #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline {
       background-color: {{ section.settings.background_color }};
@@ -195,7 +196,7 @@
       padding: 4rem 0;
     }
   {% endif %}
-
+{% endcomment %}
   
   @media(min-width: 700px){
     #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video {
@@ -383,14 +384,9 @@
       "type": "image_picker",
       "id": "background_image",
       "label": "Background Image"
-    },
+    }
 
-    {
-      "type": "color",
-      "label": "Background Color",
-      "id": "background_color",
-      "default": "#ffffff"
-    },
+
     
     
   ],
