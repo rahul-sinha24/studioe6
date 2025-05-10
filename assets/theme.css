@@ -7969,6 +7969,9 @@ ul {
     width: 100% !important;
 }
  */
+    .timeline__nav {
+        margin-block-start: 1.8rem;
+    }
 
 .save-the-date .section-stack {
     gap: 0 !important;
