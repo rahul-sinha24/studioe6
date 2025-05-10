@@ -191,6 +191,17 @@
     position: relative;
   }
 
+  @media(min-width: 700px){
+    {% if section.settings.content_above_carousel != blank %}
+      #shopify-section-{{ section.id }}.shopify-section--collection-list .content_above_list {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+      }
+    {% endif %}
+  }
+
   {% if section.settings.background_image != blank %} 
     #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline{
       background-image: url({{ section.settings.background_image | img_url: 'master' }});
