@@ -4585,7 +4585,10 @@ product-rerender {
     gap: 3rem;
     display: flex;
   }
-
+    .footer__aside {
+        grid-auto-flow: row;
+        justify-content: center;
+    }
   .footer__block {
     flex: auto;
   }
