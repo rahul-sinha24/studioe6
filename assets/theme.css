@@ -4575,7 +4575,7 @@ product-rerender {
 
 .footer__aside .payment-methods {
   justify-content: center;
-  max-width: 30rem;
+  max-width: 40rem;
 }
 
 @media screen and (min-width: 700px) {
