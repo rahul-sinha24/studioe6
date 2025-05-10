@@ -63,7 +63,7 @@
       <div class="section-stack{% if section.settings.content_inline != blank or section.settings.left_video != blank or section.settings.left_image != blank %} content_inline{% endif %}
       {% if section.settings.left_video != blank or section.settings.left_image != blank %} inline_img_video{% endif %}">
 
-      {% if section.settings.left_video != blank or section.settings.left_image != blank %}
+      {% if section.settings.left_video != blank or section.settings.left_image != blank or section.settings.content_inline != blank %}
         <div class="content_inline_collection">
       {% endif %}
         {%- if section.settings.left_image != blank -%}
@@ -78,7 +78,7 @@
           </div>
         {%- endif -%}
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
-      {% if section.settings.left_video != blank or section.settings.left_image != blank %}
+      {% if section.settings.left_video != blank or section.settings.left_image != blank or section.settings.content_inline != blank %}
         </div>
       {% endif %}
 
