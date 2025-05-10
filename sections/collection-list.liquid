@@ -77,7 +77,9 @@
             {%- render 'media', media: section.settings.left_video, controls: true -%}
           </div>
         {%- endif -%}
+        {% if section.settings.content_above_carousel == blank %}
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
+        {% endif %}
       {% if section.settings.left_video != blank or section.settings.left_image != blank or section.settings.content_inline != blank %}
         </div>
       {% endif %}
@@ -146,7 +148,7 @@
           <!-- Slider -->
           <div class="floating-controls-container floating-controls-container--inside floating-controls-container--on-hover">
 
-          {% if section.settings.content_above_carousel %}
+          {% if section.settings.content_above_carousel != blank %}
             <div class="content_above_list">
               {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
             </div>
