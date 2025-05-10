@@ -204,8 +204,7 @@
         "title": "",
         "content": "",
         "content_inline": false,
-        "content_color": "",
-        "background_color": "#ffffff"
+        "content_color": ""
       }
     },
     "collection_list_ByHyfH": {
@@ -307,7 +306,7 @@
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "additional_class": "save-the-date",
-        "color_scheme": "scheme-f2dbc9f3-3412-4ab1-86ae-4ed0ce302632",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
@@ -319,8 +318,7 @@
         "title": "wreewqtyewy",
         "content": "<p>sgfdxxfd</p>",
         "content_inline": true,
-        "content_color": "rgba(0,0,0,0)",
-        "background_color": "#1c1c1c"
+        "content_color": "#1c1c1c"
       }
     },
     "timeline_8XcLnR": {
@@ -513,8 +511,7 @@
         "content": "",
         "content_inline": true,
         "left_image": "shopify://shop_images/Rang_Mahal_Latest_Collection.jpg",
-        "content_color": "#ffffff",
-        "background_color": "#ffffff"
+        "content_color": "#ffffff"
       }
     },
     "collection_list_chQb3x": {
@@ -701,8 +698,7 @@
         "content": "",
         "content_inline": true,
         "left_image": "shopify://shop_images/must_have_designers.png",
-        "content_color": "#ffffff",
-        "background_color": "#ffffff"
+        "content_color": "#ffffff"
       }
     },
     "featured_collections_hEbtWM": {
@@ -885,8 +881,7 @@
         "title": "",
         "content": "",
         "content_inline": false,
-        "content_color": "#ffffff",
-        "background_color": "#ffffff"
+        "content_color": "#ffffff"
       }
     },
     "collection_list_KhUcHm": {
@@ -982,8 +977,7 @@
         "title": "",
         "content": "",
         "content_inline": false,
-        "content_color": "",
-        "background_color": "#ffffff"
+        "content_color": ""
       }
     },
     "text_with_icons_kYJA4r": {
