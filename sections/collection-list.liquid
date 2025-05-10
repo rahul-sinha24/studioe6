@@ -198,13 +198,15 @@
   {% endif %}
 {% endcomment %}
 
- #shopify-section-{{ section.id }}.shopify-section--collection-list .content_inline .content_inline_collection .section-header {
-    position: relative !important;
-    top: auto !important;
-    left: auto !important;
-    transform: none !important;
-   color: {{section.settings.content_color}};
-}
+  {% if section.settings.content_inline != blank %}
+   #shopify-section-{{ section.id }}.shopify-section--collection-list .content_inline .content_inline_collection .section-header {
+      position: relative !important;
+      top: auto !important;
+      left: auto !important;
+      transform: none !important;
+     color: {{section.settings.content_color}};
+    }
+  {% endif %}
   
   @media(min-width: 700px){
     #shopify-section-{{ section.id }}.shopify-section--collection-list .section-stack.content_inline.inline_img_video {
