@@ -363,6 +363,7 @@
         "color_scheme": "scheme-2",
         "item_color_scheme": "scheme-2",
         "separate_section_with_border": false,
+        "full_width": true,
         "background_color": "#ffffff"
       }
     },
@@ -821,6 +822,7 @@
         "color_scheme": "scheme-2",
         "item_color_scheme": "",
         "separate_section_with_border": false,
+        "full_width": false,
         "background_color": "#ffffff"
       }
     },
