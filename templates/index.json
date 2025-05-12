@@ -535,6 +535,69 @@
         "content_color": "#ffffff"
       }
     },
+    "timeline_ehrckp": {
+      "type": "timeline",
+      "blocks": {
+        "item_qEAyYy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_3.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy.png",
+            "label": "Symphony of Soft Whites",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_tAJnwr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_5.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy_3.png",
+            "label": "The Bohemian Wedding",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_wekKkU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_4_2dc2924c-9521-4f87-938d-f7ea340c2e45.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy_2.png",
+            "label": "The Royal Wedding",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_qEAyYy",
+        "item_tAJnwr",
+        "item_wekKkU"
+      ],
+      "name": "t:sections.timeline.presets.timeline.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "item_color_scheme": "",
+        "separate_section_with_border": false,
+        "full_width": true,
+        "background_color": "#ffffff"
+      }
+    },
     "collection_list_chQb3x": {
       "type": "collection-list",
       "blocks": {
@@ -703,6 +766,9 @@
         "collection_fanTKg",
         "collection_6DMxHa"
       ],
+      "custom_css": [
+        "h2 {font-size: 22px !important;}"
+      ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "additional_class": "",
@@ -715,15 +781,14 @@
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "",
+        "title": "Must Have Designers",
         "content": "",
         "button_text": "View products",
         "button_link": "",
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": true,
-        "left_image": "shopify://shop_images/must_have_designers.png",
-        "content_color": "#ffffff"
+        "content_color": "#1c1c1c"
       }
     },
     "featured_collections_hEbtWM": {
@@ -792,69 +857,6 @@
       ],
       "name": "Auto Scrolling Logos",
       "settings": {}
-    },
-    "timeline_ehrckp": {
-      "type": "timeline",
-      "blocks": {
-        "item_qEAyYy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_3.png",
-            "mobile_image": "shopify://shop_images/Artboard_2_copy.png",
-            "label": "Symphony of Soft Whites",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_tAJnwr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_5.png",
-            "mobile_image": "shopify://shop_images/Artboard_2_copy_3.png",
-            "label": "The Bohemian Wedding",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_wekKkU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_4_2dc2924c-9521-4f87-938d-f7ea340c2e45.png",
-            "mobile_image": "shopify://shop_images/Artboard_2_copy_2.png",
-            "label": "The Royal Wedding",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "item_qEAyYy",
-        "item_tAJnwr",
-        "item_wekKkU"
-      ],
-      "name": "t:sections.timeline.presets.timeline.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "item_color_scheme": "",
-        "separate_section_with_border": false,
-        "full_width": true,
-        "background_color": "#ffffff"
-      }
     },
     "collection_list_KELLmU": {
       "type": "collection-list",
@@ -1240,10 +1242,10 @@
     "collection_list_ByHyfH",
     "timeline_8XcLnR",
     "collection_list_34TAbC",
+    "timeline_ehrckp",
     "collection_list_chQb3x",
     "featured_collections_hEbtWM",
     "logo_marquee_aTwctM",
-    "timeline_ehrckp",
     "collection_list_KELLmU",
     "collection_list_KhUcHm",
     "text_with_icons_kYJA4r",
