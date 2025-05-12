@@ -8001,6 +8001,8 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   position:absolute;
   z-index:2;
   right:0;
+  color: #000 !important;
+  font-size: 14px !important;
 }
 
 .product-card__figure .wishlist-hero-custom-button.wishlisthero-floating svg.svh-inline--fa.fa-heart{
