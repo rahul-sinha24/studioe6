@@ -7979,3 +7979,30 @@ ul {
 .save-the-date .section-stack {
     gap: 0 !important;
 }
+
+a.site-header__icon.site-header__link.wishlist-hero-header-icon.wishlist-hero-header-show-count-only svg.wlh-svg-Icon{
+  padding-top:0 !important;
+}
+
+div#wishlisthero-product-page-button-container{
+  padding: 0;
+  width: fit-content;
+  float:right;
+}
+
+div#wishlisthero-product-page-button-container button.btn.product__form--add-to-cart.btn.btn--secondary-accent.button.button--full-width.product-form__buttons{
+  padding:5px 7.5px !important;
+  height:fit-content;
+  birder:.5px solid #000 !important;
+}
+
+.product-card__figure .wishlist-hero-custom-button.wishlisthero-floating{
+  width:fit-content;
+  position:absolute;
+  z-index:0;
+  right:0;
+}
+
+.product-card__figure .wishlist-hero-custom-button.wishlisthero-floating svg.svh-inline--fa.fa-heart{
+  width:.8em
+}
