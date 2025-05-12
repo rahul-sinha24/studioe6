@@ -247,6 +247,8 @@
           </li>
         {%- endif -%}
 
+        {% render 'wishlisthero-header-icon' %}
+
         {%- if section.settings.enable_search -%}
           <li class="header__search-link">
             <a href="{{ routes.search_url }}" aria-controls="header-search-{{ section.id }}">
