@@ -309,7 +309,7 @@
       ],
       "custom_css": [
         "p {line-height: 1.4 !important;}",
-        "h2{font-size: 24px !important;}"
+        "h2 {font-size: 24px !important;}"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -508,9 +508,12 @@
         "collection_TtNhdg",
         "collection_wGcPBf"
       ],
+      "custom_css": [
+        "h2{font-size: 24px !important;}"
+      ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
-        "additional_class": "",
+        "additional_class": "explore-collections",
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "image_size": "auto",
