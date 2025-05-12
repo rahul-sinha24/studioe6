@@ -1058,8 +1058,8 @@
       "name": "t:sections.text_with_icons.presets.text_with_icons.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
-        "stack_on_mobile": true,
+        "separate_section_with_border": false,
+        "stack_on_mobile": false,
         "icon_color": "",
         "text_color": "",
         "text_alignment": "center"
@@ -1068,8 +1068,16 @@
     "image_with_text_overlay_KqUx49": {
       "type": "image-with-text-overlay",
       "blocks": {
+        "link_x8q8mC": {
+          "type": "link",
+          "settings": {
+            "text": "Our Stores",
+            "url": ""
+          }
+        },
         "heading_qnbEhy": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Image with text overlay",
             "heading_tag": "h4"
@@ -1077,20 +1085,22 @@
         },
         "richtext_TMhK6P": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
           }
         }
       },
       "block_order": [
+        "link_x8q8mC",
         "heading_qnbEhy",
         "richtext_TMhK6P"
       ],
-      "disabled": true,
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "color_scheme": "",
-        "image_size": "auto",
+        "image_size": "xs",
+        "image": "shopify://shop_images/1_3.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -1098,7 +1108,7 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 5
       }
     },
     "testimonials_TLQTW8": {
