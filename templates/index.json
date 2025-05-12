@@ -1022,7 +1022,7 @@
             "icon": "picto-file",
             "custom_icon": "shopify://shop_images/FAQs.png",
             "icon_width": 64,
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 64,
             "title": "FAQ",
             "content": ""
           }
@@ -1033,7 +1033,7 @@
             "icon": "picto-customer-support",
             "custom_icon": "shopify://shop_images/Book_an_Appointment.png",
             "icon_width": 64,
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 64,
             "title": "Book an Appointment",
             "content": ""
           }
@@ -1059,7 +1059,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "icon_color": "",
         "text_color": "",
         "text_alignment": "center"
