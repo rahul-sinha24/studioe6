@@ -379,6 +379,36 @@
         "background_color": "#ffffff"
       }
     },
+    "featured_collections_9qi7G8": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_p7Ag9L": {
+          "type": "collection",
+          "settings": {
+            "collection": "lehenga-2",
+            "products_count": 8,
+            "title": "Celeb Edit",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_p7Ag9L"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "collection_list_34TAbC": {
       "type": "collection-list",
       "blocks": {
@@ -1246,6 +1276,7 @@
     "collection_list_hFiyRh",
     "collection_list_ByHyfH",
     "timeline_8XcLnR",
+    "featured_collections_9qi7G8",
     "collection_list_34TAbC",
     "timeline_ehrckp",
     "collection_list_chQb3x",
