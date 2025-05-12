@@ -8016,7 +8016,6 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
     } 
 
 
-
 .shop-collection .collection-card {
     height: 25rem !important;
     max-height: 100% !important;
@@ -8024,3 +8023,42 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
     max-width: 100% !important;
     padding: 35px;
 }
+
+.custom-share-container {
+    position: relative;
+    display: inline-block;
+    margin-left: 1rem;
+    width: 16px;
+    height: 16px;
+}
+
+.share-toggle-icon {
+  cursor: pointer;
+  width: inherit !important;
+  height: inherit !important;
+}
+
+.share-options {
+  position: absolute;
+  top: 30px; 
+  left: 0;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 8px;
+  display: none;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 2;
+}
+
+.share-options.visible {
+  display: flex;
+}
+
+.share-options a img {
+  width: 24px;
+  height: 24px;
+}
+
+
