@@ -7999,7 +7999,7 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
 .product-card__figure .wishlist-hero-custom-button.wishlisthero-floating{
   width:fit-content;
   position:absolute;
-  z-index:0;
+  z-index:2;
   right:0;
 }
 
