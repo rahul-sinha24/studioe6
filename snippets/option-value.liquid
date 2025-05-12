@@ -138,7 +138,7 @@ Thumbnail specific parameters:
     {%- endif -%}
   {%- endcapture -%}
 
-  <input class="sr-only" type="{% if allow_multiple %}checkbox{% else %}radio{% endif %}" name="{{ param_name }}" id="{{ id | escape }}" value="{{ value | escape }}" {% if form %}form="{{ form }}"{% endif %} {% if selected %}{% endif %} {% if hide_if_disabled and disabled and selected == false %}disabled{% endif %} {% if option_value and option_value.product_url %}data-product-url="{{ option_value.product_url | escape }}"{% endif %} {% if option_position %}data-option-position="{{ option_position }}"{% endif %} {{ variant_attributes }}>
+  <input class="sr-only" type="{% if allow_multiple %}checkbox{% else %}radio{% endif %}" name="{{ param_name }}" id="{{ id | escape }}" value="{{ value | escape }}" {% if form %}form="{{ form }}"{% endif %} {% if selected %}checked="checked"{% endif %} {% if hide_if_disabled and disabled and selected == false %}disabled{% endif %} {% if option_value and option_value.product_url %}data-product-url="{{ option_value.product_url | escape }}"{% endif %} {% if option_position %}data-option-position="{{ option_position }}"{% endif %} {{ variant_attributes }}>
 {%- elsif option_value and option_value.selected -%}
   <input class="sr-only" type="radio" name="{{ param_name }}" id="{{ id | escape }}" value="{{ value | escape }}" data-option-position="{{ option_position }}" {% if form %}form="{{ form }}"{% endif %} checked="checked">
 {%- endif -%}
@@ -161,7 +161,7 @@ Thumbnail specific parameters:
   {%- when 'block' -%}
     {%- assign white_label = 'general.label.white' | t | downcase -%}
 
-    <{{ option_value_tag }} class="block-swatch {% if disabled %}is-disabled{% endif %} {% if selected and option_value_tag == 'a' %}{% endif %}" {{ attributes }}>
+    <{{ option_value_tag }} class="block-swatch {% if disabled %}is-disabled{% endif %} {% if selected and option_value_tag == 'a' %}is-selected{% endif %}" {{ attributes }}>
       {%- if show_swatch -%}
         <span class="block-swatch__color {% if settings.round_color_swatches %}rounded-full{% endif %} {% if white_label == downcase_label %}border{% endif %}" style="{{ swatch_style }}"></span>
       {%- endif -%}
