@@ -8013,7 +8013,7 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
     padding: .125em 0 0 !important;
     color: #000 !important;
     background: rgb(221, 217, 221, 0.5) !important;
-    border: 0.5px solid !important;
+    border: 0.5px !important;
 }
 
 /* .wishlist-hero-custom-button.wishlisthero-floating button svg.svg-inline--fa.fa-heart.fa-w-16.fa-1x{
