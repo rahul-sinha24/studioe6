@@ -888,43 +888,6 @@
         "subheading": ""
       }
     },
-    "logo_marquee_aTwctM": {
-      "type": "logo-marquee",
-      "blocks": {
-        "logo_JJXgVy": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/under_600.png"
-          }
-        },
-        "logo_9FKcFy": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/under_400.png"
-          }
-        },
-        "logo_RKLNPB": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/under_500.png"
-          }
-        },
-        "logo_jEVKWn": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/under_300.png"
-          }
-        }
-      },
-      "block_order": [
-        "logo_JJXgVy",
-        "logo_9FKcFy",
-        "logo_RKLNPB",
-        "logo_jEVKWn"
-      ],
-      "name": "Auto Scrolling Logos",
-      "settings": {}
-    },
     "collection_list_KhUcHm": {
       "type": "collection-list",
       "blocks": {
@@ -1024,6 +987,44 @@
         "content_inline": false,
         "content_color": ""
       }
+    },
+    "logo_marquee_aTwctM": {
+      "type": "logo-marquee",
+      "blocks": {
+        "logo_JJXgVy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/under_600.png"
+          }
+        },
+        "logo_9FKcFy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/under_400.png"
+          }
+        },
+        "logo_RKLNPB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/under_500.png"
+          }
+        },
+        "logo_jEVKWn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/under_300.png"
+          }
+        }
+      },
+      "block_order": [
+        "logo_JJXgVy",
+        "logo_9FKcFy",
+        "logo_RKLNPB",
+        "logo_jEVKWn"
+      ],
+      "disabled": true,
+      "name": "Auto Scrolling Logos",
+      "settings": {}
     },
     "text_with_icons_kYJA4r": {
       "type": "text-with-icons",
@@ -1249,8 +1250,8 @@
     "collection_list_chQb3x",
     "collection_list_KELLmU",
     "featured_collections_hEbtWM",
-    "logo_marquee_aTwctM",
     "collection_list_KhUcHm",
+    "logo_marquee_aTwctM",
     "text_with_icons_kYJA4r",
     "image_with_text_overlay_KqUx49",
     "testimonials_TLQTW8",
