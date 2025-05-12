@@ -7992,7 +7992,7 @@ div#wishlisthero-product-page-button-container{
 
 div#wishlisthero-product-page-button-container button.btn.product__form--add-to-cart.btn.btn--secondary-accent.button.button--full-width.product-form__buttons{
   padding:5px 7.5px !important;
-  height:fit-content;
+  height:fit-content !important;
   border:.5px solid #000 !important;
 }
 
