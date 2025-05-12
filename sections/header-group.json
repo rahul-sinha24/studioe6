@@ -39,7 +39,7 @@
         "color_scheme": "",
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "show_separation_border": true,
+        "show_separation_border": false,
         "reduce_padding": true,
         "logo": "shopify://shop_images/logo.png",
         "logo_max_width": 140,
@@ -55,9 +55,9 @@
         "sidebar_open_second_level_menus": false,
         "layout": "logo_center_navigation_below",
         "show_icons": true,
-        "show_country_selector": true,
+        "show_country_selector": false,
         "show_country_name": false,
-        "show_country_flag": true,
+        "show_country_flag": false,
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff"
       }
