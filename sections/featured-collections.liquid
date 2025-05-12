@@ -59,7 +59,7 @@
 
               {%- if section.settings.stack_products -%}
                 <product-list class="product-list {% if section.settings.hide_product_information %}product-list--compact{% endif %} justify-center">
-                  {{- product_list -}}
+                  {{- product_list -}}     
                 </product-list>
               {%- else -%}
                 {%- assign product_carousel_id = 'featured-collections-product-list-carousel-' | append: block.id -%}
