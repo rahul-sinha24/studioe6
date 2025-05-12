@@ -791,6 +791,70 @@
         "content_color": "#1c1c1c"
       }
     },
+    "collection_list_KELLmU": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_9qrdjz": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "image": "shopify://shop_images/490025070_18499011991005570_7527992384920661659_n_jpeg.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Fusion",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_GGrLzT": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/474934173_18486610204051794_2136855394719041227_n_jpeg.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Accessories",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection_9qrdjz",
+        "collection_GGrLzT"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "additional_class": "",
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": false,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 2,
+        "subheading": "",
+        "title": "Curated Collections",
+        "content": "",
+        "button_text": "View products",
+        "button_link": "",
+        "button_style": "solid",
+        "content_above_carousel": false,
+        "content_inline": false,
+        "content_color": "#ffffff"
+      }
+    },
     "featured_collections_hEbtWM": {
       "type": "featured-collections",
       "blocks": {
@@ -857,70 +921,6 @@
       ],
       "name": "Auto Scrolling Logos",
       "settings": {}
-    },
-    "collection_list_KELLmU": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_9qrdjz": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "",
-            "image": "shopify://shop_images/490025070_18499011991005570_7527992384920661659_n_jpeg.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Fusion",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_GGrLzT": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/474934173_18486610204051794_2136855394719041227_n_jpeg.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Accessories",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "collection_9qrdjz",
-        "collection_GGrLzT"
-      ],
-      "name": "t:sections.collection_list.presets.collection_list.name",
-      "settings": {
-        "additional_class": "",
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": false,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 2,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "button_text": "View products",
-        "button_link": "",
-        "button_style": "solid",
-        "content_above_carousel": false,
-        "content_inline": false,
-        "content_color": "#ffffff"
-      }
     },
     "collection_list_KhUcHm": {
       "type": "collection-list",
@@ -1244,9 +1244,9 @@
     "collection_list_34TAbC",
     "timeline_ehrckp",
     "collection_list_chQb3x",
+    "collection_list_KELLmU",
     "featured_collections_hEbtWM",
     "logo_marquee_aTwctM",
-    "collection_list_KELLmU",
     "collection_list_KhUcHm",
     "text_with_icons_kYJA4r",
     "image_with_text_overlay_KqUx49",
