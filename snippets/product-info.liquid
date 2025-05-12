@@ -140,6 +140,8 @@ Supported variables
               </h2>
             {%- endif -%}
 
+    {% render 'wishlisthero-collection-product' %}
+
           {%- when 'sku' -%}
             {% if product.selected_or_first_available_variant.sku != blank %}
               <variant-sku class="variant-sku text-sm text-subdued">
