@@ -8034,8 +8034,8 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
 
 .share-toggle-icon {
   cursor: pointer;
-  width: inherit !important;
-  height: inherit !important;
+  /* width: inherit !important;
+  height: inherit !important; */
 }
 
 .share-options {
