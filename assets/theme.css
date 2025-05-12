@@ -8004,7 +8004,8 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
 }
 
 .product-card__figure .wishlist-hero-custom-button.wishlisthero-floating svg.svh-inline--fa.fa-heart{
-  width:.8em
+  width:.8em;
+  color: #000 !important;
 }
 
 .wishlist-hero-custom-button.wishlisthero-floating button {
@@ -8013,3 +8014,7 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
     padding: .125em 0 0 !important;
     color: #000 !important;
 }
+
+/* .wishlist-hero-custom-button.wishlisthero-floating button svg.svg-inline--fa.fa-heart.fa-w-16.fa-1x{
+  color:#000 !important;
+} */
