@@ -319,14 +319,13 @@
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "",
+        "title": "<strong>Save The Date</strong>",
         "content": "",
         "button_text": "",
         "button_link": "",
         "button_style": "link",
         "content_above_carousel": false,
         "content_inline": true,
-        "left_image": "shopify://shop_images/SAVE_THE_DATE_2.png",
         "content_color": "#1c1c1c"
       }
     },
@@ -1070,6 +1069,7 @@
       "blocks": {
         "button_E8Kt9K": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "style": "outline",
             "text": "Our Store",
@@ -1080,7 +1080,6 @@
         },
         "link_x8q8mC": {
           "type": "link",
-          "disabled": true,
           "settings": {
             "text": "Our Stores",
             "url": ""
