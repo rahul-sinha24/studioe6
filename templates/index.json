@@ -1105,8 +1105,8 @@
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
         "content_width": "md",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "overlay_color": "#000000",
         "overlay_opacity": 5
       }
