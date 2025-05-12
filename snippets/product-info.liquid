@@ -518,12 +518,13 @@ Supported variables
               {%- render 'button', href: block.settings.link, content: block.settings.text, stretch: block.settings.stretch, background: block.settings.background, text_color: block.settings.text_color -%}
             {%- endif -%}
 
+
     
           {%- when 'share_buttons' -%}
  
-              {% render 'social-share', url: product.url, title: product.title, description: product.description, layout: 'list %}
+              
   
-{% comment %}      
+      
     <share-button>
               <button class="share-buttons share-buttons--native link-faded" hidden>
                 <span class="smallcaps text-xxs">{{- 'general.social.share' | t -}}</span>
@@ -535,7 +536,7 @@ Supported variables
                 {%- render 'share-buttons', url: product.url, title: product.title, description: product.description, layout: 'list' -%}
               </div>
             </share-button>
-{% endcomment %}
+
 
         
           {%- when 'more_information' -%}
