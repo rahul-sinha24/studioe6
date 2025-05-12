@@ -8056,3 +8056,12 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   width: 24px;
   height: 24px;
 }
+
+
+@font-face {
+  font-family: Felix Titling;
+  src: url(https://cdn.shopify.com/s/files/1/0330/1333/files/Felix_Titling_Regular.ttf?v=1747054582);
+}
+ h1, h2, h3 {
+    font-family: Felix Titling;
+    } 
