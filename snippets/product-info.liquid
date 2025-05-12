@@ -141,8 +141,9 @@ Supported variables
             {%- endif -%}
 
           <div class="Icons-2">
-          {% render 'wishlisthero-custom-button' %}
+          
           {%- render 'social-share', share_title: product.title, share_permalink: product.url, share_image: product -%}
+          {% render 'wishlisthero-custom-button' %}
           </div>
           {%- when 'sku' -%}
             {% if product.selected_or_first_available_variant.sku != blank %}
