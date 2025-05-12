@@ -203,6 +203,9 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "button_text": "View products",
+        "button_link": "",
+        "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
         "content_color": ""
@@ -318,6 +321,9 @@
         "subheading": "trhsgsegdxf",
         "title": "wreewqtyewy",
         "content": "<p>sgfdxxfd</p>",
+        "button_text": "View products",
+        "button_link": "",
+        "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": true,
         "content_color": "#1c1c1c"
@@ -512,6 +518,9 @@
         "subheading": "",
         "title": "Collection List",
         "content": "",
+        "button_text": "View products",
+        "button_link": "",
+        "button_style": "solid",
         "content_above_carousel": true,
         "content_inline": true,
         "left_image": "shopify://shop_images/Rang_Mahal_Latest_Collection.jpg",
@@ -700,6 +709,9 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "button_text": "View products",
+        "button_link": "",
+        "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": true,
         "left_image": "shopify://shop_images/must_have_designers.png",
@@ -826,7 +838,7 @@
         "color_scheme": "scheme-2",
         "item_color_scheme": "",
         "separate_section_with_border": false,
-        "full_width": false,
+        "full_width": true,
         "background_color": "#ffffff"
       }
     },
@@ -886,6 +898,9 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "button_text": "View products",
+        "button_link": "",
+        "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
         "content_color": "#ffffff"
@@ -983,6 +998,9 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "button_text": "View products",
+        "button_link": "",
+        "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
         "content_color": ""
