@@ -99,5 +99,67 @@
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggleIcon = document.querySelector(".share-toggle-icon");
+    const shareBox = document.querySelector(".share-options");
+
+    toggleIcon.addEventListener("click", function () {
+      shareBox.style.display = shareBox.style.display === "flex" ? "none" : "flex";
+    });
+
+    document.addEventListener("click", function (e) {
+      if (!e.target.closest(".custom-share-container")) {
+        shareBox.style.display = "none";
+      }
+    });
+  });
+</script>
+
+  {% if template.name contains 'product' %}
+    <script>
+      // Wait for the page to load
+      window.addEventListener('load', function () {
+        // Get all the variant buttons (Size and Skirt Length)
+        const variantButtons = document.querySelectorAll('.product__chip');
+      
+        // Get the div you want to show or hide (make sure to change the selector to your div)
+        const customTailorDiv = document.querySelector('.custom-tailor'); // Change this to your specific div selector
+      
+        // Function to check if 'Custom' variant is selected
+        function checkCustomVariant() {
+          let isCustomSelected = false;
+      
+          // Loop through each button to check if it's the 'Custom' variant
+          variantButtons.forEach(function(button) {
+            if (button.classList.contains('custom_variant') && button.classList.contains('selected')) {
+              isCustomSelected = true;
+            }
+          });
+      
+          // Show or hide the div based on whether 'Custom' is selected
+          if (isCustomSelected) {
+            customTailorDiv.style.display = 'grid'; // Show the div
+          } else {
+            customTailorDiv.style.display = 'none'; // Hide the div
+          }
+        }
+      
+        // Listen for clicks on the variant buttons
+        variantButtons.forEach(function(button) {
+          button.addEventListener('click', function() {
+            // After the button is clicked, check if 'Custom' variant is selected
+            checkCustomVariant();
+          });
+        });
+      
+        // Check the selection on page load in case a variant is pre-selected
+        checkCustomVariant();
+      });
+    </script>
+    {% endif %}
+
+    
   </body>
 </html>
