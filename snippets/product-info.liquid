@@ -520,12 +520,9 @@ Supported variables
 
 
     
-          {%- when 'share_buttons' -%}
- 
-              
-  
-      
-    <share-button>
+          {%- when 'share_buttons' -%}         
+
+            <share-button>
               <button class="share-buttons share-buttons--native link-faded" hidden>
                 <span class="smallcaps text-xxs">{{- 'general.social.share' | t -}}</span>
                 {%- render 'icon' with 'share' -%}
@@ -536,8 +533,6 @@ Supported variables
                 {%- render 'share-buttons', url: product.url, title: product.title, description: product.description, layout: 'list' -%}
               </div>
             </share-button>
-
-
         
           {%- when 'more_information' -%}
             {%- comment -%}We need at least one block compatible with below gallery information{%- endcomment -%}
