@@ -8076,6 +8076,11 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   height: 24px;
 }
 
+.share-options a {
+  width: 24px;
+  height: 24px;
+}
+
 .Icons-2{
   display: flex !important;
 }
