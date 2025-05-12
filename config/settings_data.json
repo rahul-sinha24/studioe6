@@ -26,6 +26,10 @@
     "text_font_letter_spacing": 8,
     "button_text_font": "heading",
     "button_letter_spacing": 10,
+    "social_facebook": "https://www.facebook.com/StudioEast6/",
+    "social_pinterest": "https://pin.it/eZqTinTRK",
+    "social_instagram": "https://www.instagram.com/studioeast6/",
+    "social_tiktok": "https://www.tiktok.com/@studioeast6?_t=8mjZ4VKN2Wk&_r=1",
     "favicon": "shopify://shop_images/logo_1_79e0dde9-a26f-4ff0-a01f-5047f79aa3f5.png",
     "content_for_index": [],
     "blocks": {
