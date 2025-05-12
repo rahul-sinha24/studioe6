@@ -8019,3 +8019,40 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
 /* .wishlist-hero-custom-button.wishlisthero-floating button svg.svg-inline--fa.fa-heart.fa-w-16.fa-1x{
   color:#000 !important;
 } */
+
+.custom-share-container {
+    position: relative;
+    display: inline-block;
+    margin-left: 1rem;
+    width: 16px;
+    height: 16px;
+}
+
+.share-toggle-icon {
+  cursor: pointer;
+  width: inherit !important;
+  height: inherit !important;
+}
+
+.share-options {
+  position: absolute;
+  top: 30px; /* position below the icon */
+  left: 0;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 8px;
+  display: none;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 1000;
+}
+
+.share-options.visible {
+  display: flex;
+}
+
+.share-options a img {
+  width: 24px;
+  height: 24px;
+}
