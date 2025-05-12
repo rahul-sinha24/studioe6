@@ -8080,3 +8080,8 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   display: flex !important;
 }
 
+.product-info__block-list.product-info__block-item {
+    display: flex;
+    justify-content: space-between;
+}
+
