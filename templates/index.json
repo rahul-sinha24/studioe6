@@ -833,6 +833,9 @@
         "collection_9qrdjz",
         "collection_GGrLzT"
       ],
+      "custom_css": [
+        "h2 {font-size: 22px !important;}"
+      ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "additional_class": "",
@@ -840,7 +843,7 @@
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
-        "space_items": false,
+        "space_items": true,
         "stack_collections": true,
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 2,
