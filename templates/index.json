@@ -1068,8 +1068,19 @@
     "image_with_text_overlay_KqUx49": {
       "type": "image-with-text-overlay",
       "blocks": {
+        "button_E8Kt9K": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Our Store",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
         "link_x8q8mC": {
           "type": "link",
+          "disabled": true,
           "settings": {
             "text": "Our Stores",
             "url": ""
@@ -1092,6 +1103,7 @@
         }
       },
       "block_order": [
+        "button_E8Kt9K",
         "link_x8q8mC",
         "heading_qnbEhy",
         "richtext_TMhK6P"
