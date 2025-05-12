@@ -47,7 +47,7 @@
                 {%- if settings.stagger_products_apparition and forloop.first -%}
                   {%- assign should_reveal = true -%}
                 {%- endif -%}
-{% render 'wishlisthero-collection-product', product: product, vertical: true, context: 'card' %}
+
                 {%- for product in block.settings.collection.products limit: block.settings.products_count -%}
                   {%- render 'product-card', product: product, reveal: should_reveal, position: forloop.index, hide_product_information: section.settings.hide_product_information, block: block -%}
                 {%- else -%}
