@@ -8002,22 +8002,23 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   z-index:2;
   right:0;
   /* background: blue !important; */
-    background: #fff !important;
-    border: 0.5px solid black !important;
+
 }
 
 .product-card__figure .wishlist-hero-custom-button.wishlisthero-floating svg.svg-inline--fa.fa-heart{
   width:.8em;
-  color: #000 !important;
-  font-size: 18px !important;
+  /* color: #000 !important;
+  font-size: 18px !important; */
 }
 
-/* .wishlist-hero-custom-button.wishlisthero-floating button {
+.wishlist-hero-custom-button.wishlisthero-floating button {
     font-size: 14px !important;
     width: 40px !important;
     padding: .125em 0 0 !important;
     color: #000 !important;
-} */
+    background: #fff !important;
+    border: 0.5px solid black !important;
+}
 
 /* .wishlist-hero-custom-button.wishlisthero-floating button svg.svg-inline--fa.fa-heart.fa-w-16.fa-1x{
   color:#000 !important;
