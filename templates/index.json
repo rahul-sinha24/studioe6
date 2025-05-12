@@ -509,7 +509,7 @@
         "collection_wGcPBf"
       ],
       "custom_css": [
-        "h2{font-size: 24px !important;}"
+        "h2 {font-size: 22px !important;}"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -523,7 +523,7 @@
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "Collection List",
+        "title": "The Festive Wardrobe",
         "content": "",
         "button_text": "View products",
         "button_link": "",
