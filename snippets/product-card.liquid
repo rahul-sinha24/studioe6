@@ -53,13 +53,12 @@ Supported variables
   {%- endcomment -%}
 
   {%- if product.media.size > 0 -%}
-    {% render 'wishlisthero-collection-product', product: product, vertical: true, context: 'card' %}
     <div class="product-card__figure">
       {%- if show_badges -%}
         {%- render 'product-badges', product: product, vertical: true, context: 'card' -%}
       {%- endif -%}
 
-   {% comment %} {% render 'wishlisthero-collection-product', product: product, vertical: true, context: 'card' %} {% endcomment %}
+   {% render 'wishlisthero-collection-product', product: product, vertical: true, context: 'card' %} 
 
       <a href="{{ product.url }}" class="product-card__media" draggable="false" data-instant>
         {%- capture sizes -%}
