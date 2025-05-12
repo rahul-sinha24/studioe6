@@ -1068,6 +1068,7 @@
         "item_EMphTz",
         "item_mUP3iT"
       ],
+      "disabled": true,
       "name": "t:sections.text_with_icons.presets.text_with_icons.name",
       "settings": {
         "color_scheme": "scheme-2",
