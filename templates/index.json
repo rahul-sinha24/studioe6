@@ -1132,6 +1132,24 @@
             "author": ""
           }
         },
+        "testimonial_73tdY7": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_C9REGT": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
         "testimonial_Xdxjrt": {
           "type": "testimonial",
           "settings": {
@@ -1145,13 +1163,14 @@
       "block_order": [
         "testimonial_9CJV4a",
         "testimonial_nMhGFf",
+        "testimonial_73tdY7",
+        "testimonial_C9REGT",
         "testimonial_Xdxjrt"
       ],
-      "disabled": true,
       "name": "t:sections.testimonials.presets.testimonials.name",
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
         "auto_rotate_between_testimonials": true,
         "cycle_speed": 5,
         "font_size_factor": 1,
