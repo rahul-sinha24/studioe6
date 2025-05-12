@@ -8007,8 +8007,8 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   width:.8em
 }
 
-.wishlisthero-floating button {
+.wishlist-hero-custom-button.wishlisthero-floating button {
     font-size: 14px !important;
     width: 40px !important;
-    padding: 0.125em 0 0 !important;
+    padding: .125em 0 0 !important;
 }
