@@ -8003,7 +8003,7 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   right:0;
 }
 
-.product-card__figure .wishlist-hero-custom-button.wishlisthero-floating svg.svh-inline--fa.fa-heart{
+.product-card__figure .wishlist-hero-custom-button.wishlisthero-floating svg.svg-inline--fa.fa-heart{
   width:.8em;
   color: #000 !important;
 }
