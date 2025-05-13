@@ -6867,6 +6867,12 @@ product-rerender {
 .timeline__nav > [aria-current="true"]:after {
   transform: scaleX(1);
 }
+.prose :is(.button,.button-group:has(.button)) {
+    margin-block-start: .7rem;
+}
+.featured-collections-carousel a.button, .collection-card .button {
+    font-size: 12px;
+}
 
 @media screen and (max-width: 699px) {
   .timeline__nav {
