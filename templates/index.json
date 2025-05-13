@@ -243,9 +243,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Lehengas",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -260,9 +260,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Sherwani",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -277,9 +277,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Anarkalis",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -294,9 +294,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Gowns",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -311,9 +311,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Saree",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -328,9 +328,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "coord set",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
