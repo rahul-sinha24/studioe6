@@ -8084,7 +8084,7 @@ a.product-title.h6 {
     padding: 6px 12px !important;
 }
 .doubly-nice-select {
-    border: none;
+    border: none !important;
 }
 
 @media (min-width: 700px){
