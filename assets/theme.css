@@ -8140,6 +8140,10 @@ a.product-title.h6 {
     text-transform: uppercase;
     letter-spacing: .7px;
   }
+  .timeline__nav {
+    margin-block-start: 0;
+    padding-bottom: 6px;
+  }
 }
 
 
