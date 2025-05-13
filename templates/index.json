@@ -908,6 +908,9 @@
       "block_order": [
         "collection_PdCkHV"
       ],
+      "custom_css": [
+        "h2{font-family: Felix Titling !important; font-size: 22px !important;}"
+      ],
       "name": "t:sections.featured_collections.presets.featured_collections.name",
       "settings": {
         "color_scheme": "scheme-2",
