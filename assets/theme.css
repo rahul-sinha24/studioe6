@@ -8142,7 +8142,7 @@ a.product-title.h6 {
   }
   .timeline__nav {
     margin-block-start: 0;
-    padding-bottom: 6px;
+    /* padding-bottom: 6px; */
   }
   .section-stack {
     gap: 1.3rem;
