@@ -153,7 +153,7 @@
             <div class="content_above_list">
               {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
               {%- if section.settings.button_text != blank -%}
-                {%- render 'button', type: 'button', content: section.settings.button_text, style: section, focusable: false -%}
+                {%- render 'button', type: 'button', content: section.settings.button_text, style: section.settings.button_style, focusable: false -%}
               {%- endif -%}
             </div>
           {% endif %}
