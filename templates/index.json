@@ -306,11 +306,12 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/saree.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "",
-            "button_text": "Bandhgala",
+            "button_text": "Saree",
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
