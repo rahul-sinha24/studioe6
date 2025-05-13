@@ -309,7 +309,7 @@
       ],
       "custom_css": [
         "p {line-height: 1.4 !important;}",
-        "h2 {font-size: 24px !important; font-family: Felix Titling !important;}"
+        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -395,6 +395,9 @@
       },
       "block_order": [
         "collection_p7Ag9L"
+      ],
+      "custom_css": [
+        "h2 {font-family: Felix Titling !important; font-size: 22px !important;}"
       ],
       "name": "t:sections.featured_collections.presets.featured_collections.name",
       "settings": {
@@ -539,7 +542,7 @@
         "collection_wGcPBf"
       ],
       "custom_css": [
-        "h2 {font-size: 22px !important;}",
+        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}",
         ".button {padding: 6px 12px;}"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
@@ -797,7 +800,7 @@
         "collection_6DMxHa"
       ],
       "custom_css": [
-        "h2 {font-size: 22px !important;}"
+        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -864,7 +867,7 @@
         "collection_GGrLzT"
       ],
       "custom_css": [
-        "h2 {font-size: 22px !important;}"
+        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
