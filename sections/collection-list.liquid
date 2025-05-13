@@ -18,6 +18,12 @@
       {%- endif -%}
     }
 
+    @media(max-width: 699px){
+      #shopify-section-{{ section.id }} {
+        --collection-list-items-per-row: 74vw;
+      }
+    }
+
     @media screen and (min-width: 700px) {
       #shopify-section-{{ section.id }} {
         {%- if section.settings.stack_collections -%}
