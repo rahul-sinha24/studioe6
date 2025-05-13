@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "section_vertical_spacing": "md",
+    "section_vertical_spacing": "lg",
     "default_color_scheme": "scheme-2",
     "product_rating_color": "#1c1c1c",
     "product_on_sale_accent": "#e32c2b",
