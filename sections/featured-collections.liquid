@@ -34,6 +34,11 @@
               {%- endfor -%}
             </carousel-navigation>
           {%- else -%}
+            {% if section.settings.title_above_icon != blank %}
+              <div class="above_icon">
+                {{ section.settings.title_above_icon | image_url: width: section.settings.title_above_icon.width | image_tag: loading: 'lazy', sizes: auto, widths: '300,400,500,600,800,1000,1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
+              </div>
+            {% endif %}
             <h2 class="h2">{{ section.blocks.first.settings.title | default: section.blocks.first.settings.collection.title | default: 'Collection' }}</h2>
           {%- endif -%}
         </div>
@@ -132,6 +137,11 @@
     {
       "type": "header",
       "content": "t:global.product_list.product_list_category"
+    },
+    {
+      "type": "image_picker",
+      "id": "title_above_icon",
+      "label": "Title Above Link"
     },
     {
       "type": "checkbox",
