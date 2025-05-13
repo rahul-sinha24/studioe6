@@ -6896,6 +6896,7 @@ product-rerender {
   x-header.header.color-scheme {
     padding-top: 10px;
     padding-bottom: 10px;
+    gap: 10px;
   }
 }
 
