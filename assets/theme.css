@@ -8124,6 +8124,11 @@ a.product-title.h6 {
     top: auto !important;
     bottom: 50px;
   }
+  .doubly-nice-select .current, .doubly-nice-select .list .option {
+    font-size: 10px !important;
+    text-transform: uppercase;
+    letter-spacing: .7px;
+  }
 }
 
 
