@@ -8099,3 +8099,7 @@ a.product-title.h6 {
 .featured-collections-carousel a.button {
     padding: 6px 12px !important;
 }
+
+.collection-card .button {
+    padding: 6px 12px !important;
+}
