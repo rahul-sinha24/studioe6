@@ -182,7 +182,11 @@
       padding: 4rem 0;
     }
   {% endif %}
-  
+  @media(max-width: 699px){
+    #shopify-section-{{ section.id }}.shopify-section--timeline .section-spacing {
+      padding-block-end: 3rem;
+    }
+  }
 {% endstyle %}
 
 {% schema %}
