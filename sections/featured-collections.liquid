@@ -38,6 +38,12 @@
               <div class="above_icon">
                 {{ section.settings.title_above_icon | image_url: width: section.settings.title_above_icon.width | image_tag: loading: 'lazy', sizes: auto, widths: '300,400,500,600,800,1000,1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
               </div>
+              {% style %}
+                .above_icon img {
+                  max-width: 45px;
+                  margin: 0 auto;
+                }
+              {% endstyle %}
             {% endif %}
             <h2 class="h2">{{ section.blocks.first.settings.title | default: section.blocks.first.settings.collection.title | default: 'Collection' }}</h2>
           {%- endif -%}
