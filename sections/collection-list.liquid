@@ -87,6 +87,17 @@
         {%- endif -%}
         {% if section.settings.content_above_carousel == blank %}
         <!-- Normal header -->
+        {% if section.settings.title_above_icon != blank %}
+          <div class="above_icon">
+            {{ section.settings.title_above_icon | image_url: width: section.settings.title_above_icon.width | image_tag: loading: 'lazy', sizes: auto, widths: '300,400,500,600,800,1000,1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
+          </div>
+          {% style %}
+            #shopify-section-{{ section.id }}.shopify-section--featured-collections .above_icon img {
+              max-width: 45px;
+              margin: 0 auto;
+            }
+          {% endstyle %}
+        {% endif %}
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
           
         {% endif %}
