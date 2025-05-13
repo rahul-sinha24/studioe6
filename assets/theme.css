@@ -8022,6 +8022,13 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
     }
 }
 
+@media(max-width: 699px){
+  .doubly-wrapper.sm-max\:hidden {
+    float: none;
+    width: fit-content;
+  }
+}
+
 .custom-share-container {
     position: relative;
     display: inline-block;
