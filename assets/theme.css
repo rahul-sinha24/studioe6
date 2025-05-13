@@ -8099,6 +8099,11 @@ a.product-title.h6 {
     float: none;
     width: fit-content;
   }
+  .doubly-nice-select .current, .doubly-nice-select .list .option {
+    font-size: 12px !important;
+    text-transform: uppercase;
+    letter-spacing: .7px;
+  }
 }
 
 @media(max-width: 699px){
