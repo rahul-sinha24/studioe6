@@ -6893,6 +6893,10 @@ product-rerender {
   .timeline__nav > button:after {
     inset-block-end: -.5rem;
   }
+  x-header.header.color-scheme {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
 }
 
 .sr-only {
