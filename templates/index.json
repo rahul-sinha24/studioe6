@@ -788,6 +788,7 @@
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "hide_product_information": false,
+        "title_above_icon": "shopify://shop_images/1_2_036d32ad-a1df-433e-9f2a-bb493f602f33.png",
         "stack_products": false,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
