@@ -839,7 +839,7 @@
             "title": "",
             "button_text": "Fusion",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "outline",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -856,7 +856,7 @@
             "title": "",
             "button_text": "Accessories",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "outline",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
