@@ -285,6 +285,11 @@
     color: {{ section.settings.content_color }};
     {% endif %}
   }
+  {% if section.settings.shadow_bottom != blank %}
+    #shopify-section-{{ section.id }}.shopify-section--collection-list .collection-card .content-over-media::before {
+      background: linear-gradient(359deg, #0000008f, transparent, transparent);
+    }
+  {% endif %}
 {% endstyle %}
 
 {% schema %}
@@ -466,13 +471,17 @@
       "id": "content_color",
       "info": "It will work with inline content"
     },
-
-   {
+    {
       "type": "image_picker",
       "id": "background_image",
       "label": "Background Image"
-    }
-
+    },
+    {
+      "type": "checkbox",
+      "id": "shadow_bottom",
+      "label": "Overlay from Bottom",
+      "default": true
+    },
   ],
   "blocks": [
     {
