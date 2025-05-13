@@ -8012,22 +8012,7 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   src: url(https://cdn.shopify.com/s/files/1/0330/1333/files/Felix_Titling_Regular.ttf?v=1747054582);
 }
 
-@media (min-width: 700px){
-    .shop-collection .collection-card {
-        height: 25rem !important;
-        max-height: 100% !important;
-        width: 25rem !important;
-        max-width: 100% !important;
-        padding: 35px;
-    }
-}
 
-@media(max-width: 699px){
-  .doubly-wrapper.sm-max\:hidden {
-    float: none;
-    width: fit-content;
-  }
-}
 
 .custom-share-container {
     position: relative;
@@ -8098,3 +8083,24 @@ a.product-title.h6 {
 .collection-card .button {
     padding: 6px 12px !important;
 }
+
+
+@media (min-width: 700px){
+  .shop-collection .collection-card {
+    height: 25rem !important;
+    max-height: 100% !important;
+    width: 25rem !important;
+    max-width: 100% !important;
+    padding: 35px;
+  }
+  .doubly-wrapper.sm-max\:hidden {
+    float: none;
+    width: fit-content;
+  }
+}
+
+@media(max-width: 699px){
+  
+}
+
+
