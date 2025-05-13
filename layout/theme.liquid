@@ -117,6 +117,18 @@
           });
         });
       </script>  
-    {% endif %}   
+    {% endif %} 
+    {% if template.name contains 'index' %}
+      {% style %}
+        h2 {
+          font-family: Felix Titling !important;
+        }
+        @media(min-width: 700px) {
+          h2 {
+            font-size: 22px !important;
+          }
+        }
+      {% endstyle %}
+    {% endif %}
   </body>
 </html>
