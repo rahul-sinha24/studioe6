@@ -6887,7 +6887,9 @@ product-rerender {
   .timeline__nav {
     margin-block-start: var(--section-stack-gap);
   }
-
+  .product {
+    --product-gap: 2rem;
+  }
   .timeline__nav > button:after {
     inset-block-end: -.5rem;
   }
