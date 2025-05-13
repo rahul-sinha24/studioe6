@@ -356,7 +356,7 @@
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "Wedding Edits",
+        "title": "Wardrobe Edits",
         "content": "",
         "button_text": "Explore",
         "button_link": "",
@@ -365,6 +365,106 @@
         "content_inline": true,
         "left_image": "shopify://shop_images/Rang_Mahal_Latest_Collection.jpg",
         "content_color": "#ffffff"
+      }
+    },
+    "logo_marquee_aTwctM": {
+      "type": "logo-marquee",
+      "blocks": {
+        "logo_JJXgVy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/under_600.png"
+          }
+        },
+        "logo_9FKcFy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/under_400.png"
+          }
+        },
+        "logo_RKLNPB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/under_500.png"
+          }
+        },
+        "logo_jEVKWn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/under_300.png"
+          }
+        }
+      },
+      "block_order": [
+        "logo_JJXgVy",
+        "logo_9FKcFy",
+        "logo_RKLNPB",
+        "logo_jEVKWn"
+      ],
+      "name": "Auto Scrolling Logos",
+      "settings": {}
+    },
+    "timeline_ehrckp": {
+      "type": "timeline",
+      "blocks": {
+        "item_qEAyYy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_3.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy.png",
+            "label": "Symphony of Soft Whites",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_tAJnwr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_5.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy_3.png",
+            "label": "The Bohemian Wedding",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_wekKkU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Artboard_4_2dc2924c-9521-4f87-938d-f7ea340c2e45.png",
+            "mobile_image": "shopify://shop_images/Artboard_2_copy_2.png",
+            "label": "The Royal Wedding",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_qEAyYy",
+        "item_tAJnwr",
+        "item_wekKkU"
+      ],
+      "name": "t:sections.timeline.presets.timeline.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "item_color_scheme": "",
+        "separate_section_with_border": false,
+        "full_width": true,
+        "background_color": "#ffffff"
       }
     },
     "collection_list_ByHyfH": {
@@ -489,6 +589,106 @@
         "content_color": "#1c1c1c"
       }
     },
+    "collection_list_KELLmU": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_9qrdjz": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "image": "shopify://shop_images/490025070_18499011991005570_7527992384920661659_n_jpeg.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Fusion",
+            "button_link": "",
+            "button_style": "outline",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_GGrLzT": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify://shop_images/474934173_18486610204051794_2136855394719041227_n_jpeg.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Accessories",
+            "button_link": "",
+            "button_style": "outline",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection_9qrdjz",
+        "collection_GGrLzT"
+      ],
+      "custom_css": [
+        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "additional_class": "",
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 2,
+        "subheading": "",
+        "title": "Curated Collections",
+        "content": "",
+        "button_text": "View products",
+        "button_link": "",
+        "button_style": "solid",
+        "content_above_carousel": false,
+        "content_inline": false,
+        "content_color": "#ffffff"
+      }
+    },
+    "featured_collections_hEbtWM": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_PdCkHV": {
+          "type": "collection",
+          "settings": {
+            "collection": "lehenga-2",
+            "products_count": 8,
+            "title": "Ready To Ship",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_PdCkHV"
+      ],
+      "custom_css": [
+        "h2 {font-family: Felix Titling !important; font-size: 22px !important;}"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "timeline_8XcLnR": {
       "type": "timeline",
       "blocks": {
@@ -526,6 +726,7 @@
         "item_3xrzNP",
         "item_mhxhUD"
       ],
+      "disabled": true,
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
         "color_scheme": "scheme-2",
@@ -534,43 +735,6 @@
         "full_width": true,
         "background_color": "#ffffff"
       }
-    },
-    "logo_marquee_aTwctM": {
-      "type": "logo-marquee",
-      "blocks": {
-        "logo_JJXgVy": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/under_600.png"
-          }
-        },
-        "logo_9FKcFy": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/under_400.png"
-          }
-        },
-        "logo_RKLNPB": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/under_500.png"
-          }
-        },
-        "logo_jEVKWn": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/under_300.png"
-          }
-        }
-      },
-      "block_order": [
-        "logo_JJXgVy",
-        "logo_9FKcFy",
-        "logo_RKLNPB",
-        "logo_jEVKWn"
-      ],
-      "name": "Auto Scrolling Logos",
-      "settings": {}
     },
     "featured_collections_9qi7G8": {
       "type": "featured-collections",
@@ -589,6 +753,7 @@
       "block_order": [
         "collection_p7Ag9L"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: Felix Titling !important; font-size: 22px !important;}"
       ],
@@ -603,69 +768,6 @@
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "subheading": ""
-      }
-    },
-    "timeline_ehrckp": {
-      "type": "timeline",
-      "blocks": {
-        "item_qEAyYy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_3.png",
-            "mobile_image": "shopify://shop_images/Artboard_2_copy.png",
-            "label": "Symphony of Soft Whites",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_tAJnwr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_5.png",
-            "mobile_image": "shopify://shop_images/Artboard_2_copy_3.png",
-            "label": "The Bohemian Wedding",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        },
-        "item_wekKkU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Artboard_4_2dc2924c-9521-4f87-938d-f7ea340c2e45.png",
-            "mobile_image": "shopify://shop_images/Artboard_2_copy_2.png",
-            "label": "The Royal Wedding",
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "mobile_text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "item_qEAyYy",
-        "item_tAJnwr",
-        "item_wekKkU"
-      ],
-      "name": "t:sections.timeline.presets.timeline.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "item_color_scheme": "",
-        "separate_section_with_border": false,
-        "full_width": true,
-        "background_color": "#ffffff"
       }
     },
     "collection_list_chQb3x": {
@@ -836,6 +938,7 @@
         "collection_fanTKg",
         "collection_6DMxHa"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-size: 22px !important; font-family: Felix Titling !important;}"
       ],
@@ -859,106 +962,6 @@
         "content_above_carousel": false,
         "content_inline": true,
         "content_color": "#1c1c1c"
-      }
-    },
-    "collection_list_KELLmU": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_9qrdjz": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "",
-            "image": "shopify://shop_images/490025070_18499011991005570_7527992384920661659_n_jpeg.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Fusion",
-            "button_link": "",
-            "button_style": "outline",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_GGrLzT": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "image": "shopify://shop_images/474934173_18486610204051794_2136855394719041227_n_jpeg.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Accessories",
-            "button_link": "",
-            "button_style": "outline",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "collection_9qrdjz",
-        "collection_GGrLzT"
-      ],
-      "custom_css": [
-        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}"
-      ],
-      "name": "t:sections.collection_list.presets.collection_list.name",
-      "settings": {
-        "additional_class": "",
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 2,
-        "subheading": "",
-        "title": "Curated Collections",
-        "content": "",
-        "button_text": "View products",
-        "button_link": "",
-        "button_style": "solid",
-        "content_above_carousel": false,
-        "content_inline": false,
-        "content_color": "#ffffff"
-      }
-    },
-    "featured_collections_hEbtWM": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_PdCkHV": {
-          "type": "collection",
-          "settings": {
-            "collection": "lehenga-2",
-            "products_count": 8,
-            "title": "Ready To Ship",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_PdCkHV"
-      ],
-      "custom_css": [
-        "h2 {font-family: Felix Titling !important; font-size: 22px !important;}"
-      ],
-      "name": "t:sections.featured_collections.presets.featured_collections.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
       }
     },
     "collection_list_KhUcHm": {
@@ -1280,15 +1283,15 @@
     "slideshow",
     "collection_list_hFiyRh",
     "collection_list_34TAbC",
-    "collection_list_ByHyfH",
-    "timeline_8XcLnR",
     "logo_marquee_aTwctM",
-    "featured_collections_9qi7G8",
     "timeline_ehrckp",
-    "collection_list_chQb3x",
+    "collection_list_ByHyfH",
+    "collection_list_KhUcHm",
     "collection_list_KELLmU",
     "featured_collections_hEbtWM",
-    "collection_list_KhUcHm",
+    "timeline_8XcLnR",
+    "featured_collections_9qi7G8",
+    "collection_list_chQb3x",
     "text_with_icons_kYJA4r",
     "image_with_text_overlay_KqUx49",
     "testimonials_TLQTW8",
