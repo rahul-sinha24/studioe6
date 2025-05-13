@@ -8111,6 +8111,19 @@ a.product-title.h6 {
   a.site-header__icon.site-header__link.wishlist-hero-header-icon.wishlist-hero-header-show-count-only svg.wlh-svg-Icon {
     font-size: 16px !important;
   }
+  .doubly-wrapper.sm\:hidden {
+    float: none;
+    max-width: fit-content;
+    width: fit-content;
+    position: fixed;
+    bottom: 10%;
+  }
+  .doubly-nice-select.right .list {
+    left: auto;
+    right: auto !important;
+    top: auto !important;
+    bottom: 50px;
+  }
 }
 
 
