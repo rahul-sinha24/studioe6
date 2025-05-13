@@ -8012,9 +8012,6 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
   src: url(https://cdn.shopify.com/s/files/1/0330/1333/files/Felix_Titling_Regular.ttf?v=1747054582);
 }
 
-
-
-
 .shop-collection .collection-card {
     height: 25rem !important;
     max-height: 100% !important;
@@ -8097,4 +8094,8 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
 
 a.product-title.h6 {
     text-transform: capitalize !important;
+}
+
+.featured-collections-carousel a.button {
+    padding: 6px 12px !important;
 }
