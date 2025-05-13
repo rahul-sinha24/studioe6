@@ -8100,7 +8100,9 @@ a.product-title.h6 {
 }
 
 @media(max-width: 699px){
-  
+  .header__secondary-nav {
+    gap: .325rem .5rem;
+  }
 }
 
 
