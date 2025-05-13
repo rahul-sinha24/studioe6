@@ -113,6 +113,9 @@
                         </div>
                       {%- endif -%}
                     {%- endform -%}
+                {%- if section.settings.show_social_media -%}
+        {%- render 'social-media', layout: 'list' -%}
+      {%- endif -%}
                   </div>
 
               {%- endcase -%}
@@ -133,9 +136,7 @@
       ------------------------------------------------------------------------------------------------------------------
       {%- endcomment -%}
 
-      {%- if section.settings.show_social_media -%}
-        {%- render 'social-media', layout: 'list' -%}
-      {%- endif -%}
+      
 
       {%- comment -%}
       ------------------------------------------------------------------------------------------------------------------
