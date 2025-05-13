@@ -114,6 +114,23 @@
     "collection_list_hFiyRh": {
       "type": "collection-list",
       "blocks": {
+        "collection_aqweL6": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "image": "shopify://shop_images/1_a3c0303d-c0b0-43c3-b9b9-d59a3ade8264.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "Men",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "collection_CdWhUX": {
           "type": "collection",
           "settings": {
@@ -142,23 +159,6 @@
             "subheading": "",
             "title": "",
             "button_text": "Celeb",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_aqweL6": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "",
-            "image": "shopify://shop_images/1_a3c0303d-c0b0-43c3-b9b9-d59a3ade8264.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Men",
             "button_link": "",
             "button_style": "link",
             "overlay_color": "#000000",
@@ -201,9 +201,9 @@
         }
       },
       "block_order": [
+        "collection_aqweL6",
         "collection_CdWhUX",
         "collection_dLPJ4e",
-        "collection_aqweL6",
         "collection_fibdGa",
         "collection_WAJgYc"
       ],
