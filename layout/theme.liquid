@@ -100,21 +100,23 @@
       {%- endif -%}
     </main>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const toggleIcon = document.querySelector(".share-toggle-icon");
-    const shareBox = document.querySelector(".share-options");
-
-    toggleIcon.addEventListener("click", function () {
-      shareBox.style.display = shareBox.style.display === "flex" ? "none" : "flex";
-    });
-
-    document.addEventListener("click", function (e) {
-      if (!e.target.closest(".custom-share-container")) {
-        shareBox.style.display = "none";
-      }
-    });
-  });
-</script>    
+    {% if template.name contains 'product' %}
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          const toggleIcon = document.querySelector(".share-toggle-icon");
+          const shareBox = document.querySelector(".share-options");
+      
+          toggleIcon.addEventListener("click", function () {
+            shareBox.style.display = shareBox.style.display === "flex" ? "none" : "flex";
+          });
+      
+          document.addEventListener("click", function (e) {
+            if (!e.target.closest(".custom-share-container")) {
+              shareBox.style.display = "none";
+            }
+          });
+        });
+      </script>  
+    {% endif %}   
   </body>
 </html>
