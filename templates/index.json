@@ -126,7 +126,7 @@
             "title": "",
             "button_text": "Women",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -143,7 +143,7 @@
             "title": "",
             "button_text": "Celeb",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -160,7 +160,7 @@
             "title": "",
             "button_text": "Men",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -177,7 +177,7 @@
             "title": "",
             "button_text": "Accessories",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -194,7 +194,7 @@
             "title": "",
             "button_text": "Celeb",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "link",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -213,7 +213,7 @@
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
-        "show_text_outside": true,
+        "show_text_outside": false,
         "space_items": true,
         "stack_collections": false,
         "collections_per_row_mobile": "1",
@@ -226,7 +226,8 @@
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
-        "content_color": ""
+        "content_color": "",
+        "shadow_bottom": true
       }
     },
     "collection_list_34TAbC": {
@@ -382,7 +383,8 @@
         "content_above_carousel": true,
         "content_inline": true,
         "left_image": "shopify://shop_images/Rang_Mahal_Latest_Collection.jpg",
-        "content_color": "#ffffff"
+        "content_color": "#ffffff",
+        "shadow_bottom": true
       }
     },
     "logo_marquee_aTwctM": {
@@ -604,7 +606,8 @@
         "button_style": "link",
         "content_above_carousel": false,
         "content_inline": true,
-        "content_color": "#1c1c1c"
+        "content_color": "#1c1c1c",
+        "shadow_bottom": true
       }
     },
     "collection_list_KhUcHm": {
@@ -704,7 +707,8 @@
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
-        "content_color": ""
+        "content_color": "",
+        "shadow_bottom": true
       }
     },
     "collection_list_KELLmU": {
@@ -771,7 +775,8 @@
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
-        "content_color": "#ffffff"
+        "content_color": "#ffffff",
+        "shadow_bottom": true
       }
     },
     "featured_collections_hEbtWM": {
@@ -1079,7 +1084,8 @@
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": true,
-        "content_color": "#1c1c1c"
+        "content_color": "#1c1c1c",
+        "shadow_bottom": true
       }
     },
     "text_with_icons_kYJA4r": {
