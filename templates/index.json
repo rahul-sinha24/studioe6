@@ -482,9 +482,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Engagement",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -499,9 +499,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Wedding",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -516,9 +516,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Sangeet",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -533,9 +533,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Haldi/Mehendi",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -550,9 +550,9 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Reception",
-            "button_text": "",
+            "button_text": "Explore",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
