@@ -8103,6 +8103,9 @@ a.product-title.h6 {
   .header__secondary-nav {
     gap: .325rem .5rem;
   }
+  .header__nav-icon {
+    width: 1.175rem;
+  }
   a.site-header__icon.site-header__link.wishlist-hero-header-icon.wishlist-hero-header-show-count-only svg.wlh-svg-Icon {
     font-size: 16px !important;
   }
