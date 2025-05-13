@@ -309,7 +309,7 @@
       ],
       "custom_css": [
         "p {line-height: 1.4 !important;}",
-        "h2 {font-size: 24px !important;}"
+        "h2 {font-size: 24px !important; font-family: Felix Titling !important;}"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
