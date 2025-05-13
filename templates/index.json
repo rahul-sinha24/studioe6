@@ -126,7 +126,7 @@
             "title": "",
             "button_text": "Women",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -143,7 +143,7 @@
             "title": "",
             "button_text": "Men",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -160,7 +160,7 @@
             "title": "",
             "button_text": "Accessories",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -177,7 +177,7 @@
             "title": "",
             "button_text": "Celeb",
             "button_link": "",
-            "button_style": "link",
+            "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -195,7 +195,7 @@
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
-        "show_text_outside": false,
+        "show_text_outside": true,
         "space_items": true,
         "stack_collections": false,
         "collections_per_row_mobile": "1",
