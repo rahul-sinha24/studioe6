@@ -8147,6 +8147,9 @@ a.product-title.h6 {
   .section-stack {
     gap: 1.3rem;
   }
+  .timeline__carousel, .timeline__item {
+    margin: 0;
+  }
 }
 
 
