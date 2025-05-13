@@ -86,6 +86,7 @@
           </div>
         {%- endif -%}
         {% if section.settings.content_above_carousel == blank %}
+        <!-- Normal header -->
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
           
         {% endif %}
@@ -416,6 +417,11 @@
     {
       "type": "header",
       "content": "t:global.section.header_category"
+    },
+    {
+      "type": "image_picker",
+      "id": "title_above_icon",
+      "label": "Title Above Link"
     },
     {
       "type": "inline_richtext",
