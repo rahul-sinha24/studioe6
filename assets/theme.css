@@ -8074,11 +8074,9 @@ div#wishlisthero-product-page-button-container button.btn.product__form--add-to-
     justify-content: space-between;
 }
 
-
 .product-title.h3 {
     text-transform: capitalize !important;
 }
-
 
 a.product-title.h6 {
     text-transform: capitalize !important;
