@@ -132,7 +132,7 @@ Supported variables
 
             {%- if request.page_type == 'product' and context == 'main_product' -%}
               <h1 class="product-title {{ block.settings.heading_tag }}">
-                {{- product_title | upcase -}}
+                {{- product_title | capitalize -}}
               </h1>
             {%- else -%}
               <h2 class="product-title {{ block.settings.heading_tag }}">
