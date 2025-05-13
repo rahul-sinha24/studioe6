@@ -8085,6 +8085,10 @@ a.product-title.h6 {
     border: none !important;
 }
 
+.collection-card .content-over-media {
+    --content-over-media-gap: 2rem;
+}
+
 @media (min-width: 700px){
   /* .shop-collection .collection-card {
     height: 25rem !important;
