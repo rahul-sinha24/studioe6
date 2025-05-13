@@ -9,6 +9,62 @@
  */
 {
   "sections": {
+    "rich_text_e8V49g": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_FM6kpX": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_CQxWhR": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_jAaABx": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "link_8bxAyV": {
+          "type": "link",
+          "settings": {
+            "text": "Text",
+            "url": ""
+          }
+        },
+        "button_6PqmeQ": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Button text",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_FM6kpX",
+        "heading_CQxWhR",
+        "richtext_jAaABx",
+        "link_8bxAyV",
+        "button_6PqmeQ"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -811,7 +867,7 @@
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "Must Have Designers",
+        "title": "Our Favorite Designers",
         "content": "",
         "button_text": "View products",
         "button_link": "",
@@ -1272,6 +1328,7 @@
     }
   },
   "order": [
+    "rich_text_e8V49g",
     "slideshow",
     "collection_list_hFiyRh",
     "collection_list_ByHyfH",
