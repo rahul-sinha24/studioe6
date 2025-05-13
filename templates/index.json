@@ -359,10 +359,7 @@
         "collection_TtNhdg",
         "collection_wGcPBf"
       ],
-      "custom_css": [
-        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}",
-        ".button {padding: 6px 12px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "additional_class": "explore-collections",
@@ -584,8 +581,7 @@
         "collection_W74W7h"
       ],
       "custom_css": [
-        "p {line-height: 1.4 !important;}",
-        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}"
+        "p {line-height: 1.4 !important;}"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
@@ -753,9 +749,7 @@
         "collection_9qrdjz",
         "collection_GGrLzT"
       ],
-      "custom_css": [
-        "h2 {font-size: 22px !important; font-family: Felix Titling !important;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "additional_class": "",
@@ -796,9 +790,7 @@
       "block_order": [
         "collection_PdCkHV"
       ],
-      "custom_css": [
-        "h2 {font-family: Felix Titling !important; font-size: 22px !important;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.featured_collections.presets.featured_collections.name",
       "settings": {
         "color_scheme": "scheme-2",
