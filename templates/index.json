@@ -334,22 +334,6 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "collection_wGcPBf": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "",
-            "button_text": "Sarees",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
@@ -358,8 +342,7 @@
         "collection_zizQMT",
         "collection_gbYwnY",
         "collection_n9P9zg",
-        "collection_TtNhdg",
-        "collection_wGcPBf"
+        "collection_TtNhdg"
       ],
       "custom_css": [],
       "name": "t:sections.collection_list.presets.collection_list.name",
