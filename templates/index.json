@@ -403,31 +403,36 @@
         "logo_JJXgVy": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/anita_dongre_b5a68fa1-ab67-4220-adac-269f3ba2e478.png"
+            "logo": "shopify://shop_images/anita_dongre_b5a68fa1-ab67-4220-adac-269f3ba2e478.png",
+            "link": ""
           }
         },
         "logo_9FKcFy": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/MASABA.png"
+            "logo": "shopify://shop_images/MASABA.png",
+            "link": ""
           }
         },
         "logo_RKLNPB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/PAPA_DONT_PREACH.png"
+            "logo": "shopify://shop_images/PAPA_DONT_PREACH.png",
+            "link": ""
           }
         },
         "logo_jEVKWn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/falguni_shane_peacock.png"
+            "logo": "shopify://shop_images/falguni_shane_peacock.png",
+            "link": ""
           }
         },
         "logo_w8VGCK": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/diya_rajvir_8e55a712-d00f-4b37-a66f-3be010cb4cc9.png"
+            "logo": "shopify://shop_images/diya_rajvir_8e55a712-d00f-4b37-a66f-3be010cb4cc9.png",
+            "link": ""
           }
         }
       },
@@ -439,7 +444,13 @@
         "logo_w8VGCK"
       ],
       "name": "Auto Scrolling Logos",
-      "settings": {}
+      "settings": {
+        "heading": "The Pinnacle of Indian Couture",
+        "subheading": "Shop the legacy of Indian design",
+        "context": "",
+        "button_label": "",
+        "button_link": ""
+      }
     },
     "timeline_ehrckp": {
       "type": "timeline",
