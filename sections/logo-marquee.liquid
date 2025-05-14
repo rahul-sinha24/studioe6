@@ -13,7 +13,7 @@
 
 
       <div class="section-stack">
-        {%- if section.settings.heading != blank or section.settings.subheading != blank or section.settings.context != blank -%}
+        {%- if section.settings.heading != blank or section.settings.subheading != blank or section.settings.content != blank -%}
 
 
           {% if section.settings.title_above_icon != blank %}
@@ -32,9 +32,12 @@
                     {% endstyle %}
                   {% endif %}
 
+        {%- render 'section-header', heading: section.settings.title, subheading: section.settings.subheading, content: section.settings.content, text_alignment: 'center' -%}
 
         
+        {% comment %}
           {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
+        {% endcomment %}  
         {%- endif -%}
 
   
@@ -150,7 +153,7 @@
     },
     {
       "type": "textarea",
-      "id": "context",
+      "id": "content",
       "label": "Paragraph"
     },
 
