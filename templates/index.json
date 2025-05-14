@@ -1199,46 +1199,46 @@
         "testimonial_9CJV4a": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p>\"I couldn’t have imagined my wedding day without the perfect outfit, and this brand truly delivered. The bridal couture collection is a masterpiece — exquisite craftsmanship, intricate details, and a design that made me feel like royalty on my special day.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "Ayesha Sharma, Bride"
           }
         },
         "testimonial_nMhGFf": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p>\"The attention to detail and elegance in every piece is unmatched. Shopping here for my wedding trousseau was an absolute dream. I felt like I was wearing the heritage and artistry of India itself.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "Madhuri Verma"
           }
         },
         "testimonial_73tdY7": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p>\"I was searching for something truly unique for my wedding, and this brand’s selection of couture blew me away. The fusion of modern design with traditional elements was exactly what I wanted. I felt confident, stylish, and completely in love with my outfit.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "Rhea Desai"
           }
         },
         "testimonial_C9REGT": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p>\"Every stitch, every embellishment — perfection. This brand offers the finest wedding couture, bringing together the richness of Indian heritage with modern luxury. I was pampered with personalized service, and I couldn’t have felt more beautiful in my outfit.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "Prachi Patel"
           }
         },
         "testimonial_Xdxjrt": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p>\"From the moment I stepped into the store, I knew I was in the right place. The luxury and quality of the wedding couture collections are extraordinary. Every detail, from fabric to fit, was beyond my expectations. I couldn’t have asked for a more perfect wedding ensemble.\"</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
-            "author": ""
+            "author": "Simran Singh"
           }
         }
       },
@@ -1257,7 +1257,7 @@
         "cycle_speed": 5,
         "font_size_factor": 1,
         "subheading": "",
-        "title": "",
+        "title": "Voice of Customers",
         "content": ""
       }
     }
