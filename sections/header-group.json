@@ -35,6 +35,56 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "mega_menu_hQhcny": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "Shop",
+            "images_position": "right",
+            "image_1": "shopify://shop_images/I_think_the_basis_of_selecting_films_evolves_over_time_right_When_you_start_you_choose_from_what_s_available._But_as_you_find_your_feet_you_understand_what_you_should_gravitate_toward.jpg",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2": "shopify://shop_images/The_Masaba_Bride_The_Rainbow_Barfi_Lehenga_A_breath_of_fresh_air_borrowing_from_the_excitement_and_the_visual_treat_that_is_the_sweet_the_lehenga_uses_the_age_old_craft_of_patchwork_t.jpg",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_4CyCFA": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "Wedding Edits",
+            "images_position": "right",
+            "image_1": "shopify://shop_images/RANG_MAHAL_The_veil_is_that_finishing_touch_that_brings_the_bridal_look_to_life._Draped_in_delicate_folds_it_envelops_the_bride_in_a_timeless_ethereal_beauty_blending_tradition_with_e.jpg",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2": "shopify://shop_images/Designed_to_reveal_the_ethereal_otherworldly_essence_within_our_couture_quietly_amplifies_the_innate_grace_and_divine_femininity_that_every_woman_carries..jpg",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        },
+        "mega_menu_wi3WrN": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_hQhcny",
+        "mega_menu_4CyCFA",
+        "mega_menu_wi3WrN"
+      ],
       "settings": {
         "color_scheme": "",
         "enable_sticky": true,
