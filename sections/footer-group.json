@@ -74,18 +74,18 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links_mfrUFz": {
-          "type": "links",
-          "settings": {
-            "menu": "need-help",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "links_4Wq9CA": {
           "type": "links",
           "settings": {
             "menu": "studio-east6",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_mfrUFz": {
+          "type": "links",
+          "settings": {
+            "menu": "need-help",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -118,8 +118,8 @@
         }
       },
       "block_order": [
-        "links_mfrUFz",
         "links_4Wq9CA",
+        "links_mfrUFz",
         "links",
         "text",
         "newsletter"
