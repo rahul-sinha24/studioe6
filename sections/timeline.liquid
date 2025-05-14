@@ -10,6 +10,39 @@
 
   <div class="section-spacing color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
     <div class="container {% if section.settings.full_width == blank %}container--md{% endif %}">
+
+
+      <div class="section-stack">
+        {%- if section.settings.title != blank or section.settings.subheading != blank or section.settings.content != blank -%}
+
+
+
+{% if section.settings.title_above_icon != blank %}
+          <div class="above_icon">
+            {{ section.settings.title_above_icon | image_url: width: section.settings.title_above_icon.width | image_tag: loading: 'lazy', sizes: auto, widths: '300,400,500,600,800,1000,1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
+          </div>
+          {% style %}
+            #shopify-section-{{ section.id }}.shopify-section--timeline .above_icon img {
+              max-width: 45px;
+              margin: 0 auto;
+            }
+            #shopify-section-{{ section.id }}.shopify-section--timeline .above_icon {
+              /* margin-bottom: 1rem; */
+              margin: 0 auto;
+            }
+          {% endstyle %}
+        {% endif %}
+
+
+        
+          {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
+        {%- endif -%}
+
+
+
+
+
+  
       <div class="timeline">
         {%- assign carousel_id = 'carousel-' | append: section.id -%}
 
@@ -136,7 +169,7 @@
         </carousel-navigation>
       </div>
     </div>
-  </div>
+    </div></div>
 {%- endif -%}
 
 {% style %}
@@ -223,6 +256,19 @@
       "label": "Full Width",
       "default": false
     },
+
+
+        {
+      "type": "header",
+      "content": "t:global.section.header_category"
+    },
+
+    {
+      "type": "image_picker",
+      "id": "title_above_icon",
+      "label": "Title Above Link"
+    },
+    
 
    {
       "type": "image_picker",
