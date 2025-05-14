@@ -1,46 +1,13 @@
-{% comment %} <div class="logo-marquee-container">
-    {% if section.settings.subheading %}
-    <h4 class="logo-marquee-subheading">{{ section.settings.subheading }}</h4>
-  {% endif %}
-  
+<div class="logo-marquee-container">
   {% if section.settings.heading %}
     <h2 class="logo-marquee-heading">{{ section.settings.heading }}</h2>
   {% endif %}
-
+  {% if section.settings.subheading %}
+    <h4 class="logo-marquee-subheading">{{ section.settings.subheading }}</h4>
+  {% endif %}
   {% if section.settings.context %}
     <p class="logo-marquee-context">{{ section.settings.context }}</p>
-  {% endif %} {% endcomment %}
-
-
-      <div class="section-stack">
-        {%- if section.settings.heading != blank or section.settings.subheading != blank or section.settings.content != blank -%}
-
-
-          {% if section.settings.title_above_icon != blank %}
-                    <div class="above_icon">
-                      {{ section.settings.title_above_icon | image_url: width: section.settings.title_above_icon.width | image_tag: loading: 'lazy', sizes: auto, widths: '300,400,500,600,800,1000,1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
-                    </div>
-                    {% style %}
-                      #shopify-section-{{ section.id }}.shopify-section--auto-scroll-logo .above_icon img {
-                        max-width: 45px;
-                        margin: 0 auto;
-                      }
-                      #shopify-section-{{ section.id }}.shopify-section--auto-scroll-logo .above_icon {
-                        /* margin-bottom: 1rem; */
-                        margin: 0 auto;
-                      }
-                    {% endstyle %}
-                  {% endif %}
-
-        {%- render 'section-header', heading: section.settings.title, subheading: section.settings.subheading, content: section.settings.content, text_alignment: 'center' -%}
-
-        
-        {% comment %}
-          {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
-        {% endcomment %}  
-        {%- endif -%}
-
-  
+  {% endif %}
 
   <div class="logo-marquee-wrapper">
     <div class="logo-marquee-track">
@@ -61,7 +28,7 @@
         {% endif %}
       {% endfor %}
     </div>
-  </div></div>
+  </div>
 
   {% if section.settings.button_label and section.settings.button_link %}
     <div class="logo-marquee-button-wrapper">
@@ -74,7 +41,6 @@
 .logo-marquee-container {
   text-align: center;
   /* padding: 40px 20px; */
-  padding: 20px;
   background: #fff;
 }
 .logo-marquee-heading {
@@ -139,7 +105,6 @@
 {% schema %}
   {
   "name": "Auto Scrolling Logos",
-  "class": "shopify-section--auto-scroll-logo",
   "settings": [
     {
       "type": "text",
@@ -153,16 +118,9 @@
     },
     {
       "type": "textarea",
-      "id": "content",
+      "id": "context",
       "label": "Paragraph"
     },
-
-    {
-      "type": "image_picker",
-      "id": "title_above_icon",
-      "label": "Title Above Link"
-    },
-    
     {
       "type": "text",
       "id": "button_label",
