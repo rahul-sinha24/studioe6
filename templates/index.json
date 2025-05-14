@@ -1142,59 +1142,6 @@
         "shadow_bottom": true
       }
     },
-    "text_with_icons_kYJA4r": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_neyFwb": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-file",
-            "custom_icon": "shopify://shop_images/FAQs.png",
-            "icon_width": 64,
-            "mobile_icon_width": 64,
-            "title": "FAQ",
-            "content": ""
-          }
-        },
-        "item_EMphTz": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "custom_icon": "shopify://shop_images/Book_an_Appointment.png",
-            "icon_width": 64,
-            "mobile_icon_width": 64,
-            "title": "Book an Appointment",
-            "content": ""
-          }
-        },
-        "item_mUP3iT": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-shield",
-            "custom_icon": "shopify://shop_images/Support.png",
-            "icon_width": 64,
-            "mobile_icon_width": 64,
-            "title": "Support",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_neyFwb",
-        "item_EMphTz",
-        "item_mUP3iT"
-      ],
-      "disabled": true,
-      "name": "t:sections.text_with_icons.presets.text_with_icons.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "stack_on_mobile": false,
-        "icon_color": "",
-        "text_color": "",
-        "text_alignment": "center"
-      }
-    },
     "image_with_text_overlay_KqUx49": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -1308,7 +1255,6 @@
     "timeline_8XcLnR",
     "featured_collections_9qi7G8",
     "collection_list_chQb3x",
-    "text_with_icons_kYJA4r",
     "image_with_text_overlay_KqUx49",
     "testimonials_TLQTW8"
   ]
