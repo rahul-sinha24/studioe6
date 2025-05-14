@@ -513,6 +513,9 @@
         "separate_section_with_border": false,
         "full_width": true,
         "title_above_icon": "shopify://shop_images/1_2_036d32ad-a1df-433e-9f2a-bb493f602f33.png",
+        "subheading": "Celebrate tradition and trend with colors that complement every ceremony.",
+        "title": "Shades of Celebration",
+        "content": "",
         "background_color": "#ffffff"
       }
     },
@@ -914,6 +917,9 @@
         "item_color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background_color": "#ffffff"
       }
     },
