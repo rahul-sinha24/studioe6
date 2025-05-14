@@ -1255,7 +1255,7 @@
         "separate_section_with_border": false,
         "auto_rotate_between_testimonials": true,
         "cycle_speed": 5,
-        "font_size_factor": 1,
+        "font_size_factor": 0.7,
         "subheading": "",
         "title": "Voice of Customers",
         "content": ""
