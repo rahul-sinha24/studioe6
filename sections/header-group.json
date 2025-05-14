@@ -17,7 +17,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "Curated Collections from India’s Most Iconic Designers."
+            "text": "<a href=\"/collections/all\" target=\"_blank\" title=\"All products\">Curated Collections from India’s Most Iconic Designers.</a>"
           }
         }
       },
