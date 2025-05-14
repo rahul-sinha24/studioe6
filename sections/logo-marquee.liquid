@@ -1,3 +1,162 @@
+<div class="logo-marquee-container">
+  {% if section.settings.heading %}
+    <h2 class="logo-marquee-heading">{{ section.settings.heading }}</h2>
+  {% endif %}
+  {% if section.settings.subheading %}
+    <h3 class="logo-marquee-subheading">{{ section.settings.subheading }}</h3>
+  {% endif %}
+  {% if section.settings.context %}
+    <p class="logo-marquee-context">{{ section.settings.context }}</p>
+  {% endif %}
+
+  <div class="logo-marquee-wrapper">
+    <div class="logo-marquee-track">
+      {% for block in section.blocks %}
+        {% if block.settings.logo %}
+          <a href="{{ block.settings.link }}" target="_blank">
+            <img src="{{ block.settings.logo | image_url: width: 300 }}" alt="Logo">
+          </a>
+        {% endif %}
+      {% endfor %}
+
+      <!-- Duplicate for seamless scroll -->
+      {% for block in section.blocks %}
+        {% if block.settings.logo %}
+          <a href="{{ block.settings.link }}" target="_blank">
+            <img src="{{ block.settings.logo | image_url: width: 300 }}" alt="Logo">
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  {% if section.settings.button_label and section.settings.button_link %}
+    <div class="logo-marquee-button-wrapper">
+      <a href="{{ section.settings.button_link }}" class="logo-marquee-button">{{ section.settings.button_label }}</a>
+    </div>
+  {% endif %}
+</div>
+
+{% style %}
+.logo-marquee-container {
+  text-align: center;
+  padding: 40px 20px;
+  background: #fff;
+}
+.logo-marquee-heading {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+.logo-marquee-subheading {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.logo-marquee-context {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #666;
+}
+.logo-marquee-wrapper {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.logo-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: scroll-left 20s linear infinite;
+}
+.logo-marquee-track img {
+  height: auto;
+  margin: 0 20px;
+  flex-shrink: 0;
+  object-fit: contain;
+  max-height: 80px;
+}
+.logo-marquee-button-wrapper {
+  margin-top: 30px;
+}
+.logo-marquee-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+.logo-marquee-button:hover {
+  background-color: #333;
+}
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+{% endstyle %}
+
+{% schema %}
+  {
+  "name": "Auto Scrolling Logos",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "subheading",
+      "label": "Subheading"
+    },
+    {
+      "type": "textarea",
+      "id": "context",
+      "label": "Paragraph"
+    },
+    {
+      "type": "text",
+      "id": "button_label",
+      "label": "Button Label"
+    },
+    {
+      "type": "url",
+      "id": "button_link",
+      "label": "Button Link"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "logo",
+      "name": "Logo",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "logo",
+          "label": "Upload Logo"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Logo Link"
+        }
+      ]
+    }
+  ],
+  "max_blocks": 20,
+  "presets": [
+    {
+      "name": "Auto Scrolling Logos"
+    }
+  ]
+}
+{% endschema %}  
+
+
+{% comment %}
 <div class="logo-marquee-wrapper">
   <div class="logo-marquee-track">
     {% for block in section.blocks %}
@@ -71,3 +230,4 @@
   ]
 }
 {% endschema %}
+{% endcomment %}
