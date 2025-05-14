@@ -21,11 +21,11 @@
                       {{ section.settings.title_above_icon | image_url: width: section.settings.title_above_icon.width | image_tag: loading: 'lazy', sizes: auto, widths: '300,400,500,600,800,1000,1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
                     </div>
                     {% style %}
-                      #shopify-section-{{ section.id }}.shopify-section--timeline .above_icon img {
+                      #shopify-section-{{ section.id }}.shopify-section--auto-scroll-logo .above_icon img {
                         max-width: 45px;
                         margin: 0 auto;
                       }
-                      #shopify-section-{{ section.id }}.shopify-section--timeline .above_icon {
+                      #shopify-section-{{ section.id }}.shopify-section--auto-scroll-logo .above_icon {
                         /* margin-bottom: 1rem; */
                         margin: 0 auto;
                       }
@@ -58,7 +58,7 @@
         {% endif %}
       {% endfor %}
     </div>
-  </div>
+  </div></div></div>
 
   {% if section.settings.button_label and section.settings.button_link %}
     <div class="logo-marquee-button-wrapper">
