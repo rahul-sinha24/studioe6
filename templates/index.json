@@ -638,6 +638,37 @@
         "shadow_bottom": true
       }
     },
+    "featured_collections_PbLLpU": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_rkwUmc": {
+          "type": "collection",
+          "settings": {
+            "collection": "lehenga-2",
+            "products_count": 8,
+            "title": "Ready To Ship",
+            "link_url": "#",
+            "link_text": "Explore More"
+          }
+        }
+      },
+      "block_order": [
+        "collection_rkwUmc"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "title_above_icon": "shopify://shop_images/1_2_036d32ad-a1df-433e-9f2a-bb493f602f33.png",
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "collection_list_KhUcHm": {
       "type": "collection-list",
       "blocks": {
@@ -812,11 +843,11 @@
         "collection_PdCkHV": {
           "type": "collection",
           "settings": {
-            "collection": "lehenga-2",
+            "collection": "bandhgalas-jodhpuris-indowestern-1",
             "products_count": 8,
-            "title": "Ready To Ship",
-            "link_url": "",
-            "link_text": ""
+            "title": "Elegance for Every Man",
+            "link_url": "#",
+            "link_text": "Explore More"
           }
         }
       },
@@ -1269,6 +1300,7 @@
     "logo_marquee_aTwctM",
     "timeline_ehrckp",
     "collection_list_ByHyfH",
+    "featured_collections_PbLLpU",
     "collection_list_KhUcHm",
     "collection_list_KELLmU",
     "featured_collections_hEbtWM",
