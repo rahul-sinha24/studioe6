@@ -32,7 +32,7 @@
       {%- endif -%}
 
       {%- if section.blocks.size > 0 -%}
-        <div class="content {{ section.settings.mob_content_direction }} {{ section.settings.desk_content_direction }}">
+        <div class="content {% if section.settings.framed != blank %}framed{% endif %} {{ section.settings.mob_content_direction }} {{ section.settings.desk_content_direction }}">
           <div class="prose text-sm sm:text-base">
             {%- for block in section.blocks -%}
               {%- case block.type -%}
@@ -96,6 +96,18 @@
       }
     {% endif %}
   }
+  {% if section.settings.framed != blank %}
+    #shopify-section-{{ section.id }}.shopify-section--image-with-text-block image-banner.image-with-text-block.content-over-media .content.framed {
+      padding: 10px;
+      box-shadow: inset 0px 0px 20px 20px #ffffff;
+      background: transparent;
+    }
+    #shopify-section-{{ section.id }}.shopify-section--image-with-text-block image-banner.image-with-text-block.content-over-media .content.framed .prose{
+      border: 4px solid;
+      padding: 20px;
+      background: #ffffffba;
+    }
+  {% endif %}
 {% endstyle %}
 
 {% schema %}
@@ -230,6 +242,12 @@
       "type": "checkbox",
       "id": "remove_vertical_spacing",
       "label": "t:global.spacing.remove_vertical_spacing",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "framed",
+      "label": "Box Frame",
       "default": true
     }
   ],
