@@ -8206,6 +8206,9 @@ body p, span, li, summary, a {
   .lacate_icon.sm-max\:hidden, .custom_icons {
     display: none !important;
   }
+  .collection-card__content p.h3 {
+    font-size: 14px;
+  }
 }
 
 @media screen and (min-width: 1150px) {
