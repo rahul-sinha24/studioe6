@@ -1172,7 +1172,7 @@
         "richtext_7rwxWR": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Suite #407, 1142 West Madison Street, Chicago, Illinois, 60607</p>"
+            "content": "<p>1142 West Madison St.<br/>Suite #407<br/>Chicago, IL 60607</p>"
           }
         },
         "link_g6aTE8": {

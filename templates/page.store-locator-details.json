@@ -178,6 +178,44 @@
         "text_position": "start",
         "remove_vertical_spacing": false
       }
+    },
+    "rich_text_etcwaw": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_eDcP4J": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_d7cqa4": {
+          "type": "heading",
+          "settings": {
+            "text": "<span style=\"text-decoration:underline\"><strong>TO SCHEDULE AN IN-PERSON OR VIRTUAL APPOINTMENT</strong></span>",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_dDdinR": {
+          "type": "richtext",
+          "settings": {
+            "content": "<ul><li>To schedule an in-person or virtual appointment, click <a href=\"https://StudioEast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></li><li>email: contact@studioeast6.com or text: 312-834-3469</li><li>fill out a contact form <a href=\"https://www.studioeast6.com/pages/contact-us\">here</a></li><li>we do offer virtual appointments for $25 non-refundable feel</li></ul><p><strong>To assist in scheduling a virtual appointment, please kindly include the following details:</strong><br/><br/>1. Date of Event<br/>2. Type of outfits/styles needed<br/>3. Designers interested in (if any)<br/>4. Estimated budgets<br/>5. Appointment date/time preferences</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eDcP4J",
+        "heading_d7cqa4",
+        "richtext_dDdinR"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "start",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
@@ -185,6 +223,7 @@
     "image_with_text_FwiCrW",
     "rich_text_yMnqMy",
     "rich_text_idQVUN",
-    "rich_text_GTj3wM"
+    "rich_text_GTj3wM",
+    "rich_text_etcwaw"
   ]
 }
