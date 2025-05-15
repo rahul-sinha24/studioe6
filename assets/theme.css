@@ -8170,6 +8170,9 @@ div#fsb_container {
   .timeline__carousel, .timeline__item {
     margin: 0;
   }
+  .lacate_icon.sm-max\:hidden {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 1150px) {
