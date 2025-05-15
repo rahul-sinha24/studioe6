@@ -65,7 +65,7 @@
                   {%- if menu != blank and menu.links.size > 0 -%}
                     <div class="v-stack gap-4 sm:gap-5">
                       {%- if block.settings.show_menu_title != blank -%}
-                        <p class="h6{% if section.settings.accordian_in_mobile != blank %} accordian{% endif %}">{{ block.settings.menu_title | default: menu.title }}</p>
+                        <p class="h6{% if section.settings.accordian_in_mobile != blank %} accordion{% endif %}">{{ block.settings.menu_title | default: menu.title }}</p>
                       {%- endif -%}
 
                       <ul class="v-stack gap-2.5 unstyled-list{% if section.settings.accordian_in_mobile != blank %} panel{% endif %}" role="list">
