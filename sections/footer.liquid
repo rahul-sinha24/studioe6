@@ -184,30 +184,31 @@
 {% if section.settings.accordian_in_mobile != blank %}
 
 {% style %}
-  .accordion {
-    cursor: pointer;
-    max-width: 100%;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    transition: 0.4s;
-  }
-  .accordion:after {
-    content: '\002B';
-    color: #fff;
-    font-weight: bold;
-    float: right;
-    margin-left: 5px;
-  }  
-  .active:after {
-    content: "\2212";
-  }
-  
-  .panel {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
+  @media(max-width: 699px){
+    .accordion {
+      cursor: pointer;
+      max-width: 100%;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      transition: 0.4s;
+    }
+    .accordion:after {
+      content: '\002B';
+      color: #fff;
+      font-weight: bold;
+      float: right;
+      margin-left: 5px;
+    }  
+    .active:after {
+      content: "\2212";
+    }
+    .panel {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.2s ease-out;
+    }
   }
 {% endstyle %}
 
