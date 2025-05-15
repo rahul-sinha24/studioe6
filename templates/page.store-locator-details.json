@@ -88,11 +88,103 @@
         "text_position": "center",
         "remove_vertical_spacing": false
       }
+    },
+    "rich_text_idQVUN": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_XDkV9j": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_bAPKA4": {
+          "type": "heading",
+          "settings": {
+            "text": "<span style=\"text-decoration:underline\"><strong>Studio Closures, Special Hours, & EVENTS:</strong></span>",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_UjKUFw": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>JAN 1 - CLOSED</strong></p><p><span style=\"text-decoration:underline\"><strong>HOURS</strong></span></p><p><span style=\"text-decoration:underline\"><strong>Open Walk-in Hours 2025 (Closed Every Monday & Tuesday & see above for special hours)</strong></span><br/><br/>1. Wednesday • 1:30pm - 6:30pm<br/>2. Thursday • 1:30pm.- 5:30pm<br/>3. Friday • 12:30pm - 4:30pm<br/>4. Saturday • 12:00pm - 5:30pm<br/>5. Sunday • 12:30pm - 5:00pm</p><p><br/>*Note hours may slightly vary during holidays, please check above, our Instagram <a href=\"https://instagram.com/studioeast6\" target=\"_blank\">feed</a>, or text 312-834-3469 to inquire*</p><p>*To schedule virtual appointment, click <a href=\"https://StudioEast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a><strong>. </strong></p>"
+          }
+        },
+        "richtext_PC9wQc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Walk-in Hours: </strong></span><em>Due to high demand, we are unable to accommodate a large number of appointments during the week. To address this, we have introduced open walk-in hours.</em></p><ul><li>Walk-in hours are open hours, where no appointment is needed. These hours are designated for shopping off-the-rack, browsing, general questions, order pick-ups, and/or custom ordering.</li><li>Any items $1700 or under can be tried on during open walk-in hours. <strong>Kindly note, items priced $1700 or more cannot be tried on during walk-in hours without a $50 trial fee</strong>. The $50 fee is refundable upon purchasing apparel on the same day, with no exceptions.</li><li>We highly encourage brides who are in preliminary stages of bridal shopping, to stop in during our walk-in hours.</li><li>If we are at capacity in-studio, you may be asked to come back when space is available, in which case we will create a waitlist.</li><li>The studio's level of traffic can fluctuate, affecting the availability of sales associates for assistance or open dressing rooms. Kindly note this is not within our control, as it depends on the particular day and time.</li><li>Appointments are designated to clients looking for a more personalized service, finalize & place an order, or try on anything $1700 or over. There is a $50 deposit/appointment fee (See below). This $50 fee is refundable only with an apparel purchase executed on the day of.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_XDkV9j",
+        "heading_bAPKA4",
+        "richtext_UjKUFw",
+        "richtext_PC9wQc"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "start",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_GTj3wM": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_LnEQGF": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_wH3Np9": {
+          "type": "heading",
+          "settings": {
+            "text": "<span style=\"text-decoration:underline\"><strong>IN-PERSON APPOINTMENT HOURS 2025</strong></span>",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_EfdM8y": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>1. Monday • Closed<br/>2. Tuesday • Closed<br/>3. Wednesday • 1:30pm - 7:30pm<br/>4. Thursday • 1:30pm.- 7:30pm<br/>5. Friday • 12:30pm - 7:30pm<br/>6. Saturday • 12:00pm - 5:30pm<br/>7. Sunday • 12:30pm - 5:00pm</strong></p><p>*To schedule an in-person appointment, click <a href=\"https://StudioEast6.as.me/\" target=\"_blank\" title=\"HERE\">HERE</a></p>"
+          }
+        },
+        "richtext_6R8xVc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Appointments:</strong></span><br/><br/>Clients with booked appointments are prioritized over walk-in clientele.</p><p>We do recommend scheduling an appointment, if you are looking</p><ul><li>to try anything on in the studio (this includes all items $1700 or over as well)</li><li>for one-on-one attention from a designated & experienced sales associate </li><li>to reserve a fitting room</li></ul><p></p><ul><li>An appointment is semi-private within our open hours, ensuring that a dedicated sales associate is by your side to offer personalized assistance to help you throughout the way to find something off-the-rack, customize order, or more!</li><li>There is a $50/one hour appointment fee that is refundable with an apparel purchase made only at time of appointment. It is $25 per each additional hour. No exceptions made</li><li>Ability to try anything on in the studio.</li></ul><p>Schedule an appointment <a href=\"https://StudioEast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_LnEQGF",
+        "heading_wH3Np9",
+        "richtext_EfdM8y",
+        "richtext_6R8xVc"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "start",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_FwiCrW",
-    "rich_text_yMnqMy"
+    "rich_text_yMnqMy",
+    "rich_text_idQVUN",
+    "rich_text_GTj3wM"
   ]
 }
