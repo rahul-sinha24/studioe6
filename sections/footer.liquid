@@ -185,7 +185,7 @@
 
 {% style %}
   @media(max-width: 699px){
-    .accordion {
+    .footer__block-list .accordion {
       cursor: pointer;
       max-width: 100%;
       width: 100%;
@@ -194,20 +194,23 @@
       outline: none;
       transition: 0.4s;
     }
-    .accordion:after {
+    .footer__block-list .accordion:after {
       content: '\002B';
       color: #fff;
       font-weight: bold;
       float: right;
       margin-left: 5px;
     }  
-    .active:after {
+    .footer__block-list .accordion.active:after {
       content: "\2212";
     }
-    .panel {
+    .footer__block-list .panel {
       max-height: 0;
       overflow: hidden;
       transition: max-height 0.2s ease-out;
+    }
+    .footer__block-list {
+      gap: min(var(--section-vertical-spacing), 1.5rem);
     }
   }
 {% endstyle %}
