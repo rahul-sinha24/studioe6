@@ -8126,6 +8126,10 @@ div#fsb_container {
     text-transform: uppercase;
     letter-spacing: .7px;
   }
+  .doubly-nice-select.right .list {
+    left: auto;
+    right: auto  !important;
+  }
 }
 
 @media(max-width: 699px){
