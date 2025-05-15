@@ -1152,10 +1152,11 @@
     "image_with_text_block_ngfc9t": {
       "type": "image-with-text-block",
       "blocks": {
-        "subheading_4MbHgt": {
-          "type": "subheading",
+        "heading_Cr4rDt": {
+          "type": "heading",
           "settings": {
-            "text": "Our Flagship"
+            "text": "Our Flagship",
+            "heading_tag": "h4"
           }
         },
         "richtext_7rwxWR": {
@@ -1173,7 +1174,7 @@
         }
       },
       "block_order": [
-        "subheading_4MbHgt",
+        "heading_Cr4rDt",
         "richtext_7rwxWR",
         "link_g6aTE8"
       ],
@@ -1186,7 +1187,8 @@
         "desk_content_direction": "text-left",
         "mob_content_direction": "text-center",
         "enable_parallax": false,
-        "remove_vertical_spacing": true
+        "remove_vertical_spacing": true,
+        "framed": true
       }
     },
     "image_with_text_overlay_KqUx49": {
