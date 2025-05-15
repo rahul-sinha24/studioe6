@@ -32,7 +32,7 @@
       {%- endif -%}
 
       {%- if section.blocks.size > 0 -%}
-        <div class="content {{ section.settings.mobile_text_position }} {{ section.settings.desktop_text_position }}">
+        <div class="content {{ section.settings.mob_content_direction }} {{ section.settings.desk_content_direction }}">
           <div class="prose text-sm sm:text-base">
             {%- for block in section.blocks -%}
               {%- case block.type -%}
