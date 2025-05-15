@@ -77,7 +77,9 @@
     --------------------------------------------------------------------------------------------------------------------
     {%- endcomment -%}
 
+    {% if section.settings.locate_us != blank %}
     <div class="custom_icons">
+    {% endif %}
     <div class="doubly-wrapper sm-max:hidden"></div>
     {% if section.settings.locate_us != blank %}
       <div class="lacate_icon sm-max:hidden">
@@ -102,7 +104,9 @@
           <span class="rte">LOCATE US</span>
       </div>
     {% endif %}
+    {% if section.settings.locate_us != blank %}
     </div>
+    {% endif %}
 
     {%- capture logo_content -%}
       {%- if section.settings.logo -%}
