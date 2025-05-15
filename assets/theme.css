@@ -8104,7 +8104,13 @@ a.product-title.h6 {
 div#fsb_container {
     display: none !important;
 }
-
+.bottom_content::before {
+    content: '';
+    position: absolute;
+    background: #00000063;
+    width: 100%;
+    height: 100%;
+}
 .bottom_content .bottom_content_drawer {
     position: absolute;
     bottom: 50%;
