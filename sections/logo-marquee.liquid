@@ -8,7 +8,7 @@
       {% for block in section.blocks %}
         {% if block.settings.logo %}
           <a href="{{ block.settings.link }}" target="_blank">
-            <img src="{{ block.settings.logo | image_url: width: 300 }}" alt="Logo">
+            {{ block.settings.logo | image_url: width: block.settings.logo.width | image_tag: loading: 'lazy', sizes: auto, widths: '1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
           </a>
         {% endif %}
       {% endfor %}
@@ -17,7 +17,7 @@
       {% for block in section.blocks %}
         {% if block.settings.logo %}
           <a href="{{ block.settings.link }}" target="_blank">
-            <img src="{{ block.settings.logo | image_url: width: 300 }}" alt="Logo">
+            {{ block.settings.logo | image_url: width: block.settings.logo.width | image_tag: loading: 'lazy', sizes: auto, widths: '1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
           </a>
         {% endif %}
       {% endfor %}
