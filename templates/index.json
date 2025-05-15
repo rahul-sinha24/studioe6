@@ -446,8 +446,8 @@
       "name": "Auto Scrolling Logos",
       "settings": {
         "heading": "The Pinnacle of Indian Couture",
-        "subheading": "Shop the legacy of Indian design",
-        "context": "",
+        "subheading": "",
+        "context": "Shop the legacy of Indian design",
         "button_label": "",
         "button_link": ""
       }
@@ -507,7 +507,7 @@
         "item_wekKkU"
       ],
       "custom_css": [
-        "@media(max-width: 699px){.section-spacing {padding-top: 3rem; }}"
+        "@media (max-width: 699px) {.section-spacing {padding-top: 3rem; }}"
       ],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
