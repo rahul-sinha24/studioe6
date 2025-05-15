@@ -40,7 +40,10 @@
                   {%- if block.settings.text != blank -%}
                     <p class="h6" {{ block.shopify_attributes }}>{{ block.settings.text }}</p>
                   {%- endif -%}
-
+                {%- when 'heading' -%}
+                  {%- if block.settings.text != blank -%}
+                    <p class="{{ block.settings.heading_tag }}" {{ block.shopify_attributes }}>{{ block.settings.text }}</p>
+                  {%- endif -%}
                 {%- when 'richtext' -%}
                   {%- if block.settings.content != blank -%}
                     <div {{ block.shopify_attributes }}>
