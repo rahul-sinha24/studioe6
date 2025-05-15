@@ -99,6 +99,9 @@
         position: absolute;
       }
     {% endif %}
+    #shopify-section-{{ section.id }}.shopify-section--image-with-text-block image-banner.image-with-text-block.content-over-media .content.framed {
+      max-width: 260px;
+    }
   }
   {% if section.settings.framed != blank %}
     #shopify-section-{{ section.id }}.shopify-section--image-with-text-block image-banner.image-with-text-block.content-over-media .content.framed {
