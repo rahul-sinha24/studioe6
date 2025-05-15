@@ -66,6 +66,16 @@ therefore using a different structure for the Shadow DOM template
           </li>
         {%- endfor -%}
       </ul>
+      {% if section.settings.drawer_bottom_image != blank %}
+          <div class="bottom_content">
+            {{- section.settings.drawer_bottom_image | image_url: width: section.settings.drawer_bottom_image.width | image_tag: sizes: '100vw', widths: '400,1600,1800,2000,2200,2400,2600,2800,3000,3200' -}}
+            <a href="{{ section.settings.drawer_bot_cont_link }}" class="bottom_content_drawer">
+              <p class="bottom_title h4">
+                {{ section.settings.drawer_bot_cont }}
+              </p>
+            </a>
+          </div>
+        {% endif %}
     </div>
 
     {%- liquid
@@ -108,16 +118,7 @@ therefore using a different structure for the Shadow DOM template
           </div>
         {%- endif -%}
 
-        {% if section.settings.drawer_bottom_image != blank %}
-          <div class="bottom_content">
-            {{- section.settings.drawer_bottom_image | image_url: width: section.settings.drawer_bottom_image.width | image_tag: sizes: '100vw', widths: '400,1600,1800,2000,2200,2400,2600,2800,3000,3200' -}}
-            <a href="{{ section.settings.drawer_bot_cont_link }}" class="bottom_content_drawer">
-              <p class="bottom_title h4">
-                {{ section.settings.drawer_bot_cont }}
-              </p>
-            </a>
-          </div>
-        {% endif %}
+        
       </div>
     {%- endif -%}
   </div>
