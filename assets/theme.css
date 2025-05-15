@@ -8172,6 +8172,9 @@ body p, span, li, summary, a {
   .testimonial-item {
     gap: 1rem;
   }
+  :is(.timeline__carousel,.timeline__item)>* {
+    grid-area: 1 / 1;
+  }
   a.site-header__icon.site-header__link.wishlist-hero-header-icon.wishlist-hero-header-show-count-only svg.wlh-svg-Icon {
     font-size: 16px !important;
   }
