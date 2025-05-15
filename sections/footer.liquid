@@ -184,6 +184,9 @@
 {% if section.settings.accordian_in_mobile != blank %}
 
 {% style %}
+  .footer__block-list .accordion {
+      border-block-width: 0;
+  }
   @media(max-width: 699px){
     .footer__block-list .accordion {
       cursor: pointer;
@@ -193,9 +196,6 @@
       text-align: left;
       outline: none;
       transition: 0.4s;
-    }
-    .footer__block-list .accordion {
-      border-block-width: 0;
     }
     .footer__block-list .accordion:after {
       content: '\002B';
