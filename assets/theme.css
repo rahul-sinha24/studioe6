@@ -8171,7 +8171,7 @@ div#fsb_container {
     margin: 0;
   }
   .lacate_icon.sm-max\:hidden {
-    display: none;
+    display: none !important;
   }
 }
 
