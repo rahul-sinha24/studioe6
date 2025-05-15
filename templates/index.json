@@ -506,6 +506,9 @@
         "item_tAJnwr",
         "item_wekKkU"
       ],
+      "custom_css": [
+        "@media(max-width: 699px){.section-spacing {padding-top: 3rem; }}"
+      ],
       "name": "t:sections.timeline.presets.timeline.name",
       "settings": {
         "color_scheme": "scheme-2",
