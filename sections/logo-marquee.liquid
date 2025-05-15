@@ -1,12 +1,6 @@
 <div class="logo-marquee-container">
-  {% if section.settings.heading %}
-    <h2 class="logo-marquee-heading">{{ section.settings.heading }}</h2>
-  {% endif %}
-  {% if section.settings.subheading %}
-    <h4 class="logo-marquee-subheading">{{ section.settings.subheading }}</h4>
-  {% endif %}
-  {% if section.settings.context %}
-    <p class="logo-marquee-context">{{ section.settings.context }}</p>
+  {% if section.settings.heading or section.settings.context != blank or section.settings.subheading != blank %}
+    {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.heading, content: section.settings.context, text_alignment: 'center' -%}
   {% endif %}
 
   <div class="logo-marquee-wrapper">
