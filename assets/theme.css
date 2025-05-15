@@ -8129,6 +8129,12 @@ div#fsb_container {
     right: 4px;
     top: 4px;
 }
+.section-header p {
+    margin-top: 7px;
+}
+body p, span, li, summary, a {
+  line-height: 1.2;
+}
 @media (min-width: 700px){
   /* .shop-collection .collection-card {
     height: 25rem !important;
