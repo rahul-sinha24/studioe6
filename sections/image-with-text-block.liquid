@@ -101,6 +101,12 @@
     {% endif %}
     #shopify-section-{{ section.id }}.shopify-section--image-with-text-block image-banner.image-with-text-block.content-over-media .content.framed {
       max-width: 260px;
+      position: relative;
+      margin-top: -8%;
+      border: .1px solid #8080802e;
+    }
+    #shopify-section-{{ section.id }}.shopify-section--image-with-text-block image-banner.image-with-text-block {
+      display: block;
     }
   }
   {% if section.settings.framed != blank %}
