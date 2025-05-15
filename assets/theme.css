@@ -8172,6 +8172,12 @@ div#fsb_container {
   }
 }
 
+@media screen and (min-width: 1150px) {
+    .footer__block-list {
+        justify-content: space-evenly;
+    }
+}
+
 /* Alignment of text in the save the date collection */
 /* .save-the-date .content_inline_collection p {
     text-align: left !important;
