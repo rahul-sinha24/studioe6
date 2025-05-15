@@ -8173,9 +8173,7 @@ div#fsb_container {
 }
 
 /* Alignment of text in the save the date collection */
-.save-the-date .content_inline_collection p {
+/* .save-the-date .content_inline_collection p {
     text-align: left !important;
     padding-left: 25%;
-    /* padding-right: 25%; */
-    /* padding: 0 25%; */
-}
+} */
