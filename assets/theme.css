@@ -8122,6 +8122,9 @@ div#fsb_container {
     position: relative;
     padding: 0;
 }
+.featured-collections-carousel__item {
+    gap: 1.5rem;
+}
 @media (min-width: 700px){
   /* .shop-collection .collection-card {
     height: 25rem !important;
