@@ -8101,6 +8101,9 @@ a.product-title.h6 {
 .collection-card .content-over-media {
     --content-over-media-gap: 2rem;
 }
+div#fsb_container {
+    display: none !important;
+}
 
 @media (min-width: 700px){
   /* .shop-collection .collection-card {
