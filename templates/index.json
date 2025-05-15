@@ -135,7 +135,7 @@
         "autoplay": true,
         "autoplay_pause_on_video": true,
         "cycle_speed": 5,
-        "background": "#000000",
+        "background": "rgba(0,0,0,0)",
         "controls_color": "#ffffff"
       }
     },
