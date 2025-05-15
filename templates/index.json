@@ -254,6 +254,7 @@
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
+        "hide_left_content": false,
         "content_color": "",
         "shadow_bottom": true
       }
@@ -393,6 +394,7 @@
         "content_above_carousel": true,
         "content_inline": true,
         "left_image": "shopify://shop_images/Rang_Mahal_Latest_Collection.jpg",
+        "hide_left_content": true,
         "content_color": "#ffffff",
         "shadow_bottom": true
       }
@@ -642,6 +644,7 @@
         "button_style": "link",
         "content_above_carousel": false,
         "content_inline": true,
+        "hide_left_content": false,
         "content_color": "#1c1c1c",
         "shadow_bottom": true
       }
@@ -774,6 +777,7 @@
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
+        "hide_left_content": false,
         "content_color": "",
         "shadow_bottom": true
       }
@@ -841,6 +845,7 @@
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": false,
+        "hide_left_content": false,
         "content_color": "#ffffff",
         "shadow_bottom": true
       }
@@ -1149,6 +1154,7 @@
         "button_style": "solid",
         "content_above_carousel": false,
         "content_inline": true,
+        "hide_left_content": false,
         "content_color": "#1c1c1c",
         "shadow_bottom": true
       }
