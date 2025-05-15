@@ -65,10 +65,10 @@
                   {%- if menu != blank and menu.links.size > 0 -%}
                     <div class="v-stack gap-4 sm:gap-5">
                       {%- if block.settings.show_menu_title != blank -%}
-                        <p class="h6">{{ block.settings.menu_title | default: menu.title }}</p>
+                        <p class="h6{% if section.settings.accordian_in_mobile != blank %} accordian{% endif %}">{{ block.settings.menu_title | default: menu.title }}</p>
                       {%- endif -%}
 
-                      <ul class="v-stack gap-2.5 unstyled-list" role="list">
+                      <ul class="v-stack gap-2.5 unstyled-list{% if section.settings.accordian_in_mobile != blank %} panel{% endif %}" role="list">
                         {%- for link in menu.links -%}
                           <li>
                             <a href="{{ link.url }}" class="link-faded">{{ link.title }}</a>
@@ -181,6 +181,54 @@
   </div>
 </div>
 
+{% if section.settings.accordian_in_mobile != blank %}
+
+{% style %}
+  .accordion {
+    cursor: pointer;
+    max-width: 100%;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    transition: 0.4s;
+  }
+  .accordion:after {
+    content: '\002B';
+    color: #fff;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }  
+  .active:after {
+    content: "\2212";
+  }
+  
+  .panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+{% endstyle %}
+
+<script>
+  var acc = document.getElementsByClassName("accordion");
+  if (window.innerWidth <= 768) { // mobile only
+    for (var i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function () {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+          panel.style.maxHeight = null;
+        } else {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+      });
+    }
+  }
+</script>
+{% endif %}
+
 {% schema %}
 {
   "name": "t:sections.footer.name",
@@ -234,6 +282,12 @@
       "type": "checkbox",
       "id": "show_country_flag",
       "label": "t:global.localization.show_country_flag",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "accordian_in_mobile",
+      "label": "Dropdown in Mobile",
       "default": true
     },
     {
