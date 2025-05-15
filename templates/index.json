@@ -1149,6 +1149,44 @@
         "shadow_bottom": true
       }
     },
+    "image_with_text_block_ngfc9t": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_4MbHgt": {
+          "type": "subheading",
+          "settings": {
+            "text": "Our Flagship"
+          }
+        },
+        "richtext_7rwxWR": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Suite #407, 1142 West Madison Street, Chicago, Illinois, 60607</p>"
+          }
+        },
+        "link_g6aTE8": {
+          "type": "link",
+          "settings": {
+            "text": "DIRECTION",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4MbHgt",
+        "richtext_7rwxWR",
+        "link_g6aTE8"
+      ],
+      "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "sm",
+        "image": "shopify://shop_images/1_3.png",
+        "content_width": "sm",
+        "enable_parallax": false,
+        "remove_vertical_spacing": true
+      }
+    },
     "image_with_text_overlay_KqUx49": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -1178,6 +1216,7 @@
         "richtext_JhbK8x",
         "link_x8q8mC"
       ],
+      "disabled": true,
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "color_scheme": "",
@@ -1277,6 +1316,7 @@
     "timeline_8XcLnR",
     "featured_collections_9qi7G8",
     "collection_list_chQb3x",
+    "image_with_text_block_ngfc9t",
     "image_with_text_overlay_KqUx49",
     "testimonials_TLQTW8"
   ]
