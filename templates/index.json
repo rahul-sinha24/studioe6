@@ -142,23 +142,6 @@
     "collection_list_hFiyRh": {
       "type": "collection-list",
       "blocks": {
-        "collection_aqweL6": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "",
-            "image": "shopify://shop_images/The_Peacock_Magazine_s_cover_star_of_the_Jan-Feb-March_2025_issue_Vedang_Raina_vedangraina......Photographer-_vaishnavpraveen_Styling-_mohitrai_Location_Courtesy-_jaipurcitypalaceMake.png",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Men",
-            "button_text": "",
-            "button_link": "",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "collection_CdWhUX": {
           "type": "collection",
           "settings": {
@@ -169,6 +152,23 @@
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Women",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "link",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_aqweL6": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "",
+            "image": "shopify://shop_images/The_Peacock_Magazine_s_cover_star_of_the_Jan-Feb-March_2025_issue_Vedang_Raina_vedangraina......Photographer-_vaishnavpraveen_Styling-_mohitrai_Location_Courtesy-_jaipurcitypalaceMake.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "Men",
             "button_text": "",
             "button_link": "",
             "button_style": "link",
@@ -229,8 +229,8 @@
         }
       },
       "block_order": [
-        "collection_aqweL6",
         "collection_CdWhUX",
+        "collection_aqweL6",
         "collection_dLPJ4e",
         "collection_fibdGa",
         "collection_WAJgYc"
