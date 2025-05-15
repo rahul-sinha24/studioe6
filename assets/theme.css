@@ -2354,7 +2354,7 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
   }
 
   .product-list--carousel {
-    --product-list-card-width: min(300px, 65%);
+    --product-list-card-width: min(300px, 69%);
   }
 }
 
