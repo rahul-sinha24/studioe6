@@ -69,9 +69,9 @@
   <div class="{% unless remove_vertical_spacing %}section-spacing {% if reduce_vertical_spacing %}section-spacing--tight{% endif %}{% endunless %} color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %} {{ section.settings.additional_class }}">
     <div class="{% if section.settings.space_items %}container{% endif %}">
       <div class="section-stack{% if section.settings.content_inline != blank %} content_inline{% endif %}
-      {% if section.settings.hide_left_content == blank and section.settings.left_video != blank or section.settings.left_image != blank %} inline_img_video{% endif %}">
+      {% if section.settings.left_video != blank or section.settings.left_image != blank %} inline_img_video{% endif %}">
 
-      {% if section.settings.hide_left_content == blank and section.settings.left_video != blank or section.settings.left_image != blank or section.settings.content_inline != blank %}
+      {% if section.settings.left_video != blank or section.settings.left_image != blank or section.settings.content_inline != blank %}
         <div class="content_inline_collection">
       {% endif %}
         {%- if section.settings.left_image != blank -%}
@@ -104,7 +104,7 @@
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
           
         {% endif %}
-      {% if section.settings.hide_left_content == blank and section.settings.left_video != blank or section.settings.left_image != blank or section.settings.content_inline != blank %}
+      {% if section.settings.left_video != blank or section.settings.left_image != blank or section.settings.content_inline != blank %}
         </div>
       {% endif %}
 
