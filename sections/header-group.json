@@ -88,6 +88,8 @@
       "settings": {
         "color_scheme": "",
         "enable_sticky": true,
+        "locate_us": true,
+        "locate_link": "shopify://pages/location-and-store-hours",
         "hide_on_scroll": false,
         "show_separation_border": false,
         "reduce_padding": true,
