@@ -1152,15 +1152,30 @@
     "image_with_text_overlay_KqUx49": {
       "type": "image-with-text-overlay",
       "blocks": {
+        "heading_hjgWKr": {
+          "type": "heading",
+          "settings": {
+            "text": "Our Flagship",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_JhbK8x": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Suite #407, 1142 West Madison Street, Chicago, Illinois, 60607</p>"
+          }
+        },
         "link_x8q8mC": {
           "type": "link",
           "settings": {
-            "text": "OUR STORES",
+            "text": "DIRECTION",
             "url": ""
           }
         }
       },
       "block_order": [
+        "heading_hjgWKr",
+        "richtext_JhbK8x",
         "link_x8q8mC"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
