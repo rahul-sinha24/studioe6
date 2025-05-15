@@ -1183,6 +1183,8 @@
         "image_size": "sm",
         "image": "shopify://shop_images/1_3.png",
         "content_width": "sm",
+        "desk_content_direction": "text-left",
+        "mob_content_direction": "text-center",
         "enable_parallax": false,
         "remove_vertical_spacing": true
       }

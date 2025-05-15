@@ -67,6 +67,23 @@
   </div>
 {%- endif -%}
 
+{% style %}
+  @media(min-width: 700px) {
+    {% if section.settings.desk_content_direction == 'text-left' %}
+      #shopify-section-{{ section.id }}.shopify-section--image-with-text-overlay image-banner.image-with-text-block.content-over-media .content {
+        left: 0;
+        position: absolute;
+      }
+    {% endif %}
+    {% if section.settings.desk_content_direction == 'text-right' %}
+      #shopify-section-{{ section.id }}.shopify-section--image-with-text-overlay image-banner.image-with-text-block.content-over-media .content {
+        right: 0;
+        position: absolute;
+      }
+    {% endif %}
+  }
+{% endstyle %}
+
 {% schema %}
 {
   "name": "t:sections.image_with_text_block.name",
