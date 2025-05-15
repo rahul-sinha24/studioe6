@@ -8170,7 +8170,7 @@ div#fsb_container {
   .timeline__carousel, .timeline__item {
     margin: 0;
   }
-  .lacate_icon.sm-max\:hidden {
+  .lacate_icon.sm-max\:hidden, .custom_icons {
     display: none !important;
   }
 }
