@@ -8125,6 +8125,10 @@ div#fsb_container {
 .featured-collections-carousel__item {
     gap: 1.5rem;
 }
+.product-card__figure .wishlist-hero-custom-button.wishlisthero-floating {
+    right: 4px;
+    top: 4px;
+}
 @media (min-width: 700px){
   /* .shop-collection .collection-card {
     height: 25rem !important;
