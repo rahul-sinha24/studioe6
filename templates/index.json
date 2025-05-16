@@ -146,7 +146,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "womens",
             "image": "shopify://shop_images/Sitara_This_wedding_season_embrace_the_charm_of_Sitara_our_latest_collection_for_brides_bridesmaids_and_wedding_guests._Featuring_intricate_silver_embroidery_and_delicate_floral_print.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -163,7 +163,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "menswear",
             "image": "shopify://shop_images/The_Peacock_Magazine_s_cover_star_of_the_Jan-Feb-March_2025_issue_Vedang_Raina_vedangraina......Photographer-_vaishnavpraveen_Styling-_mohitrai_Location_Courtesy-_jaipurcitypalaceMake.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -266,7 +266,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "lehenga-2",
             "image": "shopify://shop_images/s11.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -283,7 +283,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "sherwanis-1",
             "image": "shopify://shop_images/s14.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -300,7 +300,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "anarkali",
             "image": "shopify://shop_images/s13.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -317,7 +317,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "gown",
             "image": "shopify://shop_images/s12.webp",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -334,7 +334,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "saris-1",
             "image": "shopify://shop_images/saree.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -349,6 +349,7 @@
         },
         "collection_TtNhdg": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "color_scheme": "",
             "collection": "",
@@ -406,35 +407,35 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/anita_dongre_b5a68fa1-ab67-4220-adac-269f3ba2e478.png",
-            "link": ""
+            "link": "shopify://collections/anita-dongre"
           }
         },
         "logo_9FKcFy": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/MASABA.png",
-            "link": ""
+            "link": "shopify://collections/masaba"
           }
         },
         "logo_RKLNPB": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/PAPA_DONT_PREACH.png",
-            "link": ""
+            "link": "shopify://collections/papa-dont-preach"
           }
         },
         "logo_jEVKWn": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/falguni_shane_peacock.png",
-            "link": ""
+            "link": "shopify://collections/falguni-shane-peacock"
           }
         },
         "logo_w8VGCK": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/diya_rajvir_8e55a712-d00f-4b37-a66f-3be010cb4cc9.png",
-            "link": ""
+            "link": "shopify://collections/diya-rajvvir"
           }
         }
       },
