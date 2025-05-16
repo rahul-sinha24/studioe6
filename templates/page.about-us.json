@@ -25,6 +25,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/header_banner.png",
+            "mobile_image": "shopify://shop_images/1_2_97cfacfb-9d8a-40a1-ae32-0681241ff362.png",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
