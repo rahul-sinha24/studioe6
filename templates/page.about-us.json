@@ -121,7 +121,7 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "About the Founder",
-        "title": "RUPA VOHRA",
+        "title": "RUPA VORA",
         "content": "<p><strong>Rupa</strong> founded <strong>Studio East6</strong> in 2014, leaving a Fortune 100 career to bring high-quality Indian fashion with a modern twist to the U.S. With sharp business insight and a strong eye for style, she built SE6 from the ground up, partnering with top designers from India.</p><p>As <strong>Founder & Creative Director</strong>, she leads the studio’s vision and creative direction, always putting her clients first. A Chicago native, wife, and mom of two, Rupa balances work with her love for family, food, and the <em>Real Housewives</em>.</p>",
         "button_1_text": "",
         "button_1_link": "",
@@ -444,6 +444,7 @@
         "image_kHRbwL",
         "image_L4Xi9j"
       ],
+      "disabled": true,
       "name": "t:sections.media_grid.presets.media_grid.name",
       "settings": {
         "color_scheme": "scheme-2",
@@ -590,6 +591,56 @@
         "title": "OUR FAVOURITE DESIGNERS",
         "content": ""
       }
+    },
+    "logo_marquee_rHywXY": {
+      "type": "logo-marquee",
+      "blocks": {
+        "logo_tMfD3f": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_ttzDTz": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_9bYpqq": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_J3PgVT": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_gzjMRy": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_tMfD3f",
+        "logo_ttzDTz",
+        "logo_9bYpqq",
+        "logo_J3PgVT",
+        "logo_gzjMRy"
+      ],
+      "name": "Auto Scrolling Logos",
+      "settings": {
+        "subheading": "",
+        "heading": "Explore Our Designers",
+        "context": "",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
@@ -601,6 +652,7 @@
     "video_tqegmj",
     "rich_text_aB3PpF",
     "media_grid_nCQmWd",
-    "media_grid_88993X"
+    "media_grid_88993X",
+    "logo_marquee_rHywXY"
   ]
 }
