@@ -107,6 +107,7 @@
         },
         "text_gWyzkw": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "Subject",
             "use_long_text": false,
