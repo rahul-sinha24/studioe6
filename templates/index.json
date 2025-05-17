@@ -460,7 +460,6 @@
         },
         "collection_TtNhdg": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "color_scheme": "",
             "collection": "",
@@ -470,10 +469,10 @@
             "subheading": "",
             "title": "Coord Set",
             "button_text": "",
-            "button_link": "",
+            "button_link": "shopify://collections/co-ord-sets",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
