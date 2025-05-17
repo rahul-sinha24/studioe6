@@ -14,7 +14,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "show_image": true,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "medium",
         "content_width": "xs",
         "show_date": true,
@@ -22,7 +22,7 @@
         "show_author": true,
         "show_share_buttons": true,
         "show_sticky_bar": true,
-        "toolbar_color_scheme": ""
+        "toolbar_color_scheme": "scheme-3"
       }
     },
     "prev-next-blog-posts": {
