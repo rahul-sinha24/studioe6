@@ -12,7 +12,7 @@
     "main": {
       "type": "main-list-collections",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "show_title": true,
         "collections": [],
         "collections_per_row_mobile": "1",
