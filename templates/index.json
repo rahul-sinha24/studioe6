@@ -384,7 +384,7 @@
             "subheading": "",
             "title": "Lehengas",
             "button_text": "",
-            "button_link": "",
+            "button_link": "shopify://collections/lehenga-2",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -401,7 +401,7 @@
             "subheading": "",
             "title": "Sherwani",
             "button_text": "",
-            "button_link": "",
+            "button_link": "shopify://collections/sherwanis-1",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
