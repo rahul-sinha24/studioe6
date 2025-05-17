@@ -384,7 +384,7 @@
             "subheading": "",
             "title": "Lehengas",
             "button_text": "",
-            "button_link": "shopify://collections/lehenga-2",
+            "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -401,7 +401,7 @@
             "subheading": "",
             "title": "Sherwani",
             "button_text": "",
-            "button_link": "shopify://collections/sherwanis-1",
+            "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -462,14 +462,14 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "co-ord-sets",
             "image": "shopify://shop_images/coords.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
             "title": "Coord Set",
             "button_text": "",
-            "button_link": "shopify://collections/co-ord-sets",
+            "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 0
