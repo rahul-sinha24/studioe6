@@ -64,10 +64,48 @@
         "background": "#000000",
         "controls_color": "#ffffff"
       }
+    },
+    "rich_text_4kNQxn": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_MRTPn7": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_RHdki3": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_DjD6jM": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_MRTPn7",
+        "heading_RHdki3",
+        "richtext_DjD6jM"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_h6Tjaj"
+    "slideshow_h6Tjaj",
+    "rich_text_4kNQxn"
   ]
 }
