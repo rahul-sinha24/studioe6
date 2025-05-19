@@ -8220,8 +8220,15 @@ body p, span, li, summary, a {
     }
 }
 
-/* Alignment of text in the save the date collection */
-/* .save-the-date .content_inline_collection p {
-    text-align: left !important;
-    padding-left: 25%;
-} */
+.timeline__item-image-wrapper{
+  position: relative;
+}
+
+.timeline__item-image-wrapper a.floating_link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+}
