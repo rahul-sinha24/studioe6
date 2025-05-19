@@ -18,464 +18,63 @@
         "page_width": "md"
       }
     },
-    "collection_list_z69Tqm": {
-      "type": "collection-list",
+    "multi_column_GGPMG4": {
+      "type": "multi-column",
       "blocks": {
-        "collection_8eF8VV": {
-          "type": "collection",
+        "image_with_text_H3WxFM": {
+          "type": "image_with_text",
           "settings": {
-            "color_scheme": "",
-            "collection": "anita-dongre",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Anita Dongre",
-            "button_text": "",
-            "button_link": "shopify://collections/anita-dongre",
-            "button_style": "link",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
           }
         },
-        "collection_pJGxqx": {
-          "type": "collection",
+        "image_with_text_4KXdEh": {
+          "type": "image_with_text",
           "settings": {
-            "color_scheme": "",
-            "collection": "falguni-shane-peacock",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Falguni Shane Peacock",
-            "button_text": "",
-            "button_link": "shopify://collections/falguni-shane-peacock",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "title": "Column title",
+            "heading_tag": "h3",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
           }
         },
-        "collection_VDxReC": {
-          "type": "collection",
+        "image_with_text_KN9RnV": {
+          "type": "image_with_text",
           "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "seema-gujral",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Seema Gujral",
-            "button_text": "",
-            "button_link": "shopify://collections/seema-gujral",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_g97UL6": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "tarun-tahiliani",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Tarun Tahiliani",
-            "button_text": "",
-            "button_link": "shopify://collections/tarun-tahiliani",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_hBVRtj": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "aisha-rao",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Aisha Rao",
-            "button_text": "",
-            "button_link": "shopify://collections/aisha-rao",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_Aj9Nkf": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "anushree-reddy",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Anushree Reddy",
-            "button_text": "",
-            "button_link": "shopify://collections/anushree-reddy",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_dJrzbx": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "chamee-and-palak",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Chamee and Palak",
-            "button_text": "",
-            "button_link": "shopify://collections/chamee-and-palak",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_ygVkHt": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "diya-rajvvir",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Diya Rajvvir",
-            "button_text": "",
-            "button_link": "shopify://collections/diya-rajvvir",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_bGhLMU": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "drishti-zahabia",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Drishti & Zahabia",
-            "button_text": "",
-            "button_link": "shopify://collections/drishti-zahabia",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_tExL6B": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "itrh",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "ITRH",
-            "button_text": "",
-            "button_link": "shopify://collections/itrh",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_cEfaKJ": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "label-anushree",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Label Anushree",
-            "button_text": "",
-            "button_link": "shopify://collections/label-anushree",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_zCTdyg": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "mahima",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Mahima Mahajan",
-            "button_text": "",
-            "button_link": "shopify://collections/mahima",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_aMD8Wa": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "masaba",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "House Of Masaba",
-            "button_text": "",
-            "button_link": "shopify://collections/masaba",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_pExfnQ": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "monika-nidhee",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Monika Nidhee",
-            "button_text": "",
-            "button_link": "shopify://collections/monika-nidhee",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_rfi8xn": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "payal-singhal",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Payal Singhal",
-            "button_text": "",
-            "button_link": "shopify://collections/payal-singhal",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_MWQtPE": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "papa-dont-preach",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Papa Don't Preach",
-            "button_text": "",
-            "button_link": "shopify://collections/papa-dont-preach",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_TjaVLR": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "rajat-tangri",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Rajat Tangri",
-            "button_text": "",
-            "button_link": "shopify://collections/rajat-tangri",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_9hyK4T": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "ridhi-mehra",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Ridhi Mehra",
-            "button_text": "",
-            "button_link": "shopify://collections/ridhi-mehra",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_MJe3hM": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "saaksha-kinni",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Saaksha & Kinni",
-            "button_text": "",
-            "button_link": "shopify://collections/saaksha-kinni",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_gmdWV4": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "sapana-amin",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Sapana Amin",
-            "button_text": "",
-            "button_link": "shopify://collections/sapana-amin",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_aKkQU8": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "shloka-khialani",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Shloka Khialani",
-            "button_text": "",
-            "button_link": "shopify://collections/shloka-khialani",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_LgVCiF": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "sva-by-sonam-and-paras-modi",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "SVA By Sonam and Paras Modi",
-            "button_text": "",
-            "button_link": "shopify://collections/sva-by-sonam-and-paras-modi",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_XBYPdT": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "the-little-black-bow",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "The Little Black Bow",
-            "button_text": "",
-            "button_link": "shopify://collections/the-little-black-bow",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_dTHKd6": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "twenty-nine",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Twenty Nine",
-            "button_text": "",
-            "button_link": "shopify://collections/twenty-nine",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_TmbP48": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "scheme-4",
-            "collection": "vvani-by-vani-vats",
-            "expand_collection": false,
-            "content_position": "place-self-end-center text-center",
-            "subheading": "",
-            "title": "Vvani By Vani Vats",
-            "button_text": "",
-            "button_link": "shopify://collections/vvani-by-vani-vats",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "title": "Column title",
+            "heading_tag": "h3",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": ""
           }
         }
       },
       "block_order": [
-        "collection_8eF8VV",
-        "collection_pJGxqx",
-        "collection_VDxReC",
-        "collection_g97UL6",
-        "collection_hBVRtj",
-        "collection_Aj9Nkf",
-        "collection_dJrzbx",
-        "collection_ygVkHt",
-        "collection_bGhLMU",
-        "collection_tExL6B",
-        "collection_cEfaKJ",
-        "collection_zCTdyg",
-        "collection_aMD8Wa",
-        "collection_pExfnQ",
-        "collection_rfi8xn",
-        "collection_MWQtPE",
-        "collection_TjaVLR",
-        "collection_9hyK4T",
-        "collection_MJe3hM",
-        "collection_gmdWV4",
-        "collection_aKkQU8",
-        "collection_LgVCiF",
-        "collection_XBYPdT",
-        "collection_dTHKd6",
-        "collection_TmbP48"
+        "image_with_text_H3WxFM",
+        "image_with_text_4KXdEh",
+        "image_with_text_KN9RnV"
       ],
-      "name": "t:sections.collection_list.presets.collection_list.name",
+      "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
-        "additional_class": "",
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 4,
+        "columns_per_row": 3,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "start",
+        "spacing": "md",
         "subheading": "",
-        "title": "Our Top Designers",
-        "content": "",
-        "button_text": "",
-        "button_link": "",
-        "button_style": "solid",
-        "content_above_carousel": false,
-        "content_inline": false,
-        "hide_left_content": false,
-        "content_color": "",
-        "shadow_bottom": true
+        "title": "Celebrity Closet",
+        "content": ""
       }
     }
   },
   "order": [
     "main",
-    "collection_list_z69Tqm"
+    "multi_column_GGPMG4"
   ]
 }
