@@ -967,10 +967,10 @@
         "collection_PdCkHV": {
           "type": "collection",
           "settings": {
-            "collection": "menswear",
+            "collection": "bandhgalas-jodhpuris-indowestern-1",
             "products_count": 8,
             "title": "Elegance for Every Man",
-            "link_url": "#",
+            "link_url": "shopify://collections/menswear",
             "link_text": "Explore More"
           }
         }
