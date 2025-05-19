@@ -766,10 +766,10 @@
         "collection_rkwUmc": {
           "type": "collection",
           "settings": {
-            "collection": "lehenga-2",
+            "collection": "ready-to-ship-products",
             "products_count": 8,
             "title": "Ready To Ship",
-            "link_url": "#",
+            "link_url": "shopify://collections/ready-to-ship-products",
             "link_text": "Explore More"
           }
         }
