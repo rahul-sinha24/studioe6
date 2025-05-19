@@ -66,7 +66,7 @@
             "button_link": "shopify://collections/seema-gujral",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_g97UL6": {
@@ -82,7 +82,7 @@
             "button_link": "shopify://collections/tarun-tahiliani",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_hBVRtj": {
@@ -98,7 +98,7 @@
             "button_link": "shopify://collections/aisha-rao",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_Aj9Nkf": {
@@ -114,7 +114,7 @@
             "button_link": "shopify://collections/anushree-reddy",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_dJrzbx": {
@@ -146,7 +146,7 @@
             "button_link": "shopify://collections/diya-rajvvir",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_bGhLMU": {
@@ -187,11 +187,11 @@
             "color_scheme": "scheme-4",
             "collection": "label-anushree",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Label Anushree",
+            "button_text": "",
+            "button_link": "shopify://collections/label-anushree",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -203,14 +203,14 @@
             "color_scheme": "scheme-4",
             "collection": "mahima",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Mahima Mahajan",
+            "button_text": "",
+            "button_link": "shopify://collections/mahima",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_aMD8Wa": {
