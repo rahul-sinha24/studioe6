@@ -11,10 +11,8 @@
   <div class="section-spacing color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
     <div class="container {% if section.settings.full_width == blank %}container--md{% endif %}">
 
-
       <div class="section-stack">
         {%- if section.settings.title != blank or section.settings.subheading != blank or section.settings.content != blank -%}
-
 
 
 {% if section.settings.title_above_icon != blank %}
@@ -32,15 +30,9 @@
             }
           {% endstyle %}
         {% endif %}
-
-
         
           {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content, text_alignment: 'center' -%}
         {%- endif -%}
-
-
-
-
 
   
       <div class="timeline">
