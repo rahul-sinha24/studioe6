@@ -345,7 +345,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "shloka-khialani",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -361,7 +361,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "sva-by-sonam-and-paras-modi",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -377,7 +377,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "the-little-black-bow",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -393,7 +393,23 @@
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "",
+            "collection": "twenty-nine",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_TmbP48": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "vvani-by-vani-vats",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -430,12 +446,13 @@
         "collection_aKkQU8",
         "collection_LgVCiF",
         "collection_XBYPdT",
-        "collection_dTHKd6"
+        "collection_dTHKd6",
+        "collection_TmbP48"
       ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "additional_class": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "auto",
         "show_text_outside": false,
@@ -444,7 +461,7 @@
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "",
+        "title": "Our Top Designers",
         "content": "",
         "button_text": "View products",
         "button_link": "",
