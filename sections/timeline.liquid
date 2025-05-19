@@ -107,8 +107,11 @@
                 -%}
 {% endcomment %}               
                 <div class="timeline__item-image-wrapper">
-                  
+                   {%- if block.settings.link_url != blank -%}
+                      <a href=" block.settings.link_url" class="flating_link"></a>
+                  {% endif %}
                   {%- if block.settings.image -%}
+                    
                     <picture>
                       {%- if block.settings.mobile_image -%}
                         <source
@@ -119,7 +122,7 @@
                         >
                       {%- endif -%}
                       {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: loading_strategy, sizes: 'min(50vw, 575px)', widths: '1600,1800', class: 'image-cover' -}}
-                    {{ block.settings.image_url }}
+                   
                     </picture>
                   {%- else -%}
                     {%- capture placeholder_image -%}lifestyle-{% cycle '1', '2' %}{%- endcapture -%}
