@@ -119,6 +119,7 @@
                         >
                       {%- endif -%}
                       {{- block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: loading_strategy, sizes: 'min(50vw, 575px)', widths: '1600,1800', class: 'image-cover' -}}
+                    {{ block.settings.image_url }}
                     </picture>
                   {%- else -%}
                     {%- capture placeholder_image -%}lifestyle-{% cycle '1', '2' %}{%- endcapture -%}
@@ -336,6 +337,13 @@
           "id": "link_text",
           "label": "t:global.text.button_text"
         },
+
+        {
+          "type": "url",
+          "id": "image_url",
+          "label": "Image Url"
+        },
+        
         {
           "type": "url",
           "id": "link_url",
