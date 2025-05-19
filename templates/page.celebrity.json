@@ -142,28 +142,6 @@
             "link_text": ""
           }
         },
-        "image_with_text_acdthT": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/SHOWST_1.jpg",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_BqtCb4": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/LUFTHA_2.jpg",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
         "image_with_text_6mBjgw": {
           "type": "image_with_text",
           "settings": {
@@ -241,6 +219,17 @@
             "link_text": ""
           }
         },
+        "image_with_text_BqtCb4": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/LUFTHA_2.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
         "image_with_text_HtwJLt": {
           "type": "image_with_text",
           "settings": {
@@ -277,7 +266,7 @@
         "image_with_text_cXfUgb": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/SONAM_1.jpg",
+            "image": "shopify://shop_images/OURFOR_3.jpg",
             "title": "",
             "heading_tag": "h3",
             "content": "",
@@ -288,7 +277,7 @@
         "image_with_text_YinpBL": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/SONAM_1.jpg",
+            "image": "shopify://shop_images/NITAAM_1.jpg",
             "title": "",
             "heading_tag": "h3",
             "content": "",
@@ -299,7 +288,18 @@
         "image_with_text_R4kUXh": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/SONAM_1.jpg",
+            "image": "shopify://shop_images/OURFOR_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_acdthT": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SHOWST_1.jpg",
             "title": "",
             "heading_tag": "h3",
             "content": "",
@@ -310,41 +310,10 @@
         "image_with_text_NkfdMz": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/SONAM_1.jpg",
+            "image": "shopify://shop_images/OURFOR_2.jpg",
             "title": "",
             "heading_tag": "h3",
             "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_jeKaqE": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/SONAM_1.jpg",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_4KXdEh": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_KN9RnV": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -362,8 +331,6 @@
         "image_with_text_xcJa4C",
         "image_with_text_rMWVUx",
         "image_with_text_bnDX8a",
-        "image_with_text_acdthT",
-        "image_with_text_BqtCb4",
         "image_with_text_6mBjgw",
         "image_with_text_bdQqdx",
         "image_with_text_TMMaXi",
@@ -371,16 +338,15 @@
         "image_with_text_V6qgd8",
         "image_with_text_GEzzXW",
         "image_with_text_PTwCYi",
+        "image_with_text_BqtCb4",
         "image_with_text_HtwJLt",
         "image_with_text_gRKREx",
         "image_with_text_wyQ3tw",
         "image_with_text_cXfUgb",
         "image_with_text_YinpBL",
         "image_with_text_R4kUXh",
-        "image_with_text_NkfdMz",
-        "image_with_text_jeKaqE",
-        "image_with_text_4KXdEh",
-        "image_with_text_KN9RnV"
+        "image_with_text_acdthT",
+        "image_with_text_NkfdMz"
       ],
       "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
