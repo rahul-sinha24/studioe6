@@ -24,6 +24,304 @@
         "image_with_text_H3WxFM": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/KAJOL_3.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_qiWxdM": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/PR860C_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_hyDFNB": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/PRAJAK_3.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_aNXnrh": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/PRIYA_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_DjheWN": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/PR7538_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_xhVPeD": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/KATRI_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_PxLdaX": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/KAREEN_2.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_yTxEDN": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/PRAJAK_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_xcJa4C": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/PRAJAK_4.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_rMWVUx": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/shahidkapoor_in_a_custom_Anita_Dongre_pantsuit.-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ShahidKapoor_AnitaDongre.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_bnDX8a": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/LUFTHA_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_acdthT": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SHOWST_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_BqtCb4": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/LUFTHA_2.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_6mBjgw": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/DEEPI_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_bdQqdx": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SONAM_3.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_TMMaXi": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Shloka_Ambani_in_the_Summertime_Sorbet_lehenga_and_cape_set._HouseOfMasaba_ShlokaAmbani.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_rpx3Tk": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SONAM_2.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_V6qgd8": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/THERE_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_GEzzXW": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/KIARA_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_PTwCYi": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/rashmika_mandanna_in_a_custom_House_Of_Masaba_saree_with_the_iconic_Palm_motif._HouseOfMasaba_RashmikaMandana.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_HtwJLt": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SONAM_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_gRKREx": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/ONTHE4_3.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_wyQ3tw": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/RASHM_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_cXfUgb": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SONAM_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_YinpBL": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SONAM_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_R4kUXh": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SONAM_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_NkfdMz": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SONAM_1.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_jeKaqE": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/SONAM_1.jpg",
             "title": "",
             "heading_tag": "h3",
             "content": "",
@@ -54,6 +352,33 @@
       },
       "block_order": [
         "image_with_text_H3WxFM",
+        "image_with_text_qiWxdM",
+        "image_with_text_hyDFNB",
+        "image_with_text_aNXnrh",
+        "image_with_text_DjheWN",
+        "image_with_text_xhVPeD",
+        "image_with_text_PxLdaX",
+        "image_with_text_yTxEDN",
+        "image_with_text_xcJa4C",
+        "image_with_text_rMWVUx",
+        "image_with_text_bnDX8a",
+        "image_with_text_acdthT",
+        "image_with_text_BqtCb4",
+        "image_with_text_6mBjgw",
+        "image_with_text_bdQqdx",
+        "image_with_text_TMMaXi",
+        "image_with_text_rpx3Tk",
+        "image_with_text_V6qgd8",
+        "image_with_text_GEzzXW",
+        "image_with_text_PTwCYi",
+        "image_with_text_HtwJLt",
+        "image_with_text_gRKREx",
+        "image_with_text_wyQ3tw",
+        "image_with_text_cXfUgb",
+        "image_with_text_YinpBL",
+        "image_with_text_R4kUXh",
+        "image_with_text_NkfdMz",
+        "image_with_text_jeKaqE",
         "image_with_text_4KXdEh",
         "image_with_text_KN9RnV"
       ],
