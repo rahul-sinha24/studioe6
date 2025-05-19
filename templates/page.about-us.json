@@ -619,13 +619,15 @@
         "logo_J3PgVT": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/MASABA.png",
+            "link": "shopify://collections/masaba"
           }
         },
         "logo_gzjMRy": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/diya_rajvir_8e55a712-d00f-4b37-a66f-3be010cb4cc9.png",
+            "link": "shopify://collections/diya-rajvvir"
           }
         }
       },
