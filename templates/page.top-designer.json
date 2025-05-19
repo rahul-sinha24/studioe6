@@ -162,7 +162,7 @@
             "button_link": "shopify://collections/drishti-zahabia",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_tExL6B": {
@@ -178,7 +178,7 @@
             "button_link": "shopify://collections/itrh",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_cEfaKJ": {
@@ -219,14 +219,14 @@
             "color_scheme": "scheme-4",
             "collection": "masaba",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "House Of Masaba",
+            "button_text": "",
+            "button_link": "shopify://collections/masaba",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_pExfnQ": {
@@ -235,11 +235,11 @@
             "color_scheme": "scheme-4",
             "collection": "monika-nidhee",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Monika Nidhee",
+            "button_text": "",
+            "button_link": "shopify://collections/monika-nidhee",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -251,14 +251,14 @@
             "color_scheme": "scheme-4",
             "collection": "payal-singhal",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Payal Singhal",
+            "button_text": "",
+            "button_link": "shopify://collections/payal-singhal",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_MWQtPE": {
@@ -267,14 +267,14 @@
             "color_scheme": "scheme-4",
             "collection": "papa-dont-preach",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Papa Don't Preach",
+            "button_text": "",
+            "button_link": "shopify://collections/papa-dont-preach",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_TjaVLR": {
@@ -283,14 +283,14 @@
             "color_scheme": "scheme-4",
             "collection": "rajat-tangri",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Rajat Tangri",
+            "button_text": "",
+            "button_link": "shopify://collections/rajat-tangri",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_9hyK4T": {
@@ -299,14 +299,14 @@
             "color_scheme": "scheme-4",
             "collection": "ridhi-mehra",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Ridhi Mehra",
+            "button_text": "",
+            "button_link": "shopify://collections/ridhi-mehra",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_MJe3hM": {
@@ -315,14 +315,14 @@
             "color_scheme": "scheme-4",
             "collection": "saaksha-kinni",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Saaksha & Kinni",
+            "button_text": "",
+            "button_link": "shopify://collections/saaksha-kinni",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_gmdWV4": {
@@ -331,14 +331,14 @@
             "color_scheme": "scheme-4",
             "collection": "sapana-amin",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Sapana Amin",
+            "button_text": "",
+            "button_link": "shopify://collections/sapana-amin",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_aKkQU8": {
@@ -347,14 +347,14 @@
             "color_scheme": "scheme-4",
             "collection": "shloka-khialani",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Shloka Khialani",
+            "button_text": "",
+            "button_link": "shopify://collections/shloka-khialani",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_LgVCiF": {
@@ -363,14 +363,14 @@
             "color_scheme": "scheme-4",
             "collection": "sva-by-sonam-and-paras-modi",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "SVA By Sonam and Paras Modi",
+            "button_text": "",
+            "button_link": "shopify://collections/sva-by-sonam-and-paras-modi",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_XBYPdT": {
@@ -379,11 +379,11 @@
             "color_scheme": "scheme-4",
             "collection": "the-little-black-bow",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "The Little Black Bow",
+            "button_text": "",
+            "button_link": "shopify://collections/the-little-black-bow",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -395,14 +395,14 @@
             "color_scheme": "scheme-4",
             "collection": "twenty-nine",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Twenty Nine",
+            "button_text": "",
+            "button_link": "shopify://collections/twenty-nine",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_TmbP48": {
@@ -411,14 +411,14 @@
             "color_scheme": "scheme-4",
             "collection": "vvani-by-vani-vats",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-end-center text-center",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
+            "title": "Vvani By Vani Vats",
+            "button_text": "",
+            "button_link": "shopify://collections/vvani-by-vani-vats",
             "button_style": "solid",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
