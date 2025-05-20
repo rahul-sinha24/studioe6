@@ -273,14 +273,6 @@
     "faq_bq4NzH": {
       "type": "faq",
       "blocks": {
-        "category_b7dDD3": {
-          "type": "category",
-          "settings": {
-            "title": "Order",
-            "icon": "none",
-            "icon_width": 16
-          }
-        },
         "question_GafGNn": {
           "type": "question",
           "settings": {
@@ -292,22 +284,29 @@
           "type": "question",
           "settings": {
             "question": "<strong>Do you have pieces in-stock at your studio to purchase or try on?</strong>",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "answer": "<p>Yes, we have about ~150 - 200 styles in our studio, at a time, to purchase off-the-rack. Most of the styles are sent into our studio on rotation by our curated designers, so we may or may not have very specific styles from website in-stock at a given moment.<br/><br/>Each designer typically provides pieces on rotation, giving clients the opportunity to closely examine the quality and craftsmanship of the designer's work, as well as different silhouettes for custom orders. Pieces do get purchased off-the-rack and we might be in the middle of replenishment, so certain styles may not be available. <br/><br/>We are unique in the sense that we are not located where all other traditional Indian stores are located in Chicago-- off of Devon Avenue! We are located in the heart of downtown Chicago. Convenient and intentional location for our customers.<br/><br/></p>"
           }
         },
         "question_MN9gFx": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "question": "<strong>What are the size options for the pieces in-studio try that are available to purchase or try on?</strong>",
+            "answer": "<p>As a carefully curated multi-designer studio, all our products are handmade rather than mass-produced in factories. Consequently, our inventory is reliant on the sample pieces our designers provide in various sizes, which can range from 0 to 18.</p><p>The availability of sizes fluctuates depending on the designers stock sizes and replenishment cycle. Please note that due to our operating model, we may not have every designer, style, color, or size in stock at all times.</p><p>Since our inception, we have consistently emphasized to our designer partners the importance of offering a diverse range of sizes. This is a message we convey to them every time they send us new stock replenishment.</p>"
+          }
+        },
+        "question_idWctL": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>ADDTIONAL NOTES:</strong>",
+            "answer": "<ul><li>Max of 3 people (including yourself) will be permitted in the studio at once. This is based upon our space constraints.</li><li>We take the health and safety of you and our staff very seriously. Thank you for your patience!</li></ul>"
           }
         }
       },
       "block_order": [
-        "category_b7dDD3",
         "question_GafGNn",
         "question_arrk9n",
-        "question_MN9gFx"
+        "question_MN9gFx",
+        "question_idWctL"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
@@ -315,8 +314,8 @@
         "separate_section_with_border": false,
         "show_categories": false,
         "subheading": "",
-        "title": "",
-        "content": ""
+        "title": "<strong>Tailoring, Alterations & Measurements</strong>",
+        "content": "<p>*Please note that we do not offer alterations or have an in-house tailor available.</p>"
       }
     }
   },
