@@ -68,13 +68,6 @@
     "image_with_text_zRTaHe": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_PqYpDA": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_chgpfY": {
           "type": "heading",
           "settings": {
@@ -90,7 +83,6 @@
         }
       },
       "block_order": [
-        "subheading_PqYpDA",
         "heading_chgpfY",
         "richtext_TBbAY9"
       ],
@@ -102,6 +94,49 @@
         "image_position": "start",
         "content_width": "sm",
         "remove_vertical_spacing": true
+      }
+    },
+    "multi_column_r3kgfk": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_XH4eQh": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "<span style=\"text-decoration:underline\"><strong>HOURS</strong></span>",
+            "heading_tag": "h4",
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Open Walk-in Hours 2025 (Closed Every Monday & Tuesday & see above for special hours)</strong></span></p><ol><li>Wednesday • 1:30pm - 6:30pm</li><li>Thursday • 1:30pm.- 5:30pm</li><li> Friday • 12:30pm - 4:30pm</li><li>Saturday • 12:00pm - 5:30pm</li><li>Sunday • 12:30pm - 5:00pm</li></ol><p></p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_9hn6Ya": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "<span style=\"text-decoration:underline\"><strong>Studio Closures, Special Hours, & EVENTS:</strong></span>",
+            "heading_tag": "h4",
+            "content": "<p><strong>JAN 1 - CLOSED</strong></p><p><span style=\"text-decoration:underline\"><strong>IN-STUDIO CLOSURES</strong></span><br/>We are closed on Monday & Tuesday of each week </p><p>*Note hours may slightly vary during holidays, please check above, our Instagram <a href=\"https://instagram.com/studioeast6\" target=\"_blank\">feed</a>, or text 312-834-3469 to inquire*</p><p>*To schedule virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a><strong>. </strong></p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_XH4eQh",
+        "image_with_text_9hn6Ya"
+      ],
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "columns_per_row": 2,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
       }
     },
     "image_with_text_FwiCrW": {
@@ -125,6 +160,7 @@
         "heading_Y3KgGY",
         "richtext_xDB8Le"
       ],
+      "disabled": true,
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "scheme-2",
@@ -308,6 +344,7 @@
     "main",
     "slideshow_bKBzxa",
     "image_with_text_zRTaHe",
+    "multi_column_r3kgfk",
     "image_with_text_FwiCrW",
     "rich_text_yMnqMy",
     "rich_text_idQVUN",
