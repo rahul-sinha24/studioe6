@@ -75,6 +75,12 @@
             "heading_tag": "h1"
           }
         },
+        "liquid_3JNDkG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11882.038473614537!2d-87.656059!3d41.881896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cd8d06087ff%3A0xef670d61f9efb5cc!2sStudio%20East6!5e0!3m2!1sen!2sus!4v1747730839241!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+          }
+        },
         "richtext_TBbAY9": {
           "type": "richtext",
           "settings": {
@@ -84,12 +90,13 @@
       },
       "block_order": [
         "heading_chgpfY",
+        "liquid_3JNDkG",
         "richtext_TBbAY9"
       ],
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
