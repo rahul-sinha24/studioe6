@@ -65,6 +65,88 @@
         "controls_color": "#ffffff"
       }
     },
+    "faq_4J48X7": {
+      "type": "faq",
+      "blocks": {
+        "category_XY86Ar": {
+          "type": "category",
+          "settings": {
+            "title": "Appointment",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_wccfR3": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>What services or experiences are included with a studio appointment?</strong>",
+            "answer": "<ul><li>To try anything on in the studio (this includes all items $1700 or over as well)</li><li>For one-on-one attention from a designated & experienced sales associate</li><li>To reserve a fitting room</li><li>Ability to try anything on in the studio.</li></ul>"
+          }
+        },
+        "question_RhwEwQ": {
+          "type": "question",
+          "settings": {
+            "question": "<strong> Is there a fee for booking an appointment?</strong>",
+            "answer": "<p>There is a $50/one hour appointment fee that is refundable with an apparel purchase made only at time of appointment. It is $25 per each additional hour. No exceptions made</p>"
+          }
+        },
+        "question_zXQQg7": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>What’s the difference between walking in and booking an appointment?</strong>",
+            "answer": "<p>An appointment is semi-private within our open hours, ensuring that a dedicated sales associate is by your side to offer personalized assistance to help you throughout the way to find something off-the-rack, customize order, or more!</p>"
+          }
+        },
+        "category_bagLpH": {
+          "type": "category",
+          "settings": {
+            "title": "Walk-In Hours",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_j4PTAt": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Can I try on items during walk-in hours?</strong>",
+            "answer": "<p>Any items $1700 or under can be tried on during open walk-in hours. <strong>Kindly note, items priced $1700 or more cannot be tried on during walk-in hours without a $50 trial fee</strong>. The $50 fee is refundable upon purchasing apparel on the same day, with no exceptions.</p>"
+          }
+        },
+        "question_MmEcqB": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Are walk-in appointments subject to any charges?</strong>",
+            "answer": "<p>Appointments are designated to clients looking for a more personalized service, finalize & place an order, or try on anything $1700 or over. There is a $50 deposit/appointment fee (See below). This $50 fee is refundable only with an apparel purchase executed on the day of.</p>"
+          }
+        },
+        "question_KVYrxN": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>When should I book an appointment instead of walking in?</strong>",
+            "answer": "<ul><li>The studio's level of traffic can fluctuate, affecting the availability of sales associates for assistance or open dressing rooms. Kindly note this is not within our control, as it depends on the particular day and time.</li><li>If we are at capacity in-studio, you may be asked to come back when space is available, in which case we will create a waitlist.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "category_XY86Ar",
+        "question_wccfR3",
+        "question_RhwEwQ",
+        "question_zXQQg7",
+        "category_bagLpH",
+        "question_j4PTAt",
+        "question_MmEcqB",
+        "question_KVYrxN"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Appointment Booking",
+        "content": "<p>During our open walk-in hours, appointment, or virtually! For more information, continue reading below.</p><p>To schedule an in-person or virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>"
+      }
+    },
     "multi_column_xgHy4J": {
       "type": "multi-column",
       "blocks": {
@@ -357,6 +439,7 @@
   "order": [
     "main",
     "slideshow_gxa9jx",
+    "faq_4J48X7",
     "multi_column_xgHy4J",
     "rich_text_wX78zE",
     "multiple_media_with_text_jMbtCw",
