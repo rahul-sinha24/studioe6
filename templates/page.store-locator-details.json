@@ -24,6 +24,8 @@
         "image_efLKg9": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Studio_East6_Store.png",
+            "mobile_image": "shopify://shop_images/Studio_East6_Store_1.png",
             "subheading": "Tell your story",
             "title": "Slide 1",
             "mobile_text_position": "place-self-center text-center",
@@ -61,6 +63,45 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff"
+      }
+    },
+    "image_with_text_zRTaHe": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_PqYpDA": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_chgpfY": {
+          "type": "heading",
+          "settings": {
+            "text": "Studio East6",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_TBbAY9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Address:</strong></span><br/>Studio East6<br/>1142 W. Madison St. #407 (4th floor)<br/>Chicago, IL 60607</p><p>*We are located on Madison Street, in the heart of the popular & trendy West Loop neighborhood (super far away from Devon St)! Find us between Racine Ave & Aberdeen St- next to Bocaditos Chicago.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PqYpDA",
+        "heading_chgpfY",
+        "richtext_TBbAY9"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     },
     "image_with_text_FwiCrW": {
@@ -266,6 +307,7 @@
   "order": [
     "main",
     "slideshow_bKBzxa",
+    "image_with_text_zRTaHe",
     "image_with_text_FwiCrW",
     "rich_text_yMnqMy",
     "rich_text_idQVUN",
