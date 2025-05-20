@@ -65,6 +65,49 @@
         "controls_color": "#ffffff"
       }
     },
+    "multiple_media_with_text_jMbtCw": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_Dgn777": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image_fPdNcF": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Dgn777",
+        "image_fPdNcF"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "<strong>IN-PERSON APPOINTMENT HOURS 2024</strong>",
+        "content": "<ol><li>Monday • Closed</li><li>Tuesday • Closed</li><li>Wednesday • 1:30pm - 7:30pm</li><li>Thursday • 1:30pm.- 7:30pm</li><li>Friday • 12:30pm - 7:30pm</li><li>Saturday • 12:00pm - 5:30pm</li><li>Sunday • 12:30pm - 5:00pm</li></ol><p>*To schedule an in-person appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\">HERE</a></p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
     "faq_4J48X7": {
       "type": "faq",
       "blocks": {
@@ -148,7 +191,7 @@
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "show_categories": false,
         "subheading": "Need help?",
         "title": "Appointment Booking",
@@ -197,79 +240,6 @@
         "subheading": "",
         "title": "Appointment Booking",
         "content": "<p>During our open walk-in hours, appointment, or virtually! For more information, continue reading below.</p><p>To schedule an in-person or virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>"
-      }
-    },
-    "rich_text_wX78zE": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ebzTkc": {
-          "type": "heading",
-          "settings": {
-            "text": "<strong>Do I need an appointment for walk-in hours? How many times can I visit walk-in hours?</strong>",
-            "heading_tag": "h5"
-          }
-        },
-        "richtext_RpMgTa": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>For walk-in hours, no appointment is necessary. If you are beginning your bridal shopping journey or are interested in off-the-rack options, we recommend visiting during our walk-in hours. Feel free to drop by as many times as you like without needing an appointment.<br/>A $50 trial fee or appointment is required for trying on items valued $1700 or over. The $50 fee is refunded only upon making an apparel purchase on the same day. No exceptions will be granted.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ebzTkc",
-        "richtext_RpMgTa"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "multiple_media_with_text_jMbtCw": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image_Dgn777": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        },
-        "image_fPdNcF": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_Dgn777",
-        "image_fPdNcF"
-      ],
-      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "reveal_on_scroll": true,
-        "separate_section_with_border": false,
-        "media_position_desktop": "after_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "<strong>IN-PERSON APPOINTMENT HOURS 2024</strong>",
-        "content": "<ol><li>Monday • Closed</li><li>Tuesday • Closed</li><li>Wednesday • 1:30pm - 7:30pm</li><li>Thursday • 1:30pm.- 7:30pm</li><li>Friday • 12:30pm - 7:30pm</li><li>Saturday • 12:00pm - 5:30pm</li><li>Sunday • 12:30pm - 5:00pm</li></ol><p>*To schedule an in-person appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\">HERE</a></p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
       }
     },
     "multi_column_JiKfxq": {
@@ -396,6 +366,36 @@
         "remove_vertical_spacing": false
       }
     },
+    "rich_text_wX78zE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ebzTkc": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Do I need an appointment for walk-in hours? How many times can I visit walk-in hours?</strong>",
+            "heading_tag": "h5"
+          }
+        },
+        "richtext_RpMgTa": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>For walk-in hours, no appointment is necessary. If you are beginning your bridal shopping journey or are interested in off-the-rack options, we recommend visiting during our walk-in hours. Feel free to drop by as many times as you like without needing an appointment.<br/>A $50 trial fee or appointment is required for trying on items valued $1700 or over. The $50 fee is refunded only upon making an apparel purchase on the same day. No exceptions will be granted.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ebzTkc",
+        "richtext_RpMgTa"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "faq_bq4NzH": {
       "type": "faq",
       "blocks": {
@@ -448,12 +448,12 @@
   "order": [
     "main",
     "slideshow_gxa9jx",
+    "multiple_media_with_text_jMbtCw",
     "faq_4J48X7",
     "multi_column_xgHy4J",
-    "rich_text_wX78zE",
-    "multiple_media_with_text_jMbtCw",
     "multi_column_JiKfxq",
     "rich_text_U6gQK3",
+    "rich_text_wX78zE",
     "faq_bq4NzH"
   ]
 }
