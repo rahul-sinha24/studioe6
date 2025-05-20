@@ -21,13 +21,13 @@
 
   <div class="{% unless section.settings.remove_vertical_spacing %}section-spacing{% endunless %} color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
     <image-with-text class="image-with-text {% if section.settings.image_position == 'end' %}image-with-text--reverse{% endif %}">
-      {%- if section.settings.image != blank or section.settings.liquid != blank -%} 
-                  {% if section.settings.liquid != blank %}
-                      <div class="text-{{ section.settings.text_alignment }}">
-                          {{- section.settings.liquid -}}
-                      </div>
-                  {% endif %}
-
+     
+    {% if section.settings.custom_liquid != blank %}
+        <div>
+            {{- section.settings.custom_liquid -}}
+        </div>
+  
+    {%- elsif section.settings.image != blank -%} 
         <picture>
           {%- assign sizes = '(max-width: 699px) 100vw, 50vw' -%}
 
@@ -45,6 +45,7 @@
       {%- else -%}
         {{- 'image' | placeholder_svg_tag: 'placeholder' -}}
       {%- endif -%}
+    
 
       <div class="prose text-center sm:text-start">
         {%- for block in section.blocks -%}
@@ -119,7 +120,7 @@
 
      {
       "type": "liquid",
-      "id": "custom-liquid",
+      "id": "custom_liquid",
       "label": "Custom Liquid",
       "info": "Adding custom code if required."
     },
