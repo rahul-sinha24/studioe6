@@ -86,12 +86,56 @@
           "settings": {
             "content": "<p>For Bride, Groom & Family</p>"
           }
+        },
+        "button_7wcJQH": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Bridal Appointment",
+            "url": "",
+            "background": "#a51c5b",
+            "text_color": ""
+          }
+        },
+        "button_MiebUT": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Groom Appointment",
+            "url": "",
+            "background": "#a51c5b",
+            "text_color": ""
+          }
+        },
+        "button_WjFAq6": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Family Appointment",
+            "url": "",
+            "background": "#a51c5b",
+            "text_color": ""
+          }
+        },
+        "button_Umi6Wz": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Virtual Appointment",
+            "url": "",
+            "background": "#a51c5b",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
         "subheading_xJVdBH",
         "heading_jXwwx6",
-        "richtext_qUKnHt"
+        "richtext_qUKnHt",
+        "button_7wcJQH",
+        "button_MiebUT",
+        "button_WjFAq6",
+        "button_Umi6Wz"
       ],
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
@@ -101,11 +145,55 @@
         "text_position": "center",
         "remove_vertical_spacing": false
       }
+    },
+    "multi_column_xgHy4J": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_XUpLw6": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "Appointments",
+            "heading_tag": "h3",
+            "content": "<p>Clients with booked appointments are prioritized over walk-in clientele.</p><p>We do recommend scheduling an appointment, if you are looking</p><ul><li>to try anything on in the studio (this includes all items $1700 or over as well)</li><li>for one-on-one attention from a designated & experienced sales associate</li><li>to reserve a fitting room</li></ul><p></p><ul><li>An appointment is semi-private within our open hours, ensuring that a dedicated sales associate is by your side to offer personalized assistance to help you throughout the way to find something off-the-rack, customize order, or more!</li></ul><p></p><ul><li>There is a $50/one hour appointment fee that is refundable with an apparel purchase made only at time of appointment. It is $25 per each additional hour. No exceptions made</li></ul><p></p><ul><li>Ability to try anything on in the studio.</li></ul><p>Schedule an appointment <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_REyqYp": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "<span style=\"text-decoration:underline\"><strong>Walk-in Hours: </strong></span><em>Due to high demand, we are unable to accommodate a large number of appointments during the week. To address this, we have introduced open walk-in hours</em>",
+            "heading_tag": "h5",
+            "content": "<ul><li>Walk-in hours are open hours, where no appointment is needed. These hours are designated for shopping off-the-rack, browsing, general questions, order pick-ups, and/or custom ordering.</li><li>Any items $1700 or under can be tried on during open walk-in hours. <strong>Kindly note, items priced $1700 or more cannot be tried on during walk-in hours without a $50 trial fee</strong>. The $50 fee is refundable upon purchasing apparel on the same day, with no exceptions.</li><li>We highly encourage brides who are in preliminary stages of bridal shopping, to stop in during our walk-in hours.</li><li>If we are at capacity in-studio, you may be asked to come back when space is available, in which case we will create a waitlist.</li><li>The studio's level of traffic can fluctuate, affecting the availability of sales associates for assistance or open dressing rooms. Kindly note this is not within our control, as it depends on the particular day and time.</li><li>Appointments are designated to clients looking for a more personalized service, finalize & place an order, or try on anything $1700 or over. There is a $50 deposit/appointment fee (See below). This $50 fee is refundable only with an apparel purchase executed on the day of.</li></ul>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_XUpLw6",
+        "image_with_text_REyqYp"
+      ],
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "columns_per_row": 2,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "start",
+        "spacing": "sm",
+        "subheading": "",
+        "title": "Appointment Booking",
+        "content": "<p>During our open walk-in hours, appointment, or virtually! For more information, continue reading below.</p><p>To schedule an in-person or virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>"
+      }
     }
   },
   "order": [
     "main",
     "slideshow_gxa9jx",
-    "rich_text_U6gQK3"
+    "rich_text_U6gQK3",
+    "multi_column_xgHy4J"
   ]
 }
