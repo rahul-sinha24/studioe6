@@ -244,7 +244,7 @@
           "settings": {
             "title": "",
             "heading_tag": "h5",
-            "content": "<p><strong>To assist in scheduling a virtual appointment, please kindly include the following details:</strong></p><ol><li>Date of Event</li><li>Type of outfits/styles needed</li><li>Designers interested in (if any)</li><li>Estimated budgets</li><li>Appointment date/time preferences<br/><br/></li></ol>",
+            "content": "<p><strong>To assist in scheduling a virtual appointment, please kindly include the following details:</strong></p><ol><li>Date of Event</li><li>Type of outfits/styles needed</li><li>Designers interested in (if any)</li><li>Estimated budgets</li><li>Appointment date/time preferences</li></ol>",
             "link_url": "",
             "link_text": ""
           }
