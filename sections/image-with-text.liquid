@@ -45,11 +45,6 @@
         {{- 'image' | placeholder_svg_tag: 'placeholder' -}}
       {%- endif -%}
 
-
-
-
-  
-
       <div class="prose text-center sm:text-start">
         {%- for block in section.blocks -%}
           {%- case block.type -%}
@@ -120,6 +115,15 @@
       "label": "t:global.section.separate_section_with_border",
       "default": true
     },
+
+   {
+      "type": "liquid",
+      "id": "custom-liquid",
+      "label": "t:global.code.liquid",
+      "info": "t:global.code.liquid_info",
+      "default": "<p>Write or copy/paste Liquid code</p>"
+    },
+    
     {
       "type": "image_picker",
       "id": "image",
