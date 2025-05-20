@@ -194,6 +194,7 @@
       "blocks": {
         "subheading_Dr6JRT": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
@@ -201,14 +202,14 @@
         "heading_ebzTkc": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1"
+            "text": "<strong>Do I need an appointment for walk-in hours? How many times can I visit walk-in hours?</strong>",
+            "heading_tag": "h5"
           }
         },
         "richtext_RpMgTa": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>For walk-in hours, no appointment is necessary. If you are beginning your bridal shopping journey or are interested in off-the-rack options, we recommend visiting during our walk-in hours. Feel free to drop by as many times as you like without needing an appointment.<br/>A $50 trial fee or appointment is required for trying on items valued $1700 or over. The $50 fee is refunded only upon making an apparel purchase on the same day. No exceptions will be granted.</p>"
           }
         }
       },
@@ -220,7 +221,7 @@
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false
