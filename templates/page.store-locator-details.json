@@ -197,18 +197,6 @@
         "title": "",
         "content": ""
       }
-    },
-    "custom_liquid_47pP8n": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<p>Write or copy/paste Liquid code</p>",
-        "text_alignment": "center"
-      }
     }
   },
   "order": [
@@ -216,7 +204,6 @@
     "slideshow_bKBzxa",
     "multi_column_r3kgfk",
     "image_with_text_zRTaHe",
-    "faq_Yhpmrg",
-    "custom_liquid_47pP8n"
+    "faq_Yhpmrg"
   ]
 }
