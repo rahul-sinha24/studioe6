@@ -3570,11 +3570,11 @@ tr[onclick]:hover {
   }
 }
 
-.breadcrumb--floating {
+/* .breadcrumb--floating {
   position: absolute;
   inset-block-start: 1.25rem;
   inset-inline-start: var(--container-gutter);
-}
+} */
 
 .bordered-box {
   border-width: 1px;
@@ -8231,4 +8231,12 @@ body p, span, li, summary, a {
     width: 100%;
     height: 100%;
     z-index: 2;
+}
+
+.breadcrumb--floating {
+    position: relative;
+}
+
+ol.breadcrumb__list.unstyled-list {
+    justify-content: center !important;
 }
