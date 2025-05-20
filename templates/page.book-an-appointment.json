@@ -24,8 +24,10 @@
         "image_W7bT4N": {
           "type": "image",
           "settings": {
-            "subheading": "Tell your story",
-            "title": "Slide 1",
+            "image": "shopify://shop_images/Book_an_Appointment_-_2_-_Desktop.png",
+            "mobile_image": "shopify://shop_images/Book_an_Appointment_-_2_-_Mobile.png",
+            "subheading": "",
+            "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -52,8 +54,8 @@
       ],
       "name": "t:sections.slideshow.presets.slideshow.name",
       "settings": {
-        "allow_transparent_header": true,
-        "show_next_section_button": true,
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
         "media_size": "auto",
         "show_initial_transition": false,
         "autoplay": true,
@@ -62,10 +64,48 @@
         "background": "#000000",
         "controls_color": "#ffffff"
       }
+    },
+    "rich_text_U6gQK3": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_xJVdBH": {
+          "type": "subheading",
+          "settings": {
+            "text": "Choose Your Appointment"
+          }
+        },
+        "heading_jXwwx6": {
+          "type": "heading",
+          "settings": {
+            "text": "Book An Appointment",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_qUKnHt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>For Bride, Groom & Family</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xJVdBH",
+        "heading_jXwwx6",
+        "richtext_qUKnHt"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_gxa9jx"
+    "slideshow_gxa9jx",
+    "rich_text_U6gQK3"
   ]
 }
