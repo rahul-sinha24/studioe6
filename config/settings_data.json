@@ -27,6 +27,7 @@
     "button_text_font": "heading",
     "button_letter_spacing": 10,
     "currency_code_enabled": false,
+    "color_swatch_config": "Apple Green: #8db600\nDark Coral: #cf524e\nBlush: #f8eadf\nPeach: #FFC9A9",
     "show_vendor": true,
     "social_facebook": "https://www.facebook.com/StudioEast6/",
     "social_pinterest": "https://pin.it/eZqTinTRK",
