@@ -138,6 +138,49 @@
         "remove_vertical_spacing": false
       }
     },
+    "multiple_media_with_text_jMbtCw": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_Dgn777": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        },
+        "image_fPdNcF": {
+          "type": "image",
+          "settings": {
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Dgn777",
+        "image_fPdNcF"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "<strong>IN-PERSON APPOINTMENT HOURS 2024</strong>",
+        "content": "<p><strong>1. Monday • Closed<br/>2. Tuesday • Closed<br/>3. Wednesday • 1:30pm - 7:30pm<br/>4. Thursday • 1:30pm.- 7:30pm<br/>5. Friday • 12:30pm - 7:30pm<br/>6. Saturday • 12:00pm - 5:30pm<br/>7. Sunday • 12:30pm - 5:00pm</strong></p><p>*To schedule an in-person appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\">HERE</a></p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
     "multi_column_JiKfxq": {
       "type": "multi-column",
       "blocks": {
@@ -316,6 +359,7 @@
     "slideshow_gxa9jx",
     "multi_column_xgHy4J",
     "rich_text_wX78zE",
+    "multiple_media_with_text_jMbtCw",
     "multi_column_JiKfxq",
     "rich_text_U6gQK3",
     "faq_bq4NzH"
