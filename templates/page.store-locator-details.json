@@ -171,7 +171,7 @@
         "custom_liquid": "",
         "image": "shopify://shop_images/Untitled-1_b78f12bb-e37a-4d55-bc81-93f4510a29a9.png",
         "reveal_on_scroll": true,
-        "image_position": "end",
+        "image_position": "start",
         "liquid": "<p>Write or copy/paste Liquid code</p>",
         "text_alignment": "center",
         "content_width": "sm",
