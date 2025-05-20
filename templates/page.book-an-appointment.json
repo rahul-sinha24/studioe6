@@ -188,12 +188,94 @@
         "title": "Appointment Booking",
         "content": "<p>During our open walk-in hours, appointment, or virtually! For more information, continue reading below.</p><p>To schedule an in-person or virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>"
       }
+    },
+    "rich_text_wX78zE": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Dr6JRT": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_ebzTkc": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_RpMgTa": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Dr6JRT",
+        "heading_ebzTkc",
+        "richtext_RpMgTa"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_JiKfxq": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_ztR9UB": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<ul><li>To schedule an in-person or virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></li><li>email: contact@studioeast6.com or text: 312-834-3469</li><li>fill out a contact form <a href=\"https://www.studioeast6.com/pages/contact-us\">here</a></li><li>we do offer virtual appointments for $25 non-refundable fee</li></ul>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_k4wb8f": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h5",
+            "content": "<p><strong>To assist in scheduling a virtual appointment, please kindly include the following details:</strong></p><ol><li>Date of Event</li><li>Type of outfits/styles needed</li><li>Designers interested in (if any)</li><li>Estimated budgets</li><li>Appointment date/time preferences<br/><br/></li></ol>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_ztR9UB",
+        "image_with_text_k4wb8f"
+      ],
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "columns_per_row": 2,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "start",
+        "spacing": "sm",
+        "subheading": "",
+        "title": "<strong>TO SCHEDULE AN IN-PERSON OR VIRTUAL APPOINTMENT</strong>",
+        "content": ""
+      }
     }
   },
   "order": [
     "main",
     "slideshow_gxa9jx",
     "rich_text_U6gQK3",
-    "multi_column_xgHy4J"
+    "multi_column_xgHy4J",
+    "rich_text_wX78zE",
+    "multi_column_JiKfxq"
   ]
 }
