@@ -183,6 +183,7 @@
         "image_with_text_XUpLw6",
         "image_with_text_REyqYp"
       ],
+      "disabled": true,
       "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
         "color_scheme": "scheme-2",
