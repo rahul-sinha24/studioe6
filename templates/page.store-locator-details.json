@@ -92,7 +92,7 @@
         "separate_section_with_border": false,
         "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11882.038473614537!2d-87.656059!3d41.881896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cd8d06087ff%3A0xef670d61f9efb5cc!2sStudio%20East6!5e0!3m2!1sen!2sus!4v1747730839241!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "reveal_on_scroll": true,
-        "image_position": "start",
+        "image_position": "end",
         "liquid": "<p>Write or copy/paste Liquid code</p>",
         "text_alignment": "center",
         "content_width": "sm",
@@ -420,8 +420,8 @@
   "order": [
     "main",
     "slideshow_bKBzxa",
-    "image_with_text_zRTaHe",
     "multi_column_r3kgfk",
+    "image_with_text_zRTaHe",
     "image_with_text_FwiCrW",
     "rich_text_yMnqMy",
     "rich_text_idQVUN",
