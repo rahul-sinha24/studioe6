@@ -269,6 +269,55 @@
         "title": "<strong>TO SCHEDULE AN IN-PERSON OR VIRTUAL APPOINTMENT</strong>",
         "content": ""
       }
+    },
+    "faq_bq4NzH": {
+      "type": "faq",
+      "blocks": {
+        "category_b7dDD3": {
+          "type": "category",
+          "settings": {
+            "title": "Order",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_GafGNn": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Measurements</strong>",
+            "answer": "<p>If you are looking to place an order, but unsure about measurements, there will be online measurement forms for you fill out once you checkout.</p><p>Alternatively, we can email you a custom measurement form to fill online or setup a 15-20 min follow-up in-person or virtual appointment for measurements.</p><p>Measurements can be taken in-studio free of charge with a <strong>confirmed order onl</strong>y.</p><p>If measurements are conducted without a confirmed order, a $50 charge applies. This charge can be refunded if a confirmed order is made within 7 days of the measurement. No exceptions will be made.</p><p><em>*Coming in solely for measurements depends on our opening hours, appointment availability, and staff availability. Priority is given to our purchasing clients, so if there are clients in the studio or we are busy assisting other clients, then we will not be able to take your measurements.</em></p><p><em>*During walk-in hours, we may or may not be able to accommodate measurement-only requests. Appointments for measurements only are not accepted. Kindly call in advance.</em></p>"
+          }
+        },
+        "question_arrk9n": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Do you have pieces in-stock at your studio to purchase or try on?</strong>",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "question_MN9gFx": {
+          "type": "question",
+          "settings": {
+            "question": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_b7dDD3",
+        "question_GafGNn",
+        "question_arrk9n",
+        "question_MN9gFx"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "show_categories": false,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
     }
   },
   "order": [
@@ -277,6 +326,7 @@
     "rich_text_U6gQK3",
     "multi_column_xgHy4J",
     "rich_text_wX78zE",
-    "multi_column_JiKfxq"
+    "multi_column_JiKfxq",
+    "faq_bq4NzH"
   ]
 }
