@@ -26,8 +26,8 @@
           "settings": {
             "image": "shopify://shop_images/Studio_East6_Store.png",
             "mobile_image": "shopify://shop_images/Studio_East6_Store_1.png",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
+            "subheading": "",
+            "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -63,40 +63,6 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff"
-      }
-    },
-    "image_with_text_zRTaHe": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_chgpfY": {
-          "type": "heading",
-          "settings": {
-            "text": "Studio East6",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_TBbAY9": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><span style=\"text-decoration:underline\"><strong>Address:</strong></span><br/>Studio East6<br/>1142 W. Madison St. #407 (4th floor)<br/>Chicago, IL 60607</p><p>*We are located on Madison Street, in the heart of the popular & trendy West Loop neighborhood (super far away from Devon St)! Find us between Racine Ave & Aberdeen St- next to Bocaditos Chicago.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_chgpfY",
-        "richtext_TBbAY9"
-      ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11882.038473614537!2d-87.656059!3d41.881896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cd8d06087ff%3A0xef670d61f9efb5cc!2sStudio%20East6!5e0!3m2!1sen!2sus!4v1747730839241!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
-        "reveal_on_scroll": true,
-        "image_position": "end",
-        "liquid": "<p>Write or copy/paste Liquid code</p>",
-        "text_alignment": "center",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
       }
     },
     "multi_column_r3kgfk": {
@@ -140,6 +106,40 @@
         "subheading": "",
         "title": "",
         "content": ""
+      }
+    },
+    "image_with_text_zRTaHe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_chgpfY": {
+          "type": "heading",
+          "settings": {
+            "text": "Studio East6",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_TBbAY9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><span style=\"text-decoration:underline\"><strong>Address:</strong></span><br/>Studio East6<br/>1142 W. Madison St. #407 (4th floor)<br/>Chicago, IL 60607</p><p>*We are located on Madison Street, in the heart of the popular & trendy West Loop neighborhood (super far away from Devon St)! Find us between Racine Ave & Aberdeen St- next to Bocaditos Chicago.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_chgpfY",
+        "richtext_TBbAY9"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11882.038473614537!2d-87.656059!3d41.881896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cd8d06087ff%3A0xef670d61f9efb5cc!2sStudio%20East6!5e0!3m2!1sen!2sus!4v1747730839241!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "liquid": "<p>Write or copy/paste Liquid code</p>",
+        "text_alignment": "center",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     },
     "image_with_text_FwiCrW": {
