@@ -247,6 +247,7 @@
         "richtext_UjKUFw",
         "richtext_PC9wQc"
       ],
+      "disabled": true,
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
@@ -292,6 +293,7 @@
         "richtext_EfdM8y",
         "richtext_6R8xVc"
       ],
+      "disabled": true,
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
@@ -330,6 +332,7 @@
         "heading_d7cqa4",
         "richtext_dDdinR"
       ],
+      "disabled": true,
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
@@ -337,6 +340,62 @@
         "content_width": "sm",
         "text_position": "start",
         "remove_vertical_spacing": false
+      }
+    },
+    "faq_Yhpmrg": {
+      "type": "faq",
+      "blocks": {
+        "question_DLcWfe": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>How Do I Get Into the Studio from Outside?</strong>",
+            "answer": "<p>To enter, dial 'Studio East6' or 207 on the intercom at the entrance to be buzzed in. Proceed to the 4th floor using either the stairs or elevator. The elevator is located straight back upon entering the building.<br/><br/><strong>If you are not buzzed in through the intercom, you will only have access to the stairs and not the elevator. </strong></p>"
+          }
+        },
+        "question_U7FjLi": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>How to Visit Studio East6?</strong>",
+            "answer": "<p>During our open walk-in hours, appointment, or virtually! For more information, continue reading below.</p><p>To schedule an in-person or virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>"
+          }
+        },
+        "question_XiEi6f": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>In-Studio Closures</strong>",
+            "answer": "<p>We are closed on Monday & Tuesday of each week </p>"
+          }
+        },
+        "question_LicjEd": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Additional Location Info:</strong>",
+            "answer": "<ul><li>We are located on Madison Street (between Racine Ave & Aberdeen St). Our building is in-between Bocaditos Chicago restaurant & Rainforest Daycare. You will see a video intercom outside once you’ve arrived  </li></ul><p></p><ul><li><strong>Please dial 'Studio East6' at intercom & take the elevator (located straight back) or stairs to 4th floor - Suite 407</strong></li></ul>"
+          }
+        },
+        "question_TkRxRT": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Parking Info:</strong>",
+            "answer": "<ul><li>There is meter parking available on Madison and free street parking available on surrounding side streets (such as Aberdeen, Racine, etc.). </li></ul><p></p><ul><li>There is also a pay-to-park garage located at 1301 W. Madison </li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "question_DLcWfe",
+        "question_U7FjLi",
+        "question_XiEi6f",
+        "question_LicjEd",
+        "question_TkRxRT"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
       }
     }
   },
@@ -349,6 +408,7 @@
     "rich_text_yMnqMy",
     "rich_text_idQVUN",
     "rich_text_GTj3wM",
-    "rich_text_etcwaw"
+    "rich_text_etcwaw",
+    "faq_Yhpmrg"
   ]
 }
