@@ -125,6 +125,13 @@
             "question": "<strong>When should I book an appointment instead of walking in?</strong>",
             "answer": "<ul><li>The studio's level of traffic can fluctuate, affecting the availability of sales associates for assistance or open dressing rooms. Kindly note this is not within our control, as it depends on the particular day and time.</li><li>If we are at capacity in-studio, you may be asked to come back when space is available, in which case we will create a waitlist.</li></ul>"
           }
+        },
+        "question_LWxBGE": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>When is the best time to stop by if I’m just starting my bridal shopping journey?</strong>",
+            "answer": "<ul><li>We highly encourage brides who are in preliminary stages of bridal shopping, to stop in during our walk-in hours.</li></ul><p><em><strong>Due to high demand, we are unable to accommodate a large number of appointments during the week. To address this, we have introduced open walk-in hours</strong></em></p>"
+          }
         }
       },
       "block_order": [
@@ -135,7 +142,8 @@
         "category_bagLpH",
         "question_j4PTAt",
         "question_MmEcqB",
-        "question_KVYrxN"
+        "question_KVYrxN",
+        "question_LWxBGE"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
