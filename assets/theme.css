@@ -4912,7 +4912,9 @@ product-rerender {
 
 @media screen and (min-width: 1150px) {
   .header__primary-nav {
-    column-gap: 2.5rem;
+    /* column-gap: 2.5rem; */
+    column-gap: 1.5rem;
+    
   }
 }
 
