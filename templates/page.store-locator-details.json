@@ -391,10 +391,10 @@
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "show_categories": false,
-        "subheading": "Need help?",
-        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "title": "",
         "content": ""
       }
     }
