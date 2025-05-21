@@ -216,7 +216,7 @@
           "settings": {
             "product": "{{product}}",
             "waitForElementSelector": "",
-            "waitForElementDelay": 5
+            "waitForElementDelay": 1
           }
         }
       },
