@@ -159,6 +159,28 @@
 {% endstyle %}
 {% endcomment %}
 
+
+<div class="logo-marquee-container">
+  <div class="container">
+  {% if section.settings.title_above_icon != blank %}
+    <div class="above_icon">
+      {{ section.settings.title_above_icon | image_url: width: section.settings.title_above_icon.width | image_tag: loading: 'lazy', sizes: auto, widths: '300,400,500,600,800,1000,1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
+    </div>
+    {% style %}
+      #shopify-section-{{ section.id }}.autoscroll_image .above_icon img {
+        max-width: 45px;
+        margin: 0 auto;
+      }
+      #shopify-section-{{ section.id }}.autoscroll_image .above_icon {
+        margin-bottom: 1.5rem;
+      }
+    {% endstyle %}
+  {% endif %}
+  {% if section.settings.heading or section.settings.context != blank or section.settings.subheading != blank %}
+    {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.heading, content: section.settings.context, text_alignment: 'center' -%}
+  {% endif %}
+  </div>
+
 <div class="marquee-section">
   <div class="marquee-track">
     {% for block in section.blocks %}
