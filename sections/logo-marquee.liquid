@@ -78,16 +78,32 @@
   overflow: hidden;
   position: relative;
   width: 100%;
-      margin-top: 1.5rem;
+  margin-top: 1.5rem;
 }
 .logo-marquee-track {
   display: flex;
-  
-  animation: scroll-left 20s linear infinite;
+  /* animation: scroll-left 20s linear infinite; */
+  flex-wrap: nowrap;
+  animation: scroll-left 25s linear infinite;
+  will-change: transform;
 }
+
+.logo-marquee-wrapper:hover .logo-marquee-track {
+  animation-play-state: paused;
+}
+
+  .logo-marquee-track a {
+  flex: 0 0 auto;
+  margin: 0 10px;
+  display: block;
+  text-decoration: none;
+}
+
+  
   /* .logo-marquee-container h2.h2 {
     margin-top: 6px;
 } */
+  
   .logo-marquee-container p.h6 {
     opacity: .6;
 }
@@ -98,6 +114,7 @@
   flex-shrink: 0;
   object-fit: contain;
   max-height: fit-content;
+  display: block;
 }
 .logo-marquee-button-wrapper {
   margin-top: 30px;
@@ -139,6 +156,22 @@
   }
 }
 {% endstyle %}
+
+<script>
+  <script>
+  const marqueeWrapper = document.querySelector('.logo-marquee-wrapper');
+  const marqueeTrack = document.querySelector('.logo-marquee-track');
+
+  marqueeWrapper.addEventListener('mouseenter', () => {
+    marqueeTrack.style.animationPlayState = 'paused';
+  });
+
+  marqueeWrapper.addEventListener('mouseleave', () => {
+    marqueeTrack.style.animationPlayState = 'running';
+  });
+</script>
+
+</script>
 
 {% schema %}
   {
