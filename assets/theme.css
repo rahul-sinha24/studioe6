@@ -8252,7 +8252,7 @@ button.collection-toolbar__button.heading.text-xxs.w-full {
     line-height: 1.6 !important;
 }
 
-@media and (max-width:700px){
+@media (max-width: 699px){
     .faqs .faq {
         display: block;
         width: 100%;
