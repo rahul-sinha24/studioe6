@@ -1,3 +1,4 @@
+{% comment %}
 <div class="logo-marquee-container">
   <div class="container">
   {% if section.settings.title_above_icon != blank %}
@@ -156,6 +157,139 @@
   }
 }
 {% endstyle %}
+{% endcomment %}
+
+<div class="logo-marquee-container">
+  <div class="container">
+    {% if section.settings.title_above_icon != blank %}
+      <div class="above_icon">
+        {{ section.settings.title_above_icon | image_url: width: section.settings.title_above_icon.width | image_tag: loading: 'lazy', sizes: 'auto', widths: '300,400,500,600,800,1000,1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
+      </div>
+      {% style %}
+        #shopify-section-{{ section.id }}.autoscroll_image .above_icon img {
+          max-width: 45px;
+          margin: 0 auto;
+        }
+        #shopify-section-{{ section.id }}.autoscroll_image .above_icon {
+          margin-bottom: 1.5rem;
+        }
+      {% endstyle %}
+    {% endif %}
+
+    {% if section.settings.heading or section.settings.context != blank or section.settings.subheading != blank %}
+      {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.heading, content: section.settings.context, text_alignment: 'center' -%}
+    {% endif %}
+  </div>
+
+  <div class="logo-marquee-wrapper">
+    <div class="logo-marquee-track">
+      {% for block in section.blocks %}
+        {% if block.settings.logo %}
+          <div class="marquee_content_image">
+            <a class="marquee_content_image_link" href="{{ block.settings.link }}" target="_blank">
+              {{ block.settings.logo | image_url: width: block.settings.logo.width | image_tag: loading: 'lazy', sizes: 'auto', widths: '1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
+            </a>
+          </div>
+        {% endif %}
+      {% endfor %}
+
+      {%- comment -%} Clone once for seamless loop {%- endcomment -%}
+      {% for block in section.blocks %}
+        {% if block.settings.logo %}
+          <div class="marquee_content_image">
+            <a class="marquee_content_image_link" href="{{ block.settings.link }}" target="_blank">
+              {{ block.settings.logo | image_url: width: block.settings.logo.width | image_tag: loading: 'lazy', sizes: 'auto', widths: '1200,1400,1600,1800', class: 'zoom-image group-hover:zoom' }}
+            </a>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  {% if section.settings.button_label and section.settings.button_link %}
+    <div class="logo-marquee-button-wrapper">
+      <a href="{{ section.settings.button_link }}" class="logo-marquee-button">{{ section.settings.button_label }}</a>
+    </div>
+  {% endif %}
+</div>
+
+{% style %}
+.logo-marquee-container {
+  text-align: center;
+  background: #fff;
+}
+
+.logo-marquee-wrapper {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  margin-top: 1.5rem;
+}
+
+.logo-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: scroll-left 30s linear infinite;
+}
+
+.logo-marquee-wrapper:hover .logo-marquee-track {
+  animation-play-state: paused;
+}
+
+.marquee_content_image {
+  display: block;
+  padding: 0 20px;
+}
+
+.logo-marquee-track img {
+  height: auto;
+  object-fit: contain;
+  display: block;
+  max-height: 60px;
+}
+
+.logo-marquee-button-wrapper {
+  margin-top: 30px;
+}
+.logo-marquee-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+.logo-marquee-button:hover {
+  background-color: #333;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Responsive logo width */
+@media(max-width: 699px){
+  .marquee_content_image {
+    max-width: 61%;
+    min-width: 61%;
+  }
+}
+@media(min-width: 700px){
+  .marquee_content_image {
+    max-width: 20%;
+    min-width: 20%;
+  }
+}
+{% endstyle %}
+
+
+
 
 {% schema %}
   {
