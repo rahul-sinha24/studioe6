@@ -8247,3 +8247,7 @@ button.collection-toolbar__button.heading.text-xxs.w-full {
     font-weight: 800;
     color: black;
 }
+
+.collection-toolbar__button-container span.text-with-icon.justify-center {
+    line-height: 1.6 !important;
+}
