@@ -195,7 +195,7 @@
         "show_categories": false,
         "subheading": "Need help?",
         "title": "Appointment Booking",
-        "content": "<p>During our open walk-in hours, appointment, or virtually! For more information, continue reading below.</p><p>To schedule an in-person or virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>"
+        "content": "<p>During our open walk-in hours, appointment, or virtually! For more information, continue reading below. To schedule an in-person or virtual appointment, click <a href=\"https://studioeast6.as.me/\" target=\"_blank\" title=\"HERE\"><strong>HERE</strong></a></p>"
       }
     },
     "multi_column_xgHy4J": {
@@ -275,7 +275,7 @@
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "columns_per_row": 2,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "overlap_image": false,
         "content_alignment": "center",
         "text_alignment": "start",
