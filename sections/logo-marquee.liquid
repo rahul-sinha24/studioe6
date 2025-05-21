@@ -1,4 +1,4 @@
-
+{% comment %}
 <div class="logo-marquee-container">
   <div class="container">
   {% if section.settings.title_above_icon != blank %}
@@ -157,7 +157,77 @@
   }
 }
 {% endstyle %}
+{% endcomment %}
 
+<div class="marquee-section">
+  <div class="marquee-track">
+    {% for block in section.blocks %}
+      {% if block.settings.logo %}
+        <div class="marquee-item">
+          <a href="{{ block.settings.link }}" target="_blank">
+            <img src="{{ block.settings.logo | image_url: width: 300 }}" alt="logo" loading="lazy" />
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+    {%- comment -%} Duplicate once for smooth scroll loop {%- endcomment -%}
+    {% for block in section.blocks %}
+      {% if block.settings.logo %}
+        <div class="marquee-item">
+          <a href="{{ block.settings.link }}" target="_blank">
+            <img src="{{ block.settings.logo | image_url: width: 300 }}" alt="logo" loading="lazy" />
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+{% style %}
+.marquee-section {
+  overflow: hidden;
+  width: 100%;
+  background: #fff;
+  padding: 20px 0;
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: scroll-marquee 30s linear infinite;
+}
+
+.marquee-section:hover .marquee-track {
+  animation-play-state: paused;
+}
+
+.marquee-item {
+  flex: 0 0 auto;
+  padding: 0 20px;
+}
+
+.marquee-item img {
+  max-height: 60px;
+  display: block;
+  object-fit: contain;
+  width: auto;
+}
+
+@keyframes scroll-marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 699px) {
+  .marquee-item {
+    padding: 0 10px;
+  }
+}
+{% endstyle %}
 
 
 {% schema %}
