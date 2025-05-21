@@ -158,18 +158,35 @@
 {% endstyle %}
 
 
-  <script>
-  const marqueeWrapper = document.querySelector('.logo-marquee-wrapper');
-  const marqueeTrack = document.querySelector('.logo-marquee-track');
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const wrapper = document.getElementById('logo-marquee');
+    const track = wrapper.querySelector('.logo-marquee-track');
+    let clone = track.cloneNode(true);
+    wrapper.appendChild(clone);
 
-  marqueeWrapper.addEventListener('mouseenter', () => {
-    marqueeTrack.style.animationPlayState = 'paused';
-  });
+    let pos = 0;
+    let speed = 0.5;
+    let paused = false;
 
-  marqueeWrapper.addEventListener('mouseleave', () => {
-    marqueeTrack.style.animationPlayState = 'running';
+    wrapper.addEventListener('mouseenter', () => paused = true);
+    wrapper.addEventListener('mouseleave', () => paused = false);
+
+    function animate() {
+      if (!paused) {
+        pos -= speed;
+        if (Math.abs(pos) >= track.offsetWidth) {
+          pos = 0;
+        }
+        wrapper.scrollLeft = pos;
+      }
+      requestAnimationFrame(animate);
+    }
+
+    animate();
   });
 </script>
+
 
 
 {% schema %}
