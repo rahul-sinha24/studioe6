@@ -29,6 +29,7 @@
     "currency_code_enabled": false,
     "color_swatch_config": "Apple Green: #8db600\nDark Coral: #cf524e\nBlush: #f8eadf\nPeach: #FFC9A9",
     "show_vendor": true,
+    "cart_show_free_shipping_bar": true,
     "social_facebook": "https://www.facebook.com/StudioEast6/",
     "social_pinterest": "https://pin.it/eZqTinTRK",
     "social_instagram": "https://www.instagram.com/studioeast6/",
