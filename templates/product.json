@@ -97,13 +97,13 @@
             "page": ""
           }
         },
-        "accordion_c7Lf7T": {
+        "accordion_HaanEH": {
           "type": "accordion",
           "settings": {
             "show_below_gallery": false,
-            "icon": "picto-comment",
-            "title": "Custom & Duties",
-            "content": "<p>International orders may be subject to import duties, taxes, and customs fees, which are levied once the shipment reaches your country. These charges are <strong>not included</strong> in the product price or shipping cost and are the <strong>responsibility of the recipient</strong>.</p><p>Customs policies vary widely by country, so we recommend checking with your local customs office for more information.<br/><br/>Please note:</p><ul><li>Delays caused by customs are beyond our control.</li><li>Refusal to pay duties may result in the package being returned or destroyed, and <strong>no refunds</strong> will be issued in such cases.</li></ul>",
+            "icon": "picto-target",
+            "title": "Designer's Customization",
+            "content": "<p>Love the design but want a different<strong>color</strong>,<strong>neckline</strong>,<strong>or sleeve style</strong>? Our designers offer limited customization to make your outfit truly yours.<br/>Simply reach out to us after placing your order to discuss your preferences!<br/>WhatsApp or Email Us.</p>",
             "liquid": "",
             "page": ""
           }
@@ -119,13 +119,13 @@
             "page": ""
           }
         },
-        "accordion_HaanEH": {
+        "accordion_c7Lf7T": {
           "type": "accordion",
           "settings": {
             "show_below_gallery": false,
-            "icon": "picto-target",
-            "title": "Designer's Customization",
-            "content": "<p>Love the design but want a different<strong>color</strong>,<strong>neckline</strong>,<strong>or sleeve style</strong>? Our designers offer limited customization to make your outfit truly yours.<br/>Simply reach out to us after placing your order to discuss your preferences!<br/>WhatsApp or Email Us.</p>",
+            "icon": "picto-comment",
+            "title": "Custom & Duties",
+            "content": "<p>International orders may be subject to import duties, taxes, and customs fees, which are levied once the shipment reaches your country. These charges are <strong>not included</strong> in the product price or shipping cost and are the <strong>responsibility of the recipient</strong>.</p><p>Customs policies vary widely by country, so we recommend checking with your local customs office for more information.<br/><br/>Please note:</p><ul><li>Delays caused by customs are beyond our control.</li><li>Refusal to pay duties may result in the package being returned or destroyed, and <strong>no refunds</strong> will be issued in such cases.</li></ul>",
             "liquid": "",
             "page": ""
           }
@@ -169,9 +169,9 @@
         "liquid_kcF4jD",
         "accordion_J64iDP",
         "accordion_p9MWtG",
-        "accordion_c7Lf7T",
-        "accordion_kUN6Ee",
         "accordion_HaanEH",
+        "accordion_kUN6Ee",
+        "accordion_c7Lf7T",
         "accordion_keDeen",
         "complementary_products",
         "share_buttons_8gTtzw"
