@@ -8242,3 +8242,8 @@ body p, span, li, summary, a {
 ol.breadcrumb__list.unstyled-list {
     justify-content: center !important;
 }
+
+button.collection-toolbar__button.heading.text-xxs.w-full {
+    font-weight: 800;
+    color: black;
+}
