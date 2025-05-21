@@ -607,43 +607,50 @@
         "logo_NAJeeG": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/Logo-7.png",
+            "link": "shopify://collections/itrh"
           }
         },
         "logo_wENeTr": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/Logo-13.png",
+            "link": "shopify://collections/ridhi-mehra"
           }
         },
         "logo_UekBh9": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/Logo-10.png",
+            "link": "shopify://collections/monika-nidhee"
           }
         },
         "logo_CeCRM9": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/Logo-11.png",
+            "link": "shopify://collections/payal-singhal"
           }
         },
         "logo_JyJiW7": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/Logo-12.png",
+            "link": "shopify://collections/rajat-tangri"
           }
         },
         "logo_GewiPk": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/Logo-14.png",
+            "link": "shopify://collections/saaksha-kinni"
           }
         },
         "logo_3PcUpj": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "logo": "shopify://shop_images/Logo-15.png",
+            "link": "shopify://collections/sapana-amin"
           }
         }
       },
