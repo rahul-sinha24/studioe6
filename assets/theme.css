@@ -8253,10 +8253,10 @@ button.collection-toolbar__button.heading.text-xxs.w-full {
 }
 
 @media and (max-width:700px){
-.faqs .faq {
-    display: block;
-    width: 100%;
-    margin-left: 0 !important;
-    max-width: 100%;
-}
+    .faqs .faq {
+        display: block;
+        width: 100%;
+        margin-left: 0 !important;
+        max-width: 100%;
+    }
 }
