@@ -81,7 +81,7 @@
             "show_below_gallery": false,
             "icon": "picto-document",
             "title": "Description",
-            "content": "{{ product.description }}",
+            "content": "<p>{{ product.description }}</p>",
             "liquid": "",
             "page": ""
           }
@@ -101,7 +101,7 @@
           "type": "accordion",
           "settings": {
             "show_below_gallery": false,
-            "icon": "picto-info",
+            "icon": "picto-comment",
             "title": "Custom & Duties",
             "content": "<p>International orders may be subject to import duties, taxes, and customs fees, which are levied once the shipment reaches your country. These charges are <strong>not included</strong> in the product price or shipping cost and are the <strong>responsibility of the recipient</strong>.</p><p>Customs policies vary widely by country, so we recommend checking with your local customs office for more information.<br/><br/>Please note:</p><ul><li>Delays caused by customs are beyond our control.</li><li>Refusal to pay duties may result in the package being returned or destroyed, and <strong>no refunds</strong> will be issued in such cases.</li></ul>",
             "liquid": "",
@@ -134,7 +134,7 @@
           "type": "accordion",
           "settings": {
             "show_below_gallery": false,
-            "icon": "picto-error",
+            "icon": "picto-info",
             "title": "Disclaimer",
             "content": "<p>Please note that slight variations in color, texture, and embellishments may occur due to lighting, photography, and handcrafted techniques. These are not defects but part of the uniqueness of each outfit.<br/>Custom and made-to-order pieces are<strong>non-returnableand non-refundable</strong>.</p>",
             "liquid": "",
