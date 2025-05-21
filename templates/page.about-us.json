@@ -632,6 +632,146 @@
             "logo": "shopify://shop_images/diya_rajvir_8e55a712-d00f-4b37-a66f-3be010cb4cc9.png",
             "link": "shopify://collections/diya-rajvvir"
           }
+        },
+        "logo_YDKKkK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-1.png",
+            "link": "shopify://collections/seema-gujral"
+          }
+        },
+        "logo_PhJQCg": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-2.png",
+            "link": "shopify://collections/tarun-tahiliani"
+          }
+        },
+        "logo_Eq9TqD": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-3.png",
+            "link": "shopify://collections/aisha-rao"
+          }
+        },
+        "logo_yT94Ba": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-4.png",
+            "link": "shopify://collections/anushree-reddy"
+          }
+        },
+        "logo_KLnQQ7": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-5.png",
+            "link": "shopify://collections/chamee-and-palak"
+          }
+        },
+        "logo_XnUpqt": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-6.png",
+            "link": "shopify://collections/drishti-zahabia"
+          }
+        },
+        "logo_FYJBXe": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-7.png",
+            "link": "shopify://collections/itrh"
+          }
+        },
+        "logo_xegHVR": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-8.png",
+            "link": "shopify://collections/label-anushree"
+          }
+        },
+        "logo_rbREAV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-9.png",
+            "link": "shopify://collections/mahima"
+          }
+        },
+        "logo_kDpyHX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-10.png",
+            "link": "shopify://collections/monika-nidhee"
+          }
+        },
+        "logo_FTw4j4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-11.png",
+            "link": "shopify://collections/payal-singhal"
+          }
+        },
+        "logo_hfyFXC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-12.png",
+            "link": "shopify://collections/rajat-tangri"
+          }
+        },
+        "logo_g6jDcG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-13.png",
+            "link": "shopify://collections/ridhi-mehra"
+          }
+        },
+        "logo_fzEGhU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-14.png",
+            "link": "shopify://collections/saaksha-kinni"
+          }
+        },
+        "logo_jqEEcM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-15.png",
+            "link": "shopify://collections/sapana-amin"
+          }
+        },
+        "logo_Y7zWeL": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-16.png",
+            "link": "shopify://collections/shloka-khialani"
+          }
+        },
+        "logo_kwY3UR": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-17.png",
+            "link": "shopify://collections/sva-by-sonam-and-paras-modi"
+          }
+        },
+        "logo_fhz9YD": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-18.png",
+            "link": "shopify://collections/the-little-black-bow"
+          }
+        },
+        "logo_fbqFeV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-19.png",
+            "link": "shopify://collections/twenty-nine"
+          }
+        },
+        "logo_nzHxCe": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-20.png",
+            "link": "shopify://collections/vvani-by-vani-vats"
+          }
         }
       },
       "block_order": [
@@ -639,7 +779,27 @@
         "logo_ttzDTz",
         "logo_9bYpqq",
         "logo_J3PgVT",
-        "logo_gzjMRy"
+        "logo_gzjMRy",
+        "logo_YDKKkK",
+        "logo_PhJQCg",
+        "logo_Eq9TqD",
+        "logo_yT94Ba",
+        "logo_KLnQQ7",
+        "logo_XnUpqt",
+        "logo_FYJBXe",
+        "logo_xegHVR",
+        "logo_rbREAV",
+        "logo_kDpyHX",
+        "logo_FTw4j4",
+        "logo_hfyFXC",
+        "logo_g6jDcG",
+        "logo_fzEGhU",
+        "logo_jqEEcM",
+        "logo_Y7zWeL",
+        "logo_kwY3UR",
+        "logo_fhz9YD",
+        "logo_fbqFeV",
+        "logo_nzHxCe"
       ],
       "name": "Auto Scrolling Logos",
       "settings": {
