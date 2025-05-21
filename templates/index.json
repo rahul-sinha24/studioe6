@@ -547,6 +547,104 @@
             "logo": "shopify://shop_images/diya_rajvir_8e55a712-d00f-4b37-a66f-3be010cb4cc9.png",
             "link": "shopify://collections/diya-rajvvir"
           }
+        },
+        "logo_bY9hej": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-1.png",
+            "link": "shopify://collections/seema-gujral"
+          }
+        },
+        "logo_axqJfB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-2.png",
+            "link": "shopify://collections/tarun-tahiliani"
+          }
+        },
+        "logo_px6ULz": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-3.png",
+            "link": "shopify://collections/aisha-rao"
+          }
+        },
+        "logo_er9qCi": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-4.png",
+            "link": "shopify://collections/anushree-reddy"
+          }
+        },
+        "logo_GnGdgm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-5.png",
+            "link": "shopify://collections/chamee-and-palak"
+          }
+        },
+        "logo_Kn7FfX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-6.png",
+            "link": "shopify://collections/drishti-zahabia"
+          }
+        },
+        "logo_UQjCNh": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-8.png",
+            "link": "shopify://collections/label-anushree"
+          }
+        },
+        "logo_AnHg4F": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo-9.png",
+            "link": "shopify://collections/mahima"
+          }
+        },
+        "logo_NAJeeG": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_wENeTr": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_UekBh9": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_CeCRM9": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_JyJiW7": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_GewiPk": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_3PcUpj": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -554,11 +652,26 @@
         "logo_9FKcFy",
         "logo_RKLNPB",
         "logo_jEVKWn",
-        "logo_w8VGCK"
+        "logo_w8VGCK",
+        "logo_bY9hej",
+        "logo_axqJfB",
+        "logo_px6ULz",
+        "logo_er9qCi",
+        "logo_GnGdgm",
+        "logo_Kn7FfX",
+        "logo_UQjCNh",
+        "logo_AnHg4F",
+        "logo_NAJeeG",
+        "logo_wENeTr",
+        "logo_UekBh9",
+        "logo_CeCRM9",
+        "logo_JyJiW7",
+        "logo_GewiPk",
+        "logo_3PcUpj"
       ],
       "name": "Auto Scrolling Logos",
       "settings": {
-        "title_above_icon": "shopify://shop_images/1_2_036d32ad-a1df-433e-9f2a-bb493f602f33.png",
+        "title_above_icon": "shopify://shop_images/1_2_036d32ad-a1df-433e-9f2a-bb493f602f33_1.png",
         "subheading": "",
         "heading": "The Pinnacle of Indian Couture",
         "context": "Shop the legacy of Indian design",
