@@ -801,8 +801,12 @@
         "logo_fbqFeV",
         "logo_nzHxCe"
       ],
+      "custom_css": [
+        ".logo-marquee-container {margin: 48px 0;}"
+      ],
       "name": "Auto Scrolling Logos",
       "settings": {
+        "title_above_icon": "shopify://shop_images/1_2_036d32ad-a1df-433e-9f2a-bb493f602f33_1.png",
         "subheading": "",
         "heading": "Explore Our Designers",
         "context": "",
