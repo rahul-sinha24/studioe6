@@ -353,7 +353,7 @@
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "columns_per_row": 3,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "overlap_image": false,
         "content_alignment": "center",
         "text_alignment": "start",
