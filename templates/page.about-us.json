@@ -93,6 +93,7 @@
         "image_Jxzf9E": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Untitled-1.png",
             "rotation": 0
           }
         },
@@ -115,7 +116,7 @@
         "separate_section_with_border": false,
         "media_position_desktop": "after_text",
         "media_position_mobile": "before_text",
-        "media_layout": "overlap",
+        "media_layout": "separated",
         "media_alignment": "center",
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
