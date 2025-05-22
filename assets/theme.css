@@ -8260,3 +8260,23 @@ button.collection-toolbar__button.heading.text-xxs.w-full {
         max-width: 100%;
     }
 }
+
+  .shopify-policy__container h3 {
+    padding-bottom: 1rem;
+  }
+
+@media (max-width: 699px){
+    .shopify-policy__container {
+        max-width: 100% !important;
+        margin-top: 0;
+        gap: 15px !important;
+        width: 100%;
+    }
+
+  .shopify-policy__container h3 {
+    font-size: 14px;
+    line-height: 1.2rem;
+    padding-bottom: 1rem;
+    }
+  
+}
