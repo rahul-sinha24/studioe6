@@ -8286,3 +8286,8 @@ button.collection-toolbar__button.heading.text-xxs.w-full {
   }
   
 }
+
+.accordion__content.prose p {
+    line-height: 1.5rem !important;
+    margin-top: 0.5rem;
+}
