@@ -149,8 +149,8 @@
         "image_WFD8AN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SE-Desktop.jpg",
-            "mobile_image": "shopify://shop_images/SE-Mobile.jpg",
+            "image": "shopify://shop_images/ST2.jpg",
+            "mobile_image": "shopify://shop_images/ST5.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
