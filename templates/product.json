@@ -153,6 +153,7 @@
         },
         "share_buttons_8gTtzw": {
           "type": "share_buttons",
+          "disabled": true,
           "settings": {}
         }
       },
