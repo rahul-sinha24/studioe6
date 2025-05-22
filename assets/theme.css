@@ -8263,6 +8263,7 @@ button.collection-toolbar__button.heading.text-xxs.w-full {
 
   .shopify-policy__container h3 {
     padding-bottom: 1rem;
+    text-transform: uppercase !important;
   }
 
 @media (max-width: 699px){
