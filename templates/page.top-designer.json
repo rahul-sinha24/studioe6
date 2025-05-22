@@ -449,6 +449,9 @@
         "collection_dTHKd6",
         "collection_TmbP48"
       ],
+      "custom_css": [
+        ".h2 {font-family: felix titling;}"
+      ],
       "name": "t:sections.collection_list.presets.collection_list.name",
       "settings": {
         "additional_class": "",
@@ -460,6 +463,7 @@
         "stack_collections": true,
         "collections_per_row_mobile": "2",
         "collections_per_row_desktop": 4,
+        "title_above_icon": "shopify://shop_images/1_2_036d32ad-a1df-433e-9f2a-bb493f602f33_1.png",
         "subheading": "",
         "title": "Our Top Designers",
         "content": "",
