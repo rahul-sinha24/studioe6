@@ -348,6 +348,9 @@
         "image_with_text_acdthT",
         "image_with_text_NkfdMz"
       ],
+      "custom_css": [
+        "h2{font-family: felix titling;}"
+      ],
       "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
         "color_scheme": "scheme-2",
