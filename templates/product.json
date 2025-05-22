@@ -28,12 +28,12 @@
             "show_taxes_notice": true
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "payment_terms": {
           "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
           "settings": {}
         },
         "description": {
@@ -169,8 +169,8 @@
         "vendor",
         "title",
         "price",
-        "separator",
         "payment_terms",
+        "separator",
         "description",
         "kiwi_size_chart_recommender_kiwi_sizing_FjwYzD",
         "variant_picker",
