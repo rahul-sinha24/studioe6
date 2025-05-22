@@ -230,8 +230,8 @@
         "image_DiRcbG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SE-Desktop2.jpg",
-            "mobile_image": "shopify://shop_images/SE-Mobile2.jpg",
+            "image": "shopify://shop_images/ST-1.jpg",
+            "mobile_image": "shopify://shop_images/ST4.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
