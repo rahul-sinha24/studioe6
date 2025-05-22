@@ -28,6 +28,10 @@
             "show_taxes_notice": true
           }
         },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -39,11 +43,6 @@
             "collapse_content": false,
             "show_below_gallery": false
           }
-        },
-        "separator": {
-          "type": "separator",
-          "disabled": true,
-          "settings": {}
         },
         "kiwi_size_chart_recommender_kiwi_sizing_FjwYzD": {
           "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
@@ -170,9 +169,9 @@
         "vendor",
         "title",
         "price",
+        "separator",
         "payment_terms",
         "description",
-        "separator",
         "kiwi_size_chart_recommender_kiwi_sizing_FjwYzD",
         "variant_picker",
         "quantity_selector",
