@@ -68,22 +68,24 @@
     "multiple_media_with_text_jMbtCw": {
       "type": "multiple-media-with-text",
       "blocks": {
-        "image_Dgn777": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        },
         "image_fPdNcF": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/MM2159_85cef327-25e8-4d2e-807f-4c26a60054fc.jpg",
+            "rotation": 0
+          }
+        },
+        "image_Dgn777": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SG-lachapelle-11-03-259509.jpg",
             "rotation": 0
           }
         }
       },
       "block_order": [
-        "image_Dgn777",
-        "image_fPdNcF"
+        "image_fPdNcF",
+        "image_Dgn777"
       ],
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
       "settings": {
@@ -92,7 +94,7 @@
         "separate_section_with_border": false,
         "media_position_desktop": "after_text",
         "media_position_mobile": "before_text",
-        "media_layout": "overlap",
+        "media_layout": "separated",
         "media_alignment": "center",
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
