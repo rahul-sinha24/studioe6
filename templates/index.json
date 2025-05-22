@@ -96,7 +96,8 @@
         "image_UkicdU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Artboard_5_1.png",
+            "image": "shopify://shop_images/st3.jpg",
+            "mobile_image": "shopify://shop_images/st6.jpg",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
