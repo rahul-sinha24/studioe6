@@ -54,6 +54,7 @@
         },
         "liquid_7GGJ7X": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<!-- START KiwiSizing code !-->\n  <div id=\"KiwiSizingChart\" \n    data-sizing-id=\"62684116\"\n    data-display-mode=\"1\"\n    data-recommender-display-mode=\"1\"\n    data-layout-type=\"0\">\n  </div>\n<!-- END KiwiSizing code !-->"
           }
