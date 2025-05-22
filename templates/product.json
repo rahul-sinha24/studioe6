@@ -103,7 +103,7 @@
             "show_below_gallery": false,
             "icon": "picto-target",
             "title": "Designer's Customization",
-            "content": "<p>Love the design but want a different<strong>color</strong>,<strong>neckline</strong>,<strong>or sleeve style</strong>? Our designers offer limited customization to make your outfit truly yours.<br/>Simply reach out to us after placing your order to discuss your preferences!<br/>WhatsApp or Email Us.</p>",
+            "content": "<p>Love the design but want a different <strong>color</strong>, <strong>neckline</strong>, <strong>or sleeve style</strong>? Our designers offer limited customization to make your outfit truly yours.<br/>Simply reach out to us after placing your order to discuss your preferences!<br/>WhatsApp or Email Us.</p>",
             "liquid": "",
             "page": ""
           }
@@ -136,7 +136,7 @@
             "show_below_gallery": false,
             "icon": "picto-info",
             "title": "Disclaimer",
-            "content": "<p>Please note that slight variations in color, texture, and embellishments may occur due to lighting, photography, and handcrafted techniques. These are not defects but part of the uniqueness of each outfit.<br/>Custom and made-to-order pieces are<strong>non-returnableand non-refundable</strong>.</p>",
+            "content": "<p>Please note that slight variations in color, texture, and embellishments may occur due to lighting, photography, and handcrafted techniques. These are not defects but part of the uniqueness of each outfit.<br/>Custom and made-to-order pieces are <strong>non-returnable and non-refundable</strong>.</p>",
             "liquid": "",
             "page": ""
           }
