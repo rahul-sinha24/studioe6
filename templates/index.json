@@ -831,7 +831,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "engagement",
             "image": "shopify://shop_images/TT3FEB-9469_900x_jpg.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -848,7 +848,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "wedding",
             "image": "shopify://shop_images/TTSEPT-150_900x_jpg.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -882,7 +882,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "haldi-mehendi",
             "image": "shopify://shop_images/RM--Yellow_Organza_Multicoloured_Embroidered_Lehenga_1600x_jpg.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
@@ -899,7 +899,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "reception",
             "image": "shopify://shop_images/Untitled_design.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
