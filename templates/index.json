@@ -474,7 +474,7 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "saris-1",
+            "collection": "sarees",
             "image": "shopify://shop_images/saree.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
