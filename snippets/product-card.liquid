@@ -147,9 +147,13 @@ Supported variables
               </a>
             {%- endif -%}
 
+            {% if product.tags contains 'hide_price' %}
+            <!-- Hide prices -->
+            {% else %}
             {%- if show_prices -%}
               {%- render 'price-list', product: product, context: 'card' -%}
             {%- endif -%}
+            {% endif %}
           </div>
         {%- endif -%}
       </div>
