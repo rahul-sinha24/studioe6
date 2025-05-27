@@ -197,6 +197,15 @@ Nothing
   {%- endif -%}
 {%- endif -%}
 
+{% style %}
+  {% if product.tags contains 'hide_price' %}
+  {% else %}
+  .predictive-search__products price-list.price-list {
+    display: none;
+  }
+  {% endif %}
+{% endstyle %}
+
 {% schema %}
 {
   "name": "t:sections.predictive_search.predictive_search"
