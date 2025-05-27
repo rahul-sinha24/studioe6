@@ -136,7 +136,8 @@
       {% endstyle %}
     {% endif %}
     {% style %}
-  {% if product.tags contains 'hide_price' %}
+    {% if product.tags contains 'hide_price' %}
+      /* Hide price */
     {% else %}
     .predictive-search__products price-list.price-list {
       display: none;
